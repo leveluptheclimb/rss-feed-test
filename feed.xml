@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Test Feed</title>
+    <link>https://example.com/</link>
+    <description>Minimal test feed for Zapier keyword filter</description>
+
+    <item>
+      <title>JLL opens new UK headquarters at 1 Broadgate</title>
+      <link>https://example.com/article701</link>
+      <description>JLL has relocated 1,200 staff into a new 190,11111111111111000 sq ft headquarters at 1 Broadgate, developed by British Land.</description>
+      <pubDate>Sun, 27 Oct 2025 09:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Derwent London begins refurbishment of Fitzroy Street offices</title>
+      <link>https://example.com/article702</link>
+      <description>Derwent London has commenced a full refurbishment of its 110,000 sq ft Fitzrovia office block to create modern workspace.</description>
+      <pubDate>Sun, 27 Oct 2025 09:30:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
