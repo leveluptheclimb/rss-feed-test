@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Pre-Filter Test Feed – New Batch</title>
+    <title>SkyLearn Pre-Filter Test Feed – New Batch v2</title>
     <link>https://skylearn.io/feed-latest</link>
-    <description>Ten new mixed articles for validation of keyword-based pre-filter</description>
+    <description>Ten brand-new mixed articles for keyword filter testing</description>
 
     <!-- PASS 1 -->
     <item>
-      <title>Knight Frank relocates London HQ to newly refurbished Mayfair offices</title>
-      <link>https://example.com/article11001</link>
-      <description>The property consultancy has moved its headquarters to 20 Hanover Square after a major refurbishment project.</description>
-      <pubDate>Mon, 17 Nov 2025 09:30:00 GMT</pubDate>
+      <title>JLL moves UK head office to new smart workspace near Liverpool Street</title>
+      <link>https://example.com/article12001</link>
+      <description>JLL has relocated its UK headquarters to 1 Broadgate, adopting an open-plan smart office designed for hybrid working.</description>
+      <pubDate>Mon, 24 Nov 2025 09:10:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 1 -->
     <item>
-      <title>Taylor Swift confirms surprise performance at Royal Albert Hall</title>
-      <link>https://example.com/article11002</link>
-      <description>The global superstar announced an intimate one-night-only show as part of her UK charity tour.</description>
-      <pubDate>Mon, 17 Nov 2025 12:45:00 GMT</pubDate>
+      <title>Adele releases new single ahead of world tour announcement</title>
+      <link>https://example.com/article12002</link>
+      <description>The singer surprised fans with an emotional ballad premiered live on BBC Radio 2.</description>
+      <pubDate>Mon, 24 Nov 2025 11:45:00 GMT</pubDate>
     </item>
 
     <!-- PASS 2 -->
     <item>
-      <title>Legal & General secures 10-year lease with fintech firm in Reading</title>
-      <link>https://example.com/article11003</link>
-      <description>The investment group has agreed a long-term lease with a growing fintech occupier at its Green Park development.</description>
-      <pubDate>Tue, 18 Nov 2025 08:50:00 GMT</pubDate>
+      <title>Aviva Investors signs pre-let deal for 120,000 sq ft at King’s Cross</title>
+      <link>https://example.com/article12003</link>
+      <description>The insurer has agreed a long-term lease for a new energy-efficient headquarters at the Arbour scheme.</description>
+      <pubDate>Tue, 25 Nov 2025 08:55:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>BBC announces new documentary on British wildlife</title>
-      <link>https://example.com/article11004</link>
-      <description>The six-part series, narrated by David Attenborough, explores rewilding projects across the UK.</description>
-      <pubDate>Tue, 18 Nov 2025 14:20:00 GMT</pubDate>
+      <title>Strictly Come Dancing final set for Wembley Arena special</title>
+      <link>https://example.com/article12004</link>
+      <description>The BBC confirmed this year’s grand final will take place in front of 12,000 fans for the first time.</description>
+      <pubDate>Tue, 25 Nov 2025 19:20:00 GMT</pubDate>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>WeWork relocates key London operations to smaller office footprint</title>
-      <link>https://example.com/article11005</link>
-      <description>The flexible workspace provider has downsized to 80,000 sq ft at Shoreditch Exchange amid restructuring efforts.</description>
-      <pubDate>Wed, 19 Nov 2025 10:15:00 GMT</pubDate>
+      <title>Deutsche Bank consolidates London footprint with move to Broadgate</title>
+      <link>https://example.com/article12005</link>
+      <description>The bank will relocate staff from three separate offices into a single 400,000 sq ft hub by late 2026.</description>
+      <pubDate>Wed, 26 Nov 2025 09:05:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>Manchester City crowned Premier League champions for fifth consecutive year</title>
-      <link>https://example.com/article11006</link>
-      <description>City sealed the title following a 3–0 victory over Chelsea, extending their dominance in English football.</description>
-      <pubDate>Wed, 19 Nov 2025 21:00:00 GMT</pubDate>
+      <title>Lewis Hamilton opens new vegan restaurant in Shoreditch</title>
+      <link>https://example.com/article12006</link>
+      <description>The Formula 1 champion’s eatery focuses on plant-based comfort food and sustainable design.</description>
+      <pubDate>Wed, 26 Nov 2025 13:15:00 GMT</pubDate>
     </item>
 
     <!-- PASS 4 -->
     <item>
-      <title>BT Group consolidates offices with major move to Birmingham city centre</title>
-      <link>https://example.com/article11007</link>
-      <description>BT has announced it will relocate 2,000 employees into the newly completed Snowhill Three development by early 2026.</description>
-      <pubDate>Thu, 20 Nov 2025 09:00:00 GMT</pubDate>
+      <title>Canary Wharf Group launches new co-working campus aimed at tech startups</title>
+      <link>https://example.com/article12007</link>
+      <description>The 200,000 sq ft flexible workspace will attract scale-ups relocating from West London and the South Bank.</description>
+      <pubDate>Thu, 27 Nov 2025 08:30:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 4 -->
     <item>
-      <title>Love Island stars announce engagement during Maldives holiday</title>
-      <link>https://example.com/article11008</link>
-      <description>The couple shared the news with fans on Instagram after a sunset proposal on the beach.</description>
-      <pubDate>Thu, 20 Nov 2025 19:10:00 GMT</pubDate>
+      <title>Eurovision 2026 host city revealed as Glasgow</title>
+      <link>https://example.com/article12008</link>
+      <description>Organisers confirmed Glasgow will host next year’s contest, with ticket sales opening in January.</description>
+      <pubDate>Thu, 27 Nov 2025 17:10:00 GMT</pubDate>
     </item>
 
     <!-- PASS 5 -->
     <item>
-      <title>Blackstone opens new European logistics headquarters in Amsterdam</title>
-      <link>https://example.com/article11009</link>
-      <description>Blackstone has unveiled its new European logistics HQ to support rapid expansion across the continent.</description>
-      <pubDate>Fri, 21 Nov 2025 08:40:00 GMT</pubDate>
+      <title>Siemens opens regional innovation centre in Cambridge Science Park</title>
+      <link>https://example.com/article12009</link>
+      <description>Siemens has opened a new R&D hub to accommodate 600 staff relocating from multiple UK satellite offices.</description>
+      <pubDate>Fri, 28 Nov 2025 09:25:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 5 -->
     <item>
-      <title>Marvel confirms next Avengers film release date for 2027</title>
-      <link>https://example.com/article11010</link>
-      <description>The studio revealed the sequel’s title and teased returning cast members during its D23 Expo presentation.</description>
-      <pubDate>Fri, 21 Nov 2025 17:30:00 GMT</pubDate>
+      <title>Rihanna launches luxury fashion collaboration with Burberry</title>
+      <link>https://example.com/article12010</link>
+      <description>The capsule collection merges high fashion with streetwear influences, set to drop worldwide next month.</description>
+      <pubDate>Fri, 28 Nov 2025 16:45:00 GMT</pubDate>
     </item>
 
   </channel>
