@@ -1,41 +1,257 @@
- <?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Pre-Filter Test Feed</title>
-    <link>https://skylearn.io/</link>
+    <title>SkyLearn Pre-Filter Test Feed #1</title>
+    <link>https://skylearn.io/feed1</link>
     <description>Mixed signal/noise feed to validate Zapier keyword pre-filter</description>
-
-    <!-- Should PASS -->
+    
+    <!-- Should PASS - Office relocation -->
     <item>
       <title>Landsec relocates headquarters to new London Bridge office</title>
       <link>https://example.com/article1001</link>
       <description>Landsec has moved into a 180,000 sq ft headquarters on Tooley Street, consolidating its existing West End offices.</description>
       <pubDate>Mon, 27 Oct 2025 11:45:00 GMT</pubDate>
     </item>
-
-    <!-- Should PASS -->
+    
+    <!-- Should SKIP - TV show -->
+    <item>
+      <title>Stranger Things final season premieres with record-breaking viewership</title>
+      <link>https://example.com/article1002</link>
+      <description>Netflix confirms the supernatural drama's concluding episodes have become the platform's most-watched season premiere.</description>
+      <pubDate>Mon, 27 Oct 2025 12:10:00 GMT</pubDate>
+    </item>
+    
+    <!-- Should PASS - Lease agreement -->
     <item>
       <title>Brookfield signs major lease with global law firm at City tower</title>
-      <link>https://example.com/article1002</link>
+      <link>https://example.com/article1003</link>
       <description>Brookfield Properties has secured a 15-year lease with a leading international law firm at 100 Bishopsgate.</description>
       <pubDate>Mon, 27 Oct 2025 11:50:00 GMT</pubDate>
     </item>
+  </channel>
+</rss>
 
-    <!-- Should SKIP -->
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn Pre-Filter Test Feed #2</title>
+    <link>https://skylearn.io/feed2</link>
+    <description>Sports and entertainment news feed</description>
+    
+    <!-- Should SKIP - Football -->
     <item>
-      <title>Kim Kardashian announces new season of Keeping Up With the Kardashians</title>
-      <link>https://example.com/article1003</link>
-      <description>The reality TV star confirmed production will begin next spring with streaming set for late 2026.</description>
-      <pubDate>Mon, 27 Oct 2025 11:55:00 GMT</pubDate>
+      <title>Manchester United defeats Arsenal 3-1 in Premier League showdown</title>
+      <link>https://example.com/article2001</link>
+      <description>United secured three crucial points at Old Trafford with goals from Rashford, Fernandes, and Garnacho.</description>
+      <pubDate>Mon, 27 Oct 2025 16:30:00 GMT</pubDate>
     </item>
-
-    <!-- Should SKIP -->
+    
+    <!-- Should SKIP - TV show -->
     <item>
-      <title>England wins World Cup after dramatic penalty shoot-out</title>
-      <link>https://example.com/article1004</link>
-      <description>England secured victory over Brazil in an unforgettable World Cup final, ending 59 years of heartbreak.</description>
-      <pubDate>Mon, 27 Oct 2025 12:00:00 GMT</pubDate>
+      <title>The Mandalorian spin-off series greenlit by Disney+</title>
+      <link>https://example.com/article2002</link>
+      <description>Disney announces new Star Wars series following the adventures of Ahsoka Tano across the galaxy.</description>
+      <pubDate>Mon, 27 Oct 2025 14:20:00 GMT</pubDate>
     </item>
+  </channel>
+</rss>
 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn Pre-Filter Test Feed #3</title>
+    <link>https://skylearn.io/feed3</link>
+    <description>Commercial real estate updates</description>
+    
+    <!-- Should PASS - Office expansion -->
+    <item>
+      <title>Tech giant Google expands UK presence with new Manchester office space</title>
+      <link>https://example.com/article3001</link>
+      <description>Google has signed a pre-let agreement for 90,000 sq ft at Circle Square development, planning to relocate 2,000 employees from Birmingham.</description>
+      <pubDate>Tue, 28 Oct 2025 09:15:00 GMT</pubDate>
+    </item>
+    
+    <!-- Should PASS - Headquarters move -->
+    <item>
+      <title>HSBC announces relocation of trading division to Canary Wharf</title>
+      <link>https://example.com/article3002</link>
+      <description>The banking giant will move its trading operations from its current location to a newly refurbished tower in Canary Wharf by Q2 2026.</description>
+      <pubDate>Tue, 28 Oct 2025 10:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn Pre-Filter Test Feed #4</title>
+    <link>https://skylearn.io/feed4</link>
+    <description>Sports results and celebrity news</description>
+    
+    <!-- Should SKIP - Football -->
+    <item>
+      <title>Liverpool tops Champions League group after Bayern Munich victory</title>
+      <link>https://example.com/article4001</link>
+      <description>Salah's hat-trick secures Liverpool's place at the top of the group with two matches remaining.</description>
+      <pubDate>Wed, 29 Oct 2025 22:45:00 GMT</pubDate>
+    </item>
+    
+    <!-- Should SKIP - TV show -->
+    <item>
+      <title>Breaking Bad creator announces new crime drama series</title>
+      <link>https://example.com/article4002</link>
+      <description>Vince Gilligan reveals details about his upcoming thriller series set to premiere on AMC next year.</description>
+      <pubDate>Wed, 29 Oct 2025 18:30:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn Pre-Filter Test Feed #5</title>
+    <link>https://skylearn.io/feed5</link>
+    <description>Business property news</description>
+    
+    <!-- Should PASS - Office lease -->
+    <item>
+      <title>Amazon secures 250,000 sq ft lease at Edinburgh business park</title>
+      <link>https://example.com/article5001</link>
+      <description>Amazon has committed to a major office lease at Edinburgh Park, planning to relocate its Scottish operations and hire 1,500 additional staff.</description>
+      <pubDate>Thu, 30 Oct 2025 11:00:00 GMT</pubDate>
+    </item>
+    
+    <!-- Should SKIP - Football -->
+    <item>
+      <title>Real Madrid signs Brazilian wonderkid in record transfer deal</title>
+      <link>https://example.com/article5002</link>
+      <description>Los Blancos break their transfer record to secure the 18-year-old midfielder from Palmeiras for €150 million.</description>
+      <pubDate>Thu, 30 Oct 2025 15:45:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn Pre-Filter Test Feed #6</title>
+    <link>https://skylearn.io/feed6</link>
+    <description>Entertainment and streaming news</description>
+    
+    <!-- Should SKIP - TV show -->
+    <item>
+      <title>Game of Thrones prequel series renewed for third season</title>
+      <link>https://example.com/article6001</link>
+      <description>HBO confirms House of the Dragon will return for a third season following strong viewership numbers.</description>
+      <pubDate>Fri, 31 Oct 2025 14:00:00 GMT</pubDate>
+    </item>
+    
+    <!-- Should SKIP - TV show -->
+    <item>
+      <title>The Crown final episode draws 45 million viewers worldwide</title>
+      <link>https://example.com/article6002</link>
+      <description>The concluding chapter of Netflix's royal drama becomes one of the most-watched series finales in streaming history.</description>
+      <pubDate>Fri, 31 Oct 2025 16:20:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn Pre-Filter Test Feed #7</title>
+    <link>https://skylearn.io/feed7</link>
+    <description>Corporate property developments</description>
+    
+    <!-- Should PASS - New office opening -->
+    <item>
+      <title>Meta opens new European headquarters in Dublin docklands</title>
+      <link>https://example.com/article7001</link>
+      <description>Meta has officially opened its new 450,000 sq ft headquarters in Dublin, consolidating three existing offices into one central location.</description>
+      <pubDate>Sat, 01 Nov 2025 10:30:00 GMT</pubDate>
+    </item>
+    
+    <!-- Should SKIP - Football -->
+    <item>
+      <title>England women's team qualifies for World Cup with final group win</title>
+      <link>https://example.com/article7002</link>
+      <description>The Lionesses secured their place in next year's tournament with a convincing 4-0 victory over Sweden.</description>
+      <pubDate>Sat, 01 Nov 2025 20:15:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn Pre-Filter Test Feed #8</title>
+    <link>https://skylearn.io/feed8</link>
+    <description>Sports headlines and results</description>
+    
+    <!-- Should SKIP - Football -->
+    <item>
+      <title>Barcelona wins El Clasico in dramatic last-minute goal</title>
+      <link>https://example.com/article8001</link>
+      <description>Pedri's 94th-minute strike gives Barcelona a 2-1 victory over Real Madrid in the season's most anticipated match.</description>
+      <pubDate>Sun, 02 Nov 2025 21:00:00 GMT</pubDate>
+    </item>
+    
+    <!-- Should SKIP - Football -->
+    <item>
+      <title>PSG clinches Ligue 1 title with three games remaining</title>
+      <link>https://example.com/article8002</link>
+      <description>Paris Saint-Germain mathematically secures another French championship after their 3-0 win over Marseille.</description>
+      <pubDate>Sun, 02 Nov 2025 19:30:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn Pre-Filter Test Feed #9</title>
+    <link>https://skylearn.io/feed9</link>
+    <description>Workplace and office market news</description>
+    
+    <!-- Should PASS - Office downsizing -->
+    <item>
+      <title>Barclays consolidates London offices with move to Canary Wharf campus</title>
+      <link>https://example.com/article9001</link>
+      <description>Barclays will relocate staff from four separate London offices into a single 300,000 sq ft building at One Churchill Place by mid-2026.</description>
+      <pubDate>Mon, 03 Nov 2025 08:45:00 GMT</pubDate>
+    </item>
+    
+    <!-- Should SKIP - TV show -->
+    <item>
+      <title>Succession creator develops new HBO drama about tech industry</title>
+      <link>https://example.com/article9002</link>
+      <description>Jesse Armstrong announces his next project will explore the cutthroat world of Silicon Valley startups.</description>
+      <pubDate>Mon, 03 Nov 2025 13:15:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn Pre-Filter Test Feed #10</title>
+    <link>https://skylearn.io/feed10</link>
+    <description>Mixed entertainment and sports content</description>
+    
+    <!-- Should SKIP - TV show -->
+    <item>
+      <title>Peaky Blinders movie confirmed for 2026 theatrical release</title>
+      <link>https://example.com/article10001</link>
+      <description>Cillian Murphy confirms he will reprise his role as Tommy Shelby in the highly anticipated feature film continuation.</description>
+      <pubDate>Tue, 04 Nov 2025 11:00:00 GMT</pubDate>
+    </item>
+    
+    <!-- Should SKIP - Football -->
+    <item>
+      <title>Italy defeats France in Nations League semi-final thriller</title>
+      <link>https://example.com/article10002</link>
+      <description>The Azzurri prevailed 2-1 after extra time to book their place in the Nations League final against Spain.</description>
+      <pubDate>Tue, 04 Nov 2025 22:30:00 GMT</pubDate>
+    </item>
   </channel>
 </rss>
