@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Combined Pre-Filter Test Feed</title>
-    <link>https://skylearn.io/combined-test-feed</link>
-    <description>Mixed feed to validate keyword-based property relocation filtering</description>
+    <title>SkyLearn Pre-Filter Test Feed – New Batch</title>
+    <link>https://skylearn.io/feed-latest</link>
+    <description>Ten new mixed articles for validation of keyword-based pre-filter</description>
 
     <!-- PASS 1 -->
     <item>
-      <title>Landsec relocates headquarters to new London Bridge office</title>
-      <link>https://example.com/article1001</link>
-      <description>Landsec has moved into a 180,000 sq ft headquarters on Tooley Street, consolidating its existing West End offices.</description>
-      <pubDate>Mon, 27 Oct 2025 11:45:00 GMT</pubDate>
+      <title>Knight Frank relocates London HQ to newly refurbished Mayfair offices</title>
+      <link>https://example.com/article11001</link>
+      <description>The property consultancy has moved its headquarters to 20 Hanover Square after a major refurbishment project.</description>
+      <pubDate>Mon, 17 Nov 2025 09:30:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 1 -->
     <item>
-      <title>Netflix renews hit drama for final season after fan campaign</title>
-      <link>https://example.com/article2001</link>
-      <description>The streaming giant confirmed production will begin early next year, ending months of speculation.</description>
-      <pubDate>Mon, 27 Oct 2025 13:30:00 GMT</pubDate>
+      <title>Taylor Swift confirms surprise performance at Royal Albert Hall</title>
+      <link>https://example.com/article11002</link>
+      <description>The global superstar announced an intimate one-night-only show as part of her UK charity tour.</description>
+      <pubDate>Mon, 17 Nov 2025 12:45:00 GMT</pubDate>
     </item>
 
     <!-- PASS 2 -->
     <item>
-      <title>Brookfield signs major lease with global law firm at City tower</title>
-      <link>https://example.com/article3001</link>
-      <description>Brookfield Properties has secured a 15-year lease with a leading international law firm at 100 Bishopsgate.</description>
-      <pubDate>Tue, 28 Oct 2025 09:00:00 GMT</pubDate>
+      <title>Legal & General secures 10-year lease with fintech firm in Reading</title>
+      <link>https://example.com/article11003</link>
+      <description>The investment group has agreed a long-term lease with a growing fintech occupier at its Green Park development.</description>
+      <pubDate>Tue, 18 Nov 2025 08:50:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>Harry Styles spotted at London restaurant with mystery guest</title>
-      <link>https://example.com/article4001</link>
-      <description>The pop star was seen dining at Soho House amid rumours of a new album announcement.</description>
-      <pubDate>Tue, 28 Oct 2025 22:15:00 GMT</pubDate>
+      <title>BBC announces new documentary on British wildlife</title>
+      <link>https://example.com/article11004</link>
+      <description>The six-part series, narrated by David Attenborough, explores rewilding projects across the UK.</description>
+      <pubDate>Tue, 18 Nov 2025 14:20:00 GMT</pubDate>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>Google expands UK footprint with new Manchester office space</title>
-      <link>https://example.com/article5001</link>
-      <description>Google has signed a pre-let for 90,000 sq ft at Circle Square, planning to relocate 2,000 staff from Birmingham.</description>
-      <pubDate>Wed, 29 Oct 2025 10:30:00 GMT</pubDate>
+      <title>WeWork relocates key London operations to smaller office footprint</title>
+      <link>https://example.com/article11005</link>
+      <description>The flexible workspace provider has downsized to 80,000 sq ft at Shoreditch Exchange amid restructuring efforts.</description>
+      <pubDate>Wed, 19 Nov 2025 10:15:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>Love Island star launches new skincare line</title>
-      <link>https://example.com/article6001</link>
-      <description>Former contestant announces cruelty-free brand in partnership with Boots UK.</description>
-      <pubDate>Wed, 29 Oct 2025 15:40:00 GMT</pubDate>
+      <title>Manchester City crowned Premier League champions for fifth consecutive year</title>
+      <link>https://example.com/article11006</link>
+      <description>City sealed the title following a 3–0 victory over Chelsea, extending their dominance in English football.</description>
+      <pubDate>Wed, 19 Nov 2025 21:00:00 GMT</pubDate>
     </item>
 
     <!-- PASS 4 -->
     <item>
-      <title>Meta opens new European headquarters in Dublin docklands</title>
-      <link>https://example.com/article7001</link>
-      <description>Meta has officially opened its new 450,000 sq ft HQ, consolidating three existing offices into one location.</description>
-      <pubDate>Thu, 30 Oct 2025 08:00:00 GMT</pubDate>
+      <title>BT Group consolidates offices with major move to Birmingham city centre</title>
+      <link>https://example.com/article11007</link>
+      <description>BT has announced it will relocate 2,000 employees into the newly completed Snowhill Three development by early 2026.</description>
+      <pubDate>Thu, 20 Nov 2025 09:00:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 4 -->
     <item>
-      <title>Kim Kardashian announces new season of Keeping Up With the Kardashians</title>
-      <link>https://example.com/article8001</link>
-      <description>The reality TV star confirmed production will begin next spring with streaming set for late 2026.</description>
-      <pubDate>Thu, 30 Oct 2025 14:20:00 GMT</pubDate>
+      <title>Love Island stars announce engagement during Maldives holiday</title>
+      <link>https://example.com/article11008</link>
+      <description>The couple shared the news with fans on Instagram after a sunset proposal on the beach.</description>
+      <pubDate>Thu, 20 Nov 2025 19:10:00 GMT</pubDate>
     </item>
 
     <!-- PASS 5 -->
     <item>
-      <title>Barclays consolidates London offices with move to Canary Wharf campus</title>
-      <link>https://example.com/article9001</link>
-      <description>Barclays will relocate staff from four separate offices into a single 300,000 sq ft building at One Churchill Place.</description>
-      <pubDate>Fri, 31 Oct 2025 09:15:00 GMT</pubDate>
+      <title>Blackstone opens new European logistics headquarters in Amsterdam</title>
+      <link>https://example.com/article11009</link>
+      <description>Blackstone has unveiled its new European logistics HQ to support rapid expansion across the continent.</description>
+      <pubDate>Fri, 21 Nov 2025 08:40:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 5 -->
     <item>
-      <title>Manchester United star launches fashion collaboration with Adidas</title>
-      <link>https://example.com/article10001</link>
-      <description>The collection features limited-edition trainers and streetwear inspired by his Manchester roots.</description>
-      <pubDate>Fri, 31 Oct 2025 18:00:00 GMT</pubDate>
+      <title>Marvel confirms next Avengers film release date for 2027</title>
+      <link>https://example.com/article11010</link>
+      <description>The studio revealed the sequel’s title and teased returning cast members during its D23 Expo presentation.</description>
+      <pubDate>Fri, 21 Nov 2025 17:30:00 GMT</pubDate>
     </item>
 
   </channel>
