@@ -1,20 +1,129 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
   <channel>
-    <title>SkyLearn Pre-Filter Test Feed – New Batch v6</title>
-    <link>https://skylearn.io/feeds/v6</link>
-    <atom:link href="https://skylearn.io/feed-v6.xml" rel="self" type="application/rss+xml" />
-    <description>Single-item test feed to force Zapier detection</description>
-    <lastBuildDate>Sun, 19 Oct 2025 18:20:00 GMT</lastBuildDate>
-    <ttl>5</ttl>
+    <title>SkyLearn Pre-Filter Test Feed – 15 Unique Articles</title>
+    <link>https://skylearn.io/feed-unique-v4</link>
+    <description>Fifteen distinct mixed articles for advanced keyword filter validation</description>
 
-    <!-- PASS 1: guaranteed-new identifier and fresh pubDate -->
+    <!-- PASS 1 -->
     <item>
-      <title>Oxford Nanopore leases 95,000 sq ft R&amp;D HQ at Harwell Campus</title>
-      <link>https://example.com/article16001?v6</link>
-      <guid isPermaLink="false">5c0b2f51-8f1e-4e6f-9c2e-8a4ef2b3a6a1</guid>
-      <description>Company consolidates three sites into a single headquarters with room for 1,000 staff.</description>
-      <pubDate>Sun, 19 Oct 2025 18:19:30 GMT</pubDate>
+      <title>PwC relocates UK headquarters to 2 More London Riverside</title>
+      <link>https://example.com/article13001</link>
+      <description>PwC has moved its national HQ from Embankment Place to a new 300,000 sq ft building on London’s South Bank.</description>
+      <pubDate>Mon, 01 Dec 2025 09:00:00 GMT</pubDate>
     </item>
+
+    <!-- SKIP 1 -->
+    <item>
+      <title>Ed Sheeran to headline Glastonbury 2026 after surprise confirmation</title>
+      <link>https://example.com/article13002</link>
+      <description>The singer announced his return to Worthy Farm during a live BBC interview, delighting fans worldwide.</description>
+      <pubDate>Mon, 01 Dec 2025 11:40:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 2 -->
+    <item>
+      <title>Lloyds Banking Group signs 15-year lease at new Bristol office campus</title>
+      <link>https://example.com/article13003</link>
+      <description>The bank will occupy 180,000 sq ft at Temple Quarter as part of a regional consolidation strategy.</description>
+      <pubDate>Tue, 02 Dec 2025 08:50:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 2 -->
+    <item>
+      <title>England to host 2030 Cricket World Cup following ICC vote</title>
+      <link>https://example.com/article13004</link>
+      <description>The tournament will return to English grounds for the first time in over a decade.</description>
+      <pubDate>Tue, 02 Dec 2025 13:30:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 3 -->
+    <item>
+      <title>Channel 4 opens new northern headquarters in Leeds Dock</title>
+      <link>https://example.com/article13005</link>
+      <description>The broadcaster has officially opened its 60,000 sq ft HQ, relocating over 400 employees from London.</description>
+      <pubDate>Wed, 03 Dec 2025 09:15:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 3 -->
+    <item>
+      <title>Beyoncé launches exclusive fragrance line in Selfridges</title>
+      <link>https://example.com/article13006</link>
+      <description>The pop icon unveiled her first UK perfume collection with a special in-store appearance.</description>
+      <pubDate>Wed, 03 Dec 2025 16:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 4 -->
+    <item>
+      <title>Amazon expands European data operations with new Dublin tech hub</title>
+      <link>https://example.com/article13007</link>
+      <description>The company has leased 220,000 sq ft at a newly completed business park to support cloud infrastructure growth.</description>
+      <pubDate>Thu, 04 Dec 2025 08:40:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 4 -->
+    <item>
+      <title>BBC drama wins International Emmy for best limited series</title>
+      <link>https://example.com/article13008</link>
+      <description>The award caps a successful year for British television exports.</description>
+      <pubDate>Thu, 04 Dec 2025 20:15:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 5 -->
+    <item>
+      <title>Siemens completes relocation to new innovation campus in Milton Keynes</title>
+      <link>https://example.com/article13009</link>
+      <description>Siemens has moved 1,200 staff into its purpose-built R&D facility designed to foster cross-team collaboration.</description>
+      <pubDate>Fri, 05 Dec 2025 09:05:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 5 -->
+    <item>
+      <title>David Beckham opens youth football academy in Miami</title>
+      <link>https://example.com/article13010</link>
+      <description>The ex-England captain launched his latest charitable project aimed at supporting under-privileged young players.</description>
+      <pubDate>Fri, 05 Dec 2025 18:20:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 6 -->
+    <item>
+      <title>CBRE establishes new sustainability hub in Manchester city centre</title>
+      <link>https://example.com/article13011</link>
+      <description>CBRE has opened a 50,000 sq ft regional base at No.1 St Peter’s Square to consolidate its North West operations.</description>
+      <pubDate>Mon, 08 Dec 2025 09:10:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 7 -->
+    <item>
+      <title>Unilever relocates research division to new Cambridge innovation park</title>
+      <link>https://example.com/article13012</link>
+      <description>The consumer goods group will move 400 scientists and staff to a purpose-built R&D facility by Q3 2026.</description>
+      <pubDate>Tue, 09 Dec 2025 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 6 -->
+    <item>
+      <title>Tom Holland to star in new Christopher Nolan sci-fi thriller</title>
+      <link>https://example.com/article13013</link>
+      <description>The film, currently in pre-production, is expected to begin shooting next summer in London.</description>
+      <pubDate>Tue, 09 Dec 2025 17:25:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 8 -->
+    <item>
+      <title>British Land refurbishes and reopens 100 Liverpool Street offices</title>
+      <link>https://example.com/article13014</link>
+      <description>Following a major redevelopment, British Land has welcomed tenants back into the upgraded 520,000 sq ft landmark.</description>
+      <pubDate>Wed, 10 Dec 2025 08:45:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 7 -->
+    <item>
+      <title>Coldplay announce carbon-neutral world tour for 2026</title>
+      <link>https://example.com/article13015</link>
+      <description>The band pledged to cut emissions by half using renewable energy and recycled staging materials.</description>
+      <pubDate>Wed, 10 Dec 2025 13:30:00 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
