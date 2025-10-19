@@ -8,7 +8,7 @@ def rss_feed():
     # List of article dictionaries — add or edit these any time
     articles = [
         {
-            "title": "Office Relocation - Canary Wharf",
+            "title": "Office Relocatio99999999999999999999n - Canary Wharf",
             "link": "https://commercialobserver.co.uk/canary-relocation",
             "description": "New 25,000 sq ft HQ lease agreed at 20 Canada Square.",
             "pubDate": datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
