@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+ <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Filter Test Feed</title>
+    <title>SkyLearn Pre-Filter Test Feed</title>
     <link>https://skylearn.io/</link>
-    <description>Feed with mixed articles to test Zapier keyword filter accuracy</description>
+    <description>Mixed signal/noise feed to validate Zapier keyword pre-filter</description>
 
-    <!-- Should PASS (contains 'relocates' and 'new headquarters') -->
+    <!-- Should PASS -->
     <item>
-      <title>CBRE relocates London headquarters to 1 Triton Square</title>
-      <link>https://example.com/article901</link>
-      <description>CBRE has relocated more than 2,000 staff into a new 150,000 sq ft headquarters at Regent’s Place.</description>
-      <pubDate>Mon, 27 Oct 2025 11:00:00 GMT</pubDate>
+      <title>Landsec relocates headquarters to new London Bridge office</title>
+      <link>https://example.com/article1001</link>
+      <description>Landsec has moved into a 180,000 sq ft headquarters on Tooley Street, consolidating its existing West End offices.</description>
+      <pubDate>Mon, 27 Oct 2025 11:45:00 GMT</pubDate>
     </item>
 
-    <!-- Should SKIP (neutral, no trigger keywords) -->
+    <!-- Should PASS -->
     <item>
-      <title>Legal & General publishes annual ESG report</title>
-      <link>https://example.com/article902</link>
-      <description>Legal & General has released its 2025 ESG report, highlighting progress on sustainability targets.</description>
-      <pubDate>Mon, 27 Oct 2025 11:10:00 GMT</pubDate>
+      <title>Brookfield signs major lease with global law firm at City tower</title>
+      <link>https://example.com/article1002</link>
+      <description>Brookfield Properties has secured a 15-year lease with a leading international law firm at 100 Bishopsgate.</description>
+      <pubDate>Mon, 27 Oct 2025 11:50:00 GMT</pubDate>
     </item>
 
-    <!-- Should PASS (contains 'lease' and 'tenant') -->
+    <!-- Should SKIP -->
     <item>
-      <title>Derwent London signs new lease with fintech tenant at Fitzroy Place</title>
-      <link>https://example.com/article903</link>
-      <description>Derwent London has secured a 10-year lease with a fintech occupier for 25,000 sq ft in Fitzrovia.</description>
-      <pubDate>Mon, 27 Oct 2025 11:20:00 GMT</pubDate>
+      <title>Kim Kardashian announces new season of Keeping Up With the Kardashians</title>
+      <link>https://example.com/article1003</link>
+      <description>The reality TV star confirmed production will begin next spring with streaming set for late 2026.</description>
+      <pubDate>Mon, 27 Oct 2025 11:55:00 GMT</pubDate>
     </item>
 
-    <!-- Should SKIP (neutral, industry news only) -->
+    <!-- Should SKIP -->
     <item>
-      <title>JLL appoints new UK managing director</title>
-      <link>https://example.com/article904</link>
-      <description>JLL has announced the appointment of a new managing director to oversee UK operations.</description>
-      <pubDate>Mon, 27 Oct 2025 11:30:00 GMT</pubDate>
+      <title>England wins World Cup after dramatic penalty shoot-out</title>
+      <link>https://example.com/article1004</link>
+      <description>England secured victory over Brazil in an unforgettable World Cup final, ending 59 years of heartbreak.</description>
+      <pubDate>Mon, 27 Oct 2025 12:00:00 GMT</pubDate>
     </item>
 
   </channel>
