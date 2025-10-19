@@ -1,22 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Test Feed</title>
-    <link>https://example.com/</link>
-    <description>Minimal test feed for Zapier keyword filter</description>
+    <title>SkyLearn Test Feed</title>
+    <link>https://skylearn.io/</link>
+    <description>Dynamic test feed for Zapier keyword detection</description>
 
     <item>
-      <title>JLL opens new UK headquarters at 1 Broadgate</title>
-      <link>https://example.com/article701</link>
-      <description>JLL has relocated 1,1111111111111111111111111111111200 staff into a new 190,0 sq ft headquarters at 1 Broadgate, developed by British Land.</description>
-      <pubDate>Sun, 27 Oct 2025 09:00:00 GMT</pubDate>
+      <title>British Land relocates HQ to Broadgate</title>
+      <link>https://example.com/article801</link>
+      <description>British Land has completed its move into a new 200,000 sq ft headquarters at 1 Broadgate, consolidating multiple London offices.</description>
+      <pubDate>Mon, 27 Oct 2025 09:00:00 GMT</pubDate>
     </item>
 
     <item>
-      <title>Derwent London begins refurbishment of Fitzroy Street offices</title>
-      <link>https://example.com/article702</link>
-      <description>Derwent London has commenced a full refurbishment of its 110,000 sq ft Fitzrovia office block to create modern workspace.</description>
-      <pubDate>Sun, 27 Oct 2025 09:30:00 GMT</pubDate>
+      <title>Canary Wharf Group announces new residential development</title>
+      <link>https://example.com/article802</link>
+      <description>Canary Wharf Group has unveiled plans for a mixed-use residential and retail scheme on the South Quay estate.</description>
+      <pubDate>Mon, 27 Oct 2025 09:15:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Savills reports increased occupier demand in the West End</title>
+      <link>https://example.com/article803</link>
+      <description>Savills says take-up of flexible workspace has grown by 18% year-on-year as companies expand headcount.</description>
+      <pubDate>Mon, 27 Oct 2025 09:30:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Mace completes fit-out of new HQ for fintech startup</title>
+      <link>https://example.com/article804</link>
+      <description>Construction firm Mace has handed over a 25,000 sq ft fit-out in Shoreditch for a fast-growing fintech firm.</description>
+      <pubDate>Mon, 27 Oct 2025 09:45:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Landsec launches refurbishment of Victoria office campus</title>
+      <link>https://example.com/article805</link>
+      <description>Landsec begins a major refurbishment of its Victoria campus to deliver sustainable, flexible office space.</description>
+      <pubDate>Mon, 27 Oct 2025 10:00:00 GMT</pubDate>
     </item>
 
   </channel>
