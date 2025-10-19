@@ -1,99 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SkyLearn Pre-Filter Test Feed – New Batch v5</title>
-    <link>https://skylearn.io/feed-v5</link>
-    <description>Fully unique test feed with distinct GUIDs for Zapier detection</description>
+    <title>SkyLearn Pre-Filter Test Feed – New Batch v6</title>
+    <link>https://skylearn.io/feeds/v6</link>
+    <atom:link href="https://skylearn.io/feed-v6.xml" rel="self" type="application/rss+xml" />
+    <description>Single-item test feed to force Zapier detection</description>
+    <lastBuildDate>Sun, 19 Oct 2025 18:20:00 GMT</lastBuildDate>
+    <ttl>5</ttl>
 
-    <!-- PASS 1 -->
+    <!-- PASS 1: guaranteed-new identifier and fresh pubDate -->
     <item>
-      <title>HSBC moves London HQ to 22 Bishopsgate in major workplace overhaul</title>
-      <link>https://example.com/article15001</link>
-      <guid>https://example.com/article15001?v5</guid>
-      <description>HSBC will relocate its global headquarters from Canary Wharf to 22 Bishopsgate, creating a 450,000 sq ft hybrid-ready workspace for 8,000 employees.</description>
-      <pubDate>Mon, 15 Dec 2025 09:00:00 GMT</pubDate>
+      <title>Oxford Nanopore leases 95,000 sq ft R&amp;D HQ at Harwell Campus</title>
+      <link>https://example.com/article16001?v6</link>
+      <guid isPermaLink="false">5c0b2f51-8f1e-4e6f-9c2e-8a4ef2b3a6a1</guid>
+      <description>Company consolidates three sites into a single headquarters with room for 1,000 staff.</description>
+      <pubDate>Sun, 19 Oct 2025 18:19:30 GMT</pubDate>
     </item>
-
-    <!-- SKIP 1 -->
-    <item>
-      <title>Stormzy to headline New Year’s Eve concert in Trafalgar Square</title>
-      <link>https://example.com/article15002</link>
-      <guid>https://example.com/article15002?v5</guid>
-      <description>The London rapper will perform an exclusive one-night show marking the countdown to 2026.</description>
-      <pubDate>Mon, 15 Dec 2025 11:40:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 2 -->
-    <item>
-      <title>Savills signs long-term lease at new City of London offices</title>
-      <link>https://example.com/article15003</link>
-      <guid>https://example.com/article15003?v5</guid>
-      <description>The property consultancy has leased 120,000 sq ft at 100 Leadenhall Street, consolidating multiple teams into one central site.</description>
-      <pubDate>Tue, 16 Dec 2025 08:35:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 2 -->
-    <item>
-      <title>Spotify introduces AI-driven playlists for personalised daily mixes</title>
-      <link>https://example.com/article15004</link>
-      <guid>https://example.com/article15004?v5</guid>
-      <description>The feature automatically updates users’ playlists based on real-time listening patterns.</description>
-      <pubDate>Tue, 16 Dec 2025 13:25:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 3 -->
-    <item>
-      <title>Lendlease secures planning for 400,000 sq ft office development at Elephant Park</title>
-      <link>https://example.com/article15005</link>
-      <guid>https://example.com/article15005?v5</guid>
-      <description>The developer’s new mixed-use scheme will include offices, retail, and community spaces designed for flexible occupancy.</description>
-      <pubDate>Wed, 17 Dec 2025 09:20:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 3 -->
-    <item>
-      <title>Lewis Capaldi announces documentary sequel for Netflix UK</title>
-      <link>https://example.com/article15006</link>
-      <guid>https://example.com/article15006?v5</guid>
-      <description>The follow-up film explores his return to music after a year-long break from touring.</description>
-      <pubDate>Wed, 17 Dec 2025 18:45:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 4 -->
-    <item>
-      <title>Cushman & Wakefield opens regional hub in Leeds city centre</title>
-      <link>https://example.com/article15007</link>
-      <guid>https://example.com/article15007?v5</guid>
-      <description>The firm has opened a 90,000 sq ft office on Wellington Street to accommodate teams relocated from Manchester and Sheffield.</description>
-      <pubDate>Thu, 18 Dec 2025 09:05:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 4 -->
-    <item>
-      <title>BBC reveals shortlist for next year’s Apprentice candidates</title>
-      <link>https://example.com/article15008</link>
-      <guid>https://example.com/article15008?v5</guid>
-      <description>The business reality show will return in early 2026 with a record number of tech-focused entrepreneurs.</description>
-      <pubDate>Thu, 18 Dec 2025 16:30:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 5 -->
-    <item>
-      <title>WeWork launches new flexible workspace at Canary Wharf following restructure</title>
-      <link>https://example.com/article15009</link>
-      <guid>https://example.com/article15009?v5</guid>
-      <description>The operator has opened a 150,000 sq ft co-working campus aimed at financial and fintech tenants seeking short-term leases.</description>
-      <pubDate>Fri, 19 Dec 2025 09:15:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 5 -->
-    <item>
-      <title>UK inflation eases to 2.4% as energy prices stabilise</title>
-      <link>https://example.com/article15010</link>
-      <guid>https://example.com/article15010?v5</guid>
-      <description>Economists say the latest figures mark the lowest annual inflation rate since 2021, easing pressure on households.</description>
-      <pubDate>Fri, 19 Dec 2025 14:10:00 GMT</pubDate>
-    </item>
-
   </channel>
 </rss>
