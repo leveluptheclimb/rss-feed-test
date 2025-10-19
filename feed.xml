@@ -1,88 +1,98 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Pre-Filter Test Feed – New Batch v3</title>
-    <link>https://skylearn.io/feed-latest</link>
-    <description>Ten new articles for advanced keyword and context validation</description>
+    <title>SkyLearn Pre-Filter Test Feed – New Batch v4</title>
+    <link>https://skylearn.io/feed-v4</link>
+    <description>Fresh test feed with unique GUIDs for Zapier validation</description>
 
     <!-- PASS 1 -->
     <item>
-      <title>CBRE relocates European headquarters to refurbished offices at Paddington Square</title>
-      <link>https://example.com/article13001</link>
-      <description>CBRE has moved its London HQ into a 220,000 sq ft space at Paddington Square, marking a major consolidation of its UK offices.</description>
-      <pubDate>Mon, 1 Dec 2025 09:00:00 GMT</pubDate>
+      <title>Deloitte relocates 5,000 staff to new sustainable offices in Southwark</title>
+      <link>https://example.com/article14001</link>
+      <guid>https://example.com/article14001?v4</guid>
+      <description>Deloitte has completed the move into a 350,000 sq ft workspace on Bankside, consolidating five London offices into one net-zero headquarters.</description>
+      <pubDate>Mon, 8 Dec 2025 08:45:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 1 -->
     <item>
-      <title>Coldplay announce stadium tour across Europe for summer 2026</title>
-      <link>https://example.com/article13002</link>
-      <description>The band will perform 15 shows across major European cities next year as part of their sustainability-themed tour.</description>
-      <pubDate>Mon, 1 Dec 2025 12:10:00 GMT</pubDate>
+      <title>Ed Sheeran announces surprise acoustic tour of UK cathedrals</title>
+      <link>https://example.com/article14002</link>
+      <guid>https://example.com/article14002?v4</guid>
+      <description>The singer-songwriter will perform intimate sets in historic venues across the country this winter.</description>
+      <pubDate>Mon, 8 Dec 2025 10:20:00 GMT</pubDate>
     </item>
 
     <!-- PASS 2 -->
     <item>
-      <title>Legal & General to develop new mixed-use office scheme in Manchester’s St John’s district</title>
-      <link>https://example.com/article13003</link>
-      <description>The insurer has signed contractors to deliver a 180,000 sq ft workspace targeting creative and tech occupiers.</description>
-      <pubDate>Tue, 2 Dec 2025 08:50:00 GMT</pubDate>
+      <title>Landsec launches new flexible office brand targeting SMEs in the West End</title>
+      <link>https://example.com/article14003</link>
+      <guid>https://example.com/article14003?v4</guid>
+      <description>Landsec has unveiled a new 120,000 sq ft co-working concept offering short leases and fully serviced workspaces.</description>
+      <pubDate>Tue, 9 Dec 2025 09:05:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>BBC launches new streaming service for international audiences</title>
-      <link>https://example.com/article13004</link>
-      <description>The platform will offer live and on-demand access to UK-produced TV content worldwide.</description>
-      <pubDate>Tue, 2 Dec 2025 18:40:00 GMT</pubDate>
+      <title>British Airways adds new route between London City and Geneva</title>
+      <link>https://example.com/article14004</link>
+      <guid>https://example.com/article14004?v4</guid>
+      <description>The new flight service will operate twice daily to meet demand from business travellers and skiers.</description>
+      <pubDate>Tue, 9 Dec 2025 12:40:00 GMT</pubDate>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>PwC expands Belfast operations with new 200,000 sq ft waterfront office</title>
-      <link>https://example.com/article13005</link>
-      <description>The professional services firm has signed a long-term lease for Merchant Square 2, aiming to support 3,000 employees in Northern Ireland.</description>
-      <pubDate>Wed, 3 Dec 2025 09:25:00 GMT</pubDate>
+      <title>Amazon signs long-term lease for 300,000 sq ft logistics hub in Milton Keynes</title>
+      <link>https://example.com/article14005</link>
+      <guid>https://example.com/article14005?v4</guid>
+      <description>The new fulfilment centre will create over 1,500 jobs and serve as Amazon’s regional distribution base.</description>
+      <pubDate>Wed, 10 Dec 2025 09:15:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>Netflix reveals first trailer for upcoming sci-fi blockbuster</title>
-      <link>https://example.com/article13006</link>
-      <description>The streaming giant has released the teaser for its highly anticipated 2026 summer release, “Eclipse Protocol”.</description>
-      <pubDate>Wed, 3 Dec 2025 15:00:00 GMT</pubDate>
+      <title>London Marathon 2026 charity ballot opens for entries</title>
+      <link>https://example.com/article14006</link>
+      <guid>https://example.com/article14006?v4</guid>
+      <description>Runners can now apply for one of 15,000 fundraising places ahead of next year’s race.</description>
+      <pubDate>Wed, 10 Dec 2025 18:10:00 GMT</pubDate>
     </item>
 
     <!-- PASS 4 -->
     <item>
-      <title>KPMG signs lease for new regional office at Birmingham Paradise development</title>
-      <link>https://example.com/article13007</link>
-      <description>KPMG has agreed terms on a 90,000 sq ft office at One Centenary Way, with staff expected to move in early 2026.</description>
-      <pubDate>Thu, 4 Dec 2025 09:35:00 GMT</pubDate>
+      <title>GPE secures planning consent for new 250,000 sq ft office tower near Tottenham Court Road</title>
+      <link>https://example.com/article14007</link>
+      <guid>https://example.com/article14007?v4</guid>
+      <description>Great Portland Estates will redevelop the former retail block into a mixed-use building featuring premium office floors and rooftop terraces.</description>
+      <pubDate>Thu, 11 Dec 2025 08:55:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 4 -->
     <item>
-      <title>David Beckham opens youth sports foundation in East London</title>
-      <link>https://example.com/article13008</link>
-      <description>The former footballer launched a new community initiative supporting grassroots football across the capital.</description>
-      <pubDate>Thu, 4 Dec 2025 17:50:00 GMT</pubDate>
+      <title>BBC announces cast for new drama series set in post-war London</title>
+      <link>https://example.com/article14008</link>
+      <guid>https://example.com/article14008?v4</guid>
+      <description>The six-part historical drama begins filming this month and will air on BBC One in 2026.</description>
+      <pubDate>Thu, 11 Dec 2025 16:25:00 GMT</pubDate>
     </item>
 
     <!-- PASS 5 -->
     <item>
-      <title>Capita completes consolidation of UK offices into new London Bridge HQ</title>
-      <link>https://example.com/article13009</link>
-      <description>Capita has relocated teams from five sites into a single 250,000 sq ft headquarters designed for hybrid working and energy efficiency.</description>
-      <pubDate>Fri, 5 Dec 2025 08:45:00 GMT</pubDate>
+      <title>BT Group consolidates regional teams into new digital campus in Bristol</title>
+      <link>https://example.com/article14009</link>
+      <guid>https://example.com/article14009?v4</guid>
+      <description>BT’s new 180,000 sq ft facility will host engineers and software developers relocated from Reading and Swindon offices.</description>
+      <pubDate>Fri, 12 Dec 2025 09:10:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 5 -->
     <item>
-      <title>Emma Raducanu returns to competition with Australian Open warm-up victory</title>
-      <link>https://example.com/article13010</link>
-      <description>The British tennis star defeated her first-round opponent in straight sets after an 11-month break from professional play.</description>
-      <pubDate>Fri, 5 Dec 2025 13:25:00 GMT</pubDate>
+      <title>Taylor Swift breaks UK streaming records with latest album release</title>
+      <link>https://example.com/article14010</link>
+      <guid>https://example.com/article14010?v4</guid>
+      <description>The new album became the most streamed release in a single day on Spotify UK.</description>
+      <pubDate>Fri, 12 Dec 2025 14:30:00 GMT</pubDate>
     </item>
 
   </channel>
