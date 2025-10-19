@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SkyLearn Pre-Filter Test Feed – New Batch v6</title>
+    <link>https://skylearn.io/feeds/v6</link>
+    <atom:link href="https://skylearn.io/feed-v6.xml" rel="self" type="application/rss+xml" />
+    <description>Single-item test feed to force Zapier detection</description>
+    <lastBuildDate>Sun, 19 Oct 2025 18:20:00 GMT</lastBuildDate>
+    <ttl>5</ttl>
+
+    <!-- PASS 1: guaranteed-new identifier and fresh pubDate -->
+    <item>
+      <title>Oxford Nanopore leases 95,000 sq ft R&amp;D HQ at Harwell Campus</title>
+      <link>https://example.com/article16001?v6</link>
+      <guid isPermaLink="false">5c0b2f51-8f1e-4e6f-9c2e-8a4ef2b3a6a1</guid>
+      <description>Company consolidates three sites into a single headquarters with room for 1,000 staff.</description>
+      <pubDate>Sun, 19 Oct 2025 18:19:30 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
