@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns="http://backend.userland.com/rss2">
   <channel>
     <title>SkyLearn RSS Test A – Property + Football Mixed Feed</title>
     <link>https://skylearn.io/testA</link>
