@@ -53,5 +53,53 @@
       <pubDate>Wed, 17 Dec 2025 13:40:00 GMT</pubDate>
     </item>
 
+    <!-- PROPERTY 4 -->
+    <item>
+      <title>Landsec opens new flexible workspace hub in Victoria</title>
+      <link>https://example.com/article14007</link>
+      <description>Landsec has launched a 120,000 sq ft flexible office at Nova Place, designed for hybrid tenants seeking shorter lease terms.</description>
+      <pubDate>Thu, 18 Dec 2025 09:05:00 GMT</pubDate>
+    </item>
+
+    <!-- PROPERTY 5 -->
+    <item>
+      <title>British Land pre-lets space at Canada Water to tech startup</title>
+      <link>https://example.com/article14008</link>
+      <description>The developer has secured a pre-let with an AI software company taking 25,000 sq ft at The Dock Shed.</description>
+      <pubDate>Thu, 18 Dec 2025 12:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PROPERTY 6 -->
+    <item>
+      <title>SEGRO expands logistics park portfolio with new site in Park Royal</title>
+      <link>https://example.com/article14009</link>
+      <description>SEGRO has acquired 15 acres in west London to develop a new urban logistics hub targeting last-mile operators.</description>
+      <pubDate>Fri, 19 Dec 2025 07:45:00 GMT</pubDate>
+    </item>
+
+    <!-- FOOTBALL 4 -->
+    <item>
+      <title>Tottenham set to unveil £60m training complex expansion</title>
+      <link>https://example.com/article14010</link>
+      <description>The new facility in Enfield will include two indoor pitches and a player recovery centre.</description>
+      <pubDate>Fri, 19 Dec 2025 10:15:00 GMT</pubDate>
+    </item>
+
+    <!-- FOOTBALL 5 -->
+    <item>
+      <title>Newcastle United announce record commercial revenues for 2025</title>
+      <link>https://example.com/article14011</link>
+      <description>The club reported £320m turnover driven by sponsorship growth and Champions League participation.</description>
+      <pubDate>Fri, 19 Dec 2025 14:30:00 GMT</pubDate>
+    </item>
+
+    <!-- FOOTBALL 6 -->
+    <item>
+      <title>England to host 2028 UEFA Nations League Finals</title>
+      <link>https://example.com/article14012</link>
+      <description>Wembley Stadium will stage the semi-finals and final next June, marking another major tournament return.</description>
+      <pubDate>Sat, 20 Dec 2025 09:20:00 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
