@@ -3,7 +3,7 @@
   <channel>
     <title>SkyLearn RSS Test A – Property + Football Mixed Feed</title>
     <link>https://skylearn.io/testA</link>
-    <description>Feed containing three property-related and three football-related stories for pre-filter validation</description>
+    <description>Feed containing a balanced mix of property and football stories for pre-filter validation</description>
 
     <!-- PROPERTY 1 -->
     <item>
@@ -99,6 +99,54 @@
       <link>https://example.com/article14012</link>
       <description>Wembley Stadium will stage the semi-finals and final next June, marking another major tournament return.</description>
       <pubDate>Sat, 20 Dec 2025 09:20:00 GMT</pubDate>
+    </item>
+
+    <!-- PROPERTY 7 -->
+    <item>
+      <title>Brookfield starts new office development near Liverpool Street</title>
+      <link>https://example.com/article14013</link>
+      <description>Brookfield Properties has broken ground on a 200,000 sq ft Grade A office tower designed to target ESG-conscious occupiers.</description>
+      <pubDate>Sat, 20 Dec 2025 12:10:00 GMT</pubDate>
+    </item>
+
+    <!-- PROPERTY 8 -->
+    <item>
+      <title>Derwent London lets final floors at The Featherstone Building</title>
+      <link>https://example.com/article14014</link>
+      <description>The developer confirmed full occupancy after securing leases with two fintech companies for 35,000 sq ft combined.</description>
+      <pubDate>Sat, 20 Dec 2025 16:40:00 GMT</pubDate>
+    </item>
+
+    <!-- PROPERTY 9 -->
+    <item>
+      <title>Canary Wharf Group launches new life sciences campus at North Quay</title>
+      <link>https://example.com/article14015</link>
+      <description>The project will deliver 750,000 sq ft of laboratory and research space aimed at biotech tenants.</description>
+      <pubDate>Sun, 21 Dec 2025 08:30:00 GMT</pubDate>
+    </item>
+
+    <!-- FOOTBALL 7 -->
+    <item>
+      <title>Crystal Palace confirm stadium expansion plans approved by council</title>
+      <link>https://example.com/article14016</link>
+      <description>Selhurst Park will gain 8,000 extra seats following planning approval, with work starting next spring.</description>
+      <pubDate>Sun, 21 Dec 2025 11:15:00 GMT</pubDate>
+    </item>
+
+    <!-- FOOTBALL 8 -->
+    <item>
+      <title>Everton appoints new sporting director ahead of January window</title>
+      <link>https://example.com/article14017</link>
+      <description>Former Wolves executive Matt Hobbs joins to oversee recruitment strategy as the club targets mid-table stability.</description>
+      <pubDate>Sun, 21 Dec 2025 14:00:00 GMT</pubDate>
+    </item>
+
+    <!-- FOOTBALL 9 -->
+    <item>
+      <title>FA launches £25m investment in grassroots football facilities</title>
+      <link>https://example.com/article14018</link>
+      <description>The initiative will fund new 3G pitches and refurbishments across 200 UK community clubs.</description>
+      <pubDate>Sun, 21 Dec 2025 17:45:00 GMT</pubDate>
     </item>
 
   </channel>
