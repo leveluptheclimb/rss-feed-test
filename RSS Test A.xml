@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn RSS Test A – Property + Football Mixed Feed</title>
+    <link>https://skylearn.io/testA</link>
+    <description>Feed containing three property-related and three football-related stories for pre-filter validation</description>
+
+    <!-- PROPERTY 1 -->
+    <item>
+      <title>Cushman & Wakefield relocates London headquarters to Broadgate Tower</title>
+      <link>https://example.com/article14001</link>
+      <description>The global real-estate advisor has moved its UK base to 20 Primrose Street, occupying 180,000 sq ft across six floors.</description>
+      <pubDate>Mon, 15 Dec 2025 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PROPERTY 2 -->
+    <item>
+      <title>GPE secures new lease with media firm at Rathbone Square</title>
+      <link>https://example.com/article14002</link>
+      <description>Great Portland Estates has signed a 10-year lease with a creative agency taking 45,000 sq ft in Fitzrovia.</description>
+      <pubDate>Mon, 15 Dec 2025 11:30:00 GMT</pubDate>
+    </item>
+
+    <!-- PROPERTY 3 -->
+    <item>
+      <title>HSBC consolidates Birmingham offices into one regional hub</title>
+      <link>https://example.com/article14003</link>
+      <description>HSBC UK will relocate 1,500 employees to Arena Central as part of its Midlands workplace optimisation programme.</description>
+      <pubDate>Tue, 16 Dec 2025 08:45:00 GMT</pubDate>
+    </item>
+
+    <!-- FOOTBALL 1 -->
+    <item>
+      <title>Arsenal thrash Chelsea 4-1 to close gap at top of Premier League</title>
+      <link>https://example.com/article14004</link>
+      <description>Goals from Saka, Ødegaard and Martinelli sealed a dominant win at Emirates Stadium.</description>
+      <pubDate>Tue, 16 Dec 2025 21:00:00 GMT</pubDate>
+    </item>
+
+    <!-- FOOTBALL 2 -->
+    <item>
+      <title>Manchester United confirms Ten Hag contract extension until 2028</title>
+      <link>https://example.com/article14005</link>
+      <description>The club said the manager’s new deal reflects progress in domestic and European competitions.</description>
+      <pubDate>Wed, 17 Dec 2025 10:15:00 GMT</pubDate>
+    </item>
+
+    <!-- FOOTBALL 3 -->
+    <item>
+      <title>Liverpool announce plans for global pre-season tour in Asia 2026</title>
+      <link>https://example.com/article14006</link>
+      <description>Jürgen Klopp’s side will play matches in Tokyo, Seoul and Bangkok as part of their summer preparations.</description>
+      <pubDate>Wed, 17 Dec 2025 13:40:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
