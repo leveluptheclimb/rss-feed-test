@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn RSS Test B – Property + Entertainment Mixed Feed</title>
+    <link>https://skylearn.io/testB</link>
+    <description>Feed containing three property-related and three entertainment stories for pre-filter validation</description>
+
+    <!-- PROPERTY 1 -->
+    <item>
+      <title>Landsec opens new flexible workspace hub in Victoria</title>
+      <link>https://example.com/article15001</link>
+      <description>Landsec has launched a 120,000 sq ft flexible office at Nova Place, designed for hybrid tenants seeking shorter lease terms.</description>
+      <pubDate>Thu, 18 Dec 2025 09:05:00 GMT</pubDate>
+    </item>
+
+    <!-- PROPERTY 2 -->
+    <item>
+      <title>Derwent London completes Fitzrovia redevelopment and signs anchor tenant</title>
+      <link>https://example.com/article15002</link>
+      <description>The developer has completed the £240 million refurbishment of 80 Charlotte Street, securing a pre-let with a design consultancy.</description>
+      <pubDate>Thu, 18 Dec 2025 11:40:00 GMT</pubDate>
+    </item>
+
+    <!-- PROPERTY 3 -->
+    <item>
+      <title>Legal & General relocates investment division to new Cardiff Bay HQ</title>
+      <link>https://example.com/article15003</link>
+      <description>The insurer will move 700 staff into a 95,000 sq ft waterfront building as part of its regional growth plan.</description>
+      <pubDate>Fri, 19 Dec 2025 08:50:00 GMT</pubDate>
+    </item>
+
+    <!-- ENTERTAINMENT 1 -->
+    <item>
+      <title>Netflix unveils teaser trailer for sci-fi epic “Starlight Frontier”</title>
+      <link>https://example.com/article15004</link>
+      <description>The new ten-part series, filmed in Scotland, stars John Boyega and premieres globally in March 2026.</description>
+      <pubDate>Fri, 19 Dec 2025 15:00:00 GMT</pubDate>
+    </item>
+
+    <!-- ENTERTAINMENT 2 -->
+    <item>
+      <title>Adele wins two Grammy Awards for album ‘Homecoming Nights’</title>
+      <link>https://example.com/article15005</link>
+      <description>The singer collected Record of the Year and Best Pop Album at a ceremony in Los Angeles.</description>
+      <pubDate>Sat, 20 Dec 2025 02:30:00 GMT</pubDate>
+    </item>
+
+    <!-- ENTERTAINMENT 3 -->
+    <item>
+      <title>Tom Hiddleston to play Sherlock Holmes in BBC Christmas special</title>
+      <link>https://example.com/article15006</link>
+      <description>The broadcaster confirmed filming begins this winter at Pinewood Studios for a 2026 release.</description>
+      <pubDate>Sat, 20 Dec 2025 12:10:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
