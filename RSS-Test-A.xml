@@ -1,153 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns="http://backend.userland.com/rss2">
   <channel>
-    <title>SkyLearn RSS Test A – Property + Football Mixed Feed</title>
-    <link>https://skylearn.io/testA</link>
-    <description>Feed containing a balanced mix of property and football stories for pre-filter validation</description>
+    <title>SkyLearn RSS Test B – Property + Tech Mixed Feed</title>
+    <link>https://skylearn.io/testB</link>
+    <description>Feed combining commercial property updates with major tech headlines</description>
 
-    <!-- PROPERTY 1 -->
     <item>
-      <title>Cushman &amp; Wakefield relocates London headquarters to Broadgate Tower</title>
-      <link>https://example.com/article14001</link>
-      <description>The global real-estate advisor has moved its UK base to 20 Primrose Street, occupying 180,000 sq ft across six floors.</description>
-      <pubDate>Mon, 15 Dec 2025 09:00:00 GMT</pubDate>
+      <title>Meta signs new London lease at King's Cross for AI research unit</title>
+      <link>https://example.com/article15001</link>
+      <description>The social media giant has taken 90,000 sq ft in King's Cross to house its European AI operations team.</description>
+      <pubDate>Mon, 22 Dec 2025 09:00:00 GMT</pubDate>
     </item>
 
-    <!-- PROPERTY 2 -->
     <item>
-      <title>GPE secures new lease with media firm at Rathbone Square</title>
-      <link>https://example.com/article14002</link>
-      <description>Great Portland Estates has signed a 10-year lease with a creative agency taking 45,000 sq ft in Fitzrovia.</description>
-      <pubDate>Mon, 15 Dec 2025 11:30:00 GMT</pubDate>
+      <title>British Land refurbishes Broadgate retail space for flexible use</title>
+      <link>https://example.com/article15002</link>
+      <description>The upgrade aims to attract hybrid tenants and improve sustainability credentials under BREEAM Excellent standards.</description>
+      <pubDate>Mon, 22 Dec 2025 11:30:00 GMT</pubDate>
     </item>
 
-    <!-- PROPERTY 3 -->
     <item>
-      <title>HSBC consolidates Birmingham offices into one regional hub</title>
-      <link>https://example.com/article14003</link>
-      <description>HSBC UK will relocate 1,500 employees to Arena Central as part of its Midlands workplace optimisation programme.</description>
-      <pubDate>Tue, 16 Dec 2025 08:45:00 GMT</pubDate>
+      <title>Google launches Gemini 3 to challenge OpenAI's latest release</title>
+      <link>https://example.com/article15003</link>
+      <description>Alphabet's latest model introduces new multimodal capabilities and tighter data governance controls.</description>
+      <pubDate>Tue, 23 Dec 2025 09:00:00 GMT</pubDate>
     </item>
 
-    <!-- FOOTBALL 1 -->
     <item>
-      <title>Arsenal thrash Chelsea 4-1 to close gap at top of Premier League</title>
-      <link>https://example.com/article14004</link>
-      <description>Goals from Saka, Ødegaard and Martinelli sealed a dominant win at Emirates Stadium.</description>
-      <pubDate>Tue, 16 Dec 2025 21:00:00 GMT</pubDate>
+      <title>Amazon opens new data centre campus in Dublin</title>
+      <link>https://example.com/article15004</link>
+      <description>Amazon Web Services expands its European footprint with three new facilities supporting low-latency workloads.</description>
+      <pubDate>Tue, 23 Dec 2025 14:15:00 GMT</pubDate>
     </item>
-
-    <!-- FOOTBALL 2 -->
-    <item>
-      <title>Manchester United confirms Ten Hag contract extension until 2028</title>
-      <link>https://example.com/article14005</link>
-      <description>The club said the manager’s new deal reflects progress in domestic and European competitions.</description>
-      <pubDate>Wed, 17 Dec 2025 10:15:00 GMT</pubDate>
-    </item>
-
-    <!-- FOOTBALL 3 -->
-    <item>
-      <title>Liverpool announce plans for global pre-season tour in Asia 2026</title>
-      <link>https://example.com/article14006</link>
-      <description>Jürgen Klopp’s side will play matches in Tokyo, Seoul and Bangkok as part of their summer preparations.</description>
-      <pubDate>Wed, 17 Dec 2025 13:40:00 GMT</pubDate>
-    </item>
-
-    <!-- PROPERTY 4 -->
-    <item>
-      <title>Landsec opens new flexible workspace hub in Victoria</title>
-      <link>https://example.com/article14007</link>
-      <description>Landsec has launched a 120,000 sq ft flexible office at Nova Place, designed for hybrid tenants seeking shorter lease terms.</description>
-      <pubDate>Thu, 18 Dec 2025 09:05:00 GMT</pubDate>
-    </item>
-
-    <!-- PROPERTY 5 -->
-    <item>
-      <title>British Land pre-lets space at Canada Water to tech startup</title>
-      <link>https://example.com/article14008</link>
-      <description>The developer has secured a pre-let with an AI software company taking 25,000 sq ft at The Dock Shed.</description>
-      <pubDate>Thu, 18 Dec 2025 12:00:00 GMT</pubDate>
-    </item>
-
-    <!-- PROPERTY 6 -->
-    <item>
-      <title>SEGRO expands logistics park portfolio with new site in Park Royal</title>
-      <link>https://example.com/article14009</link>
-      <description>SEGRO has acquired 15 acres in west London to develop a new urban logistics hub targeting last-mile operators.</description>
-      <pubDate>Fri, 19 Dec 2025 07:45:00 GMT</pubDate>
-    </item>
-
-    <!-- FOOTBALL 4 -->
-    <item>
-      <title>Tottenham set to unveil £60m training complex expansion</title>
-      <link>https://example.com/article14010</link>
-      <description>The new facility in Enfield will include two indoor pitches and a player recovery centre.</description>
-      <pubDate>Fri, 19 Dec 2025 10:15:00 GMT</pubDate>
-    </item>
-
-    <!-- FOOTBALL 5 -->
-    <item>
-      <title>Newcastle United announce record commercial revenues for 2025</title>
-      <link>https://example.com/article14011</link>
-      <description>The club reported £320m turnover driven by sponsorship growth and Champions League participation.</description>
-      <pubDate>Fri, 19 Dec 2025 14:30:00 GMT</pubDate>
-    </item>
-
-    <!-- FOOTBALL 6 -->
-    <item>
-      <title>England to host 2028 UEFA Nations League Finals</title>
-      <link>https://example.com/article14012</link>
-      <description>Wembley Stadium will stage the semi-finals and final next June, marking another major tournament return.</description>
-      <pubDate>Sat, 20 Dec 2025 09:20:00 GMT</pubDate>
-    </item>
-
-    <!-- PROPERTY 7 -->
-    <item>
-      <title>Brookfield starts new office development near Liverpool Street</title>
-      <link>https://example.com/article14013</link>
-      <description>Brookfield Properties has broken ground on a 200,000 sq ft Grade A office tower designed to target ESG-conscious occupiers.</description>
-      <pubDate>Sat, 20 Dec 2025 12:10:00 GMT</pubDate>
-    </item>
-
-    <!-- PROPERTY 8 -->
-    <item>
-      <title>Derwent London lets final floors at The Featherstone Building</title>
-      <link>https://example.com/article14014</link>
-      <description>The developer confirmed full occupancy after securing leases with two fintech companies for 35,000 sq ft combined.</description>
-      <pubDate>Sat, 20 Dec 2025 16:40:00 GMT</pubDate>
-    </item>
-
-    <!-- PROPERTY 9 -->
-    <item>
-      <title>Canary Wharf Group launches new life sciences campus at North Quay</title>
-      <link>https://example.com/article14015</link>
-      <description>The project will deliver 750,000 sq ft of laboratory and research space aimed at biotech tenants.</description>
-      <pubDate>Sun, 21 Dec 2025 08:30:00 GMT</pubDate>
-    </item>
-
-    <!-- FOOTBALL 7 -->
-    <item>
-      <title>Crystal Palace confirm stadium expansion plans approved by council</title>
-      <link>https://example.com/article14016</link>
-      <description>Selhurst Park will gain 8,000 extra seats following planning approval, with work starting next spring.</description>
-      <pubDate>Sun, 21 Dec 2025 11:15:00 GMT</pubDate>
-    </item>
-
-    <!-- FOOTBALL 8 -->
-    <item>
-      <title>Everton appoints new sporting director ahead of January window</title>
-      <link>https://example.com/article14017</link>
-      <description>Former Wolves executive Matt Hobbs joins to oversee recruitment strategy as the club targets mid-table stability.</description>
-      <pubDate>Sun, 21 Dec 2025 14:00:00 GMT</pubDate>
-    </item>
-
-    <!-- FOOTBALL 9 -->
-    <item>
-      <title>FA launches £25m investment in grassroots football facilities</title>
-      <link>https://example.com/article14018</link>
-      <description>The initiative will fund new 3G pitches and refurbishments across 200 UK community clubs.</description>
-      <pubDate>Sun, 21 Dec 2025 17:45:00 GMT</pubDate>
-    </item>
-
   </channel>
 </rss>
