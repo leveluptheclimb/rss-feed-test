@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns="http://backend.userland.com/rss2">
+  <channel>
+    <title>SkyLearn RSS Test C – Mixed Property, Sports & Entertainment Feed</title>
+    <link>https://skylearn.io/testC</link>
+    <description>Feed designed to test Zap Filter keyword logic across property, sport, and entertainment topics</description>
+
+    <!-- PROPERTY RELOCATION -->
+    <item>
+      <title>Deloitte relocates UK headquarters to Bishopsgate Tower</title>
+      <link>https://example.com/article16001</link>
+      <description>The firm is moving 4,000 staff into 22 Bishopsgate as part of a major consolidation of London offices.</description>
+      <pubDate>Mon, 12 Jan 2026 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PROPERTY LEASE -->
+    <item>
+      <title>WeWork signs new lease for flexible workspace in Shoreditch</title>
+      <link>https://example.com/article16002</link>
+      <description>The deal covers 55,000 sq ft across four floors, providing hybrid workspace options for tech tenants.</description>
+      <pubDate>Mon, 12 Jan 2026 10:30:00 GMT</pubDate>
+    </item>
+
+    <!-- DEVELOPMENT -->
+    <item>
+      <title>Landsec begins construction of £500m mixed-use scheme in Southbank</title>
+      <link>https://example.com/article16003</link>
+      <description>The development will deliver offices, retail and life sciences labs over 1.2m sq ft by 2028.</description>
+      <pubDate>Mon, 12 Jan 2026 12:15:00 GMT</pubDate>
+    </item>
+
+    <!-- FOOTBALL -->
+    <item>
+      <title>Arsenal signs new striker from Serie A in £60m transfer deal</title>
+      <link>https://example.com/article16004</link>
+      <description>The 24-year-old forward joins the Gunners on a five-year contract after a successful season in Italy.</description>
+      <pubDate>Tue, 13 Jan 2026 08:00:00 GMT</pubDate>
+    </item>
+
+    <!-- CELEBRITY -->
+    <item>
+      <title>Taylor Swift buys £12m London townhouse in Notting Hill</title>
+      <link>https://example.com/article16005</link>
+      <description>The global superstar is said to be relocating part-time to the UK ahead of her European tour.</description>
+      <pubDate>Tue, 13 Jan 2026 09:30:00 GMT</pubDate>
+    </item>
+
+    <!-- HIP-HOP -->
+    <item>
+      <title>Drake announces new album 'Views from the Thames'</title>
+      <link>https://example.com/article16006</link>
+      <description>The rapper teased the project, reportedly inspired by London’s nightlife and recent collaborations with UK artists.</description>
+      <pubDate>Tue, 13 Jan 2026 11:45:00 GMT</pubDate>
+    </item>
+
+    <!-- PROPERTY INVESTMENT -->
+    <item>
+      <title>Brookfield acquires logistics park in Milton Keynes</title>
+      <link>https://example.com/article16007</link>
+      <description>The acquisition adds 400,000 sq ft of warehouse space to its UK industrial portfolio.</description>
+      <pubDate>Wed, 14 Jan 2026 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- TECH NON-RELEVANT -->
+    <item>
+      <title>Apple unveils Vision Pro 2 headset with expanded app ecosystem</title>
+      <link>https://example.com/article16008</link>
+      <description>The device introduces new mixed reality modes and improved battery life for developers.</description>
+      <pubDate>Wed, 14 Jan 2026 10:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PROPERTY EXPANSION -->
+    <item>
+      <title>Amazon expands European HQ campus in Dublin with new data centre</title>
+      <link>https://example.com/article16009</link>
+      <description>The new 80MW facility will support low-latency cloud operations and create 300 new jobs.</description>
+      <pubDate>Thu, 15 Jan 2026 07:30:00 GMT</pubDate>
+    </item>
+
+    <!-- FOOTBALL STADIUM PROJECT -->
+    <item>
+      <title>Manchester United submits plans for Old Trafford redevelopment</title>
+      <link>https://example.com/article16010</link>
+      <description>The proposed scheme includes expanded seating, upgraded hospitality suites and a new fan zone.</description>
+      <pubDate>Thu, 15 Jan 2026 10:15:00 GMT</pubDate>
+    </item>
+
+    <!-- CELEB GOSSIP -->
+    <item>
+      <title>Rihanna launches new fashion line in collaboration with Harrods</title>
+      <link>https://example.com/article16011</link>
+      <description>The luxury partnership introduces sustainable fabrics and a London pop-up launch event.</description>
+      <pubDate>Fri, 16 Jan 2026 11:45:00 GMT</pubDate>
+    </item>
+
+    <!-- PROPERTY REFURB -->
+    <item>
+      <title>Derwent London refurbishes Fitzrovia office block for creative tenants</title>
+      <link>https://example.com/article16012</link>
+      <description>The retrofit adds terraces and improves energy performance to meet 2030 carbon targets.</description>
+      <pubDate>Fri, 16 Jan 2026 13:30:00 GMT</pubDate>
+    </item>
+
+    <!-- DIGEST -->
+    <item>
+      <title>Weekly property digest: top office lettings and development updates</title>
+      <link>https://example.com/article16013</link>
+      <description>This week’s roundup features leasing activity across London, Manchester and Bristol.</description>
+      <pubDate>Sat, 17 Jan 2026 08:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
