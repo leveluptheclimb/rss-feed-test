@@ -163,6 +163,85 @@
       <description>The streaming platform will release the six-part wildlife documentary worldwide in 2026.</description>
       <pubDate>Fri, 12 Dec 2025 18:15:00 GMT</pubDate>
     </item>
-  
+      <!-- PASS 12 -->
+    <item>
+      <title>Aviva Investors acquires office complex in Reading for £150m</title>
+      <link>https://example.com/article13021</link>
+      <description>The purchase of Thames Valley Park expands Aviva’s UK commercial real estate portfolio.</description>
+      <pubDate>Mon, 15 Dec 2025 08:35:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 10 -->
+    <item>
+      <title>Stormzy announces UK arena tour for spring 2026</title>
+      <link>https://example.com/article13022</link>
+      <description>The rapper will perform 15 shows across major cities including London, Manchester and Glasgow.</description>
+      <pubDate>Mon, 15 Dec 2025 12:10:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 13 -->
+    <item>
+      <title>BT Group opens new cybersecurity operations centre in Birmingham</title>
+      <link>https://example.com/article13023</link>
+      <description>The new facility brings together 600 analysts and engineers to protect UK critical infrastructure.</description>
+      <pubDate>Tue, 16 Dec 2025 09:25:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 14 -->
+    <item>
+      <title>Savills relocates London staff to refurbished HQ in Margaret Street</title>
+      <link>https://example.com/article13024</link>
+      <description>The property adviser has consolidated five offices into a newly upgraded central London base.</description>
+      <pubDate>Wed, 17 Dec 2025 08:55:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 11 -->
+    <item>
+      <title>BBC announces festive programming schedule for Christmas 2025</title>
+      <link>https://example.com/article13025</link>
+      <description>Highlights include special editions of Strictly Come Dancing and The Great British Bake Off.</description>
+      <pubDate>Wed, 17 Dec 2025 19:30:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 15 -->
+    <item>
+      <title>Legal &amp; General to develop new life sciences campus in Oxford</title>
+      <link>https://example.com/article13026</link>
+      <description>The £400m scheme will deliver lab, office and collaboration space across 400,000 sq ft.</description>
+      <pubDate>Thu, 18 Dec 2025 09:15:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 12 -->
+    <item>
+      <title>Adele set to perform live New Year’s Eve concert in Las Vegas</title>
+      <link>https://example.com/article13027</link>
+      <description>The singer will close out 2025 with an exclusive show at Caesars Palace.</description>
+      <pubDate>Thu, 18 Dec 2025 15:45:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 16 -->
+    <item>
+      <title>Greystar launches £300m build-to-rent scheme near Canary Wharf</title>
+      <link>https://example.com/article13028</link>
+      <description>The project will deliver 800 apartments with co-working and retail amenities by 2028.</description>
+      <pubDate>Fri, 19 Dec 2025 08:50:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 17 -->
+    <item>
+      <title>Knight Frank expands European footprint with new office in Paris</title>
+      <link>https://example.com/article13029</link>
+      <description>The firm’s new Paris base strengthens its continental operations ahead of 2026 growth plans.</description>
+      <pubDate>Fri, 19 Dec 2025 10:25:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 13 -->
+    <item>
+      <title>EA Sports releases trailer for FIFA 26 featuring global stadium updates</title>
+      <link>https://example.com/article13030</link>
+      <description>The latest edition introduces new gameplay mechanics and immersive fan experiences.</description>
+      <pubDate>Fri, 19 Dec 2025 18:40:00 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
