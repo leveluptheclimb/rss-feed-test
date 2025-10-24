@@ -124,6 +124,45 @@
       <description>The band pledged to cut emissions by half using renewable energy and recycled staging materials.</description>
       <pubDate>Wed, 10 Dec 2025 13:30:00 GMT</pubDate>
     </item>
+    <!-- PASS 9 -->
+    <item>
+      <title>JLL moves European headquarters to Broadgate, London</title>
+      <link>https://example.com/article13016</link>
+      <description>The global real estate adviser has consolidated three offices into a new 120,000 sq ft workspace at 100 Liverpool Street.</description>
+      <pubDate>Thu, 11 Dec 2025 09:00:00 GMT</pubDate>
+    </item>
 
+    <!-- SKIP 8 -->
+    <item>
+      <title>Lewis Hamilton invests in new vegan restaurant chain</title>
+      <link>https://example.com/article13017</link>
+      <description>The F1 champion is backing a sustainable dining concept launching across major UK cities.</description>
+      <pubDate>Thu, 11 Dec 2025 13:45:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 10 -->
+    <item>
+      <title>Google leases additional floors at King’s Cross campus for AI division</title>
+      <link>https://example.com/article13018</link>
+      <description>The tech giant has taken 90,000 sq ft to accommodate growth in its DeepMind and Gemini teams.</description>
+      <pubDate>Fri, 12 Dec 2025 08:55:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 11 -->
+    <item>
+      <title>Canary Wharf Group unveils £250m refurbishment of One Canada Square</title>
+      <link>https://example.com/article13019</link>
+      <description>The project will modernise interior layouts and create flexible office and life-science space for new tenants.</description>
+      <pubDate>Fri, 12 Dec 2025 12:20:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 9 -->
+    <item>
+      <title>Netflix secures global rights to new David Attenborough series</title>
+      <link>https://example.com/article13020</link>
+      <description>The streaming platform will release the six-part wildlife documentary worldwide in 2026.</description>
+      <pubDate>Fri, 12 Dec 2025 18:15:00 GMT</pubDate>
+    </item>
+  
   </channel>
 </rss>
