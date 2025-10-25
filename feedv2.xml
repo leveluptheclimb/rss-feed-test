@@ -324,6 +324,37 @@
       <description>The Formula One driver’s new fashion label uses fully recycled fabrics.</description>
       <pubDate>Sun, 04 Jan 2026 15:55:00 GMT</pubDate>
     </item>
+    <!-- SKIP 03 -->
+    <item>
+      <title>Harry Styles opens new world tour in Manchester</title>
+      <link>https://example.com/article20004</link>
+      <description>Entertainment update unrelated to business or commercial property.</description>
+      <pubDate>Thu, 13 Nov 2025 10:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 03 -->
+    <item>
+      <title>KPMG relocates Northern HQ to Leeds city centre hub</title>
+      <link>https://example.com/article20005</link>
+      <description>KPMG consolidates its regional offices into a new 120,000 sq ft workspace in Leeds.</description>
+      <pubDate>Fri, 14 Nov 2025 08:45:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 04 -->
+    <item>
+      <title>Derwent London secures tenant for refurbished Charlotte Street offices</title>
+      <link>https://example.com/article20006</link>
+      <description>Creative agency signs lease for 30,000 sq ft at Derwent’s Fitzrovia development.</description>
+      <pubDate>Sat, 15 Nov 2025 09:30:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 05 -->
+    <item>
+      <title>CBRE Investment Management launches 200,000 sq ft mixed-use scheme in Shoreditch</title>
+      <link>https://example.com/article20007</link>
+      <description>The project includes flexible office space, retail units, and rooftop amenities.</description>
+      <pubDate>Sun, 16 Nov 2025 11:20:00 GMT</pubDate>
+    </item>
 
   </channel>
 </rss>
