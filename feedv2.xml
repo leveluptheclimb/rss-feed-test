@@ -8,359 +8,86 @@
     <lastBuildDate>Sat, 25 Oct 2025 11:55:00 GMT</lastBuildDate>
     <ttl>30</ttl>
 
-    <!-- PASS 01 -->
-    <item>
-      <title>Capita relocates London headquarters to Kings Cross</title>
-      <link>https://example.com/article20001</link>
-      <description>Capita confirms HQ move to a new sustainable office hub in N1C.</description>
-      <pubDate>Mon, 10 Nov 2025 09:00:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 02 -->
-    <item>
-      <title>PwC expands Manchester office with additional 80,000 sq ft</title>
-      <link>https://example.com/article20002</link>
-      <description>The firm signs a new lease to consolidate teams in the city centre.</description>
-      <pubDate>Tue, 11 Nov 2025 08:45:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 01 -->
-    <item>
-      <title>Ed Sheeran announces new single for Christmas</title>
-      <link>https://example.com/article20003</link>
-      <description>Music release news unrelated to offices or commercial property.</description>
-      <pubDate>Wed, 12 Nov 2025 12:10:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 03 -->
-    <item>
-      <title>Legal and General funds GBP 500m mixed-use scheme in Leeds</title>
-      <link>https://example.com/article20004</link>
-      <description>Project includes new office campus with phased pre-lets.</description>
-      <pubDate>Thu, 13 Nov 2025 07:30:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 02 -->
-    <item>
-      <title>Premier League club unveils retro kit</title>
-      <link>https://example.com/article20005</link>
-      <description>Sports merchandise announcement.</description>
-      <pubDate>Fri, 14 Nov 2025 10:05:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 04 -->
-    <item>
-      <title>Monzo takes additional floors at Broadgate</title>
-      <link>https://example.com/article20006</link>
-      <description>Fintech scales London footprint with new office lease.</description>
-      <pubDate>Mon, 17 Nov 2025 09:15:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 05 -->
-    <item>
-      <title>Arup consolidates UK teams into new Birmingham hub</title>
-      <link>https://example.com/article20007</link>
-      <description>Engineering group confirms relocation to a single city centre site.</description>
-      <pubDate>Tue, 18 Nov 2025 08:20:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 03 -->
-    <item>
-      <title>Kim Kardashian launches new skincare line in Europe</title>
-      <link>https://example.com/article20008</link>
-      <description>Celebrity product news.</description>
-      <pubDate>Wed, 19 Nov 2025 11:40:00 GMT</pubDate>
-    </item>
-
     <!-- PASS 06 -->
     <item>
-      <title>BT Group opens client innovation centre near Old Street</title>
-      <link>https://example.com/article20009</link>
-      <description>New site focused on enterprise demos and collaboration.</description>
-      <pubDate>Thu, 20 Nov 2025 09:50:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 07 -->
-    <item>
-      <title>HSBC confirms Canary Wharf exit timeline and new City office</title>
-      <link>https://example.com/article20010</link>
-      <description>Bank outlines phased move and lease milestones.</description>
-      <pubDate>Fri, 21 Nov 2025 07:55:00 GMT</pubDate>
+      <title>BT Group opens new innovation hub in Birmingham’s Paradise development</title>
+      <link>https://example.com/article20008</link>
+      <description>BT relocates 1,000 staff to a new sustainable workspace in Birmingham city centre.</description>
+      <pubDate>Mon, 17 Nov 2025 09:00:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 04 -->
     <item>
-      <title>Great British Bake Off winner announced</title>
-      <link>https://example.com/article20011</link>
-      <description>TV entertainment update.</description>
-      <pubDate>Mon, 24 Nov 2025 20:00:00 GMT</pubDate>
+      <title>Taylor Swift to headline Wembley Stadium in summer 2026</title>
+      <link>https://example.com/article20009</link>
+      <description>Entertainment story unrelated to property or corporate relocation.</description>
+      <pubDate>Mon, 17 Nov 2025 10:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 07 -->
+    <item>
+      <title>Google expands London campus with new data centre in King’s Cross</title>
+      <link>https://example.com/article20010</link>
+      <description>Tech giant increases footprint with additional infrastructure for AI operations.</description>
+      <pubDate>Tue, 18 Nov 2025 08:50:00 GMT</pubDate>
     </item>
 
     <!-- PASS 08 -->
     <item>
-      <title>Octopus Energy leases 60,000 sq ft near Victoria</title>
-      <link>https://example.com/article20012</link>
-      <description>New London office supports headcount growth.</description>
-      <pubDate>Tue, 25 Nov 2025 08:05:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 09 -->
-    <item>
-      <title>Meta expands London AI lab at King Street</title>
-      <link>https://example.com/article20013</link>
-      <description>Additional workspace secured for research teams.</description>
-      <pubDate>Wed, 26 Nov 2025 09:25:00 GMT</pubDate>
+      <title>JLL relocates Manchester team to refurbished Spinningfields offices</title>
+      <link>https://example.com/article20011</link>
+      <description>Property consultancy moves staff into new open-plan office at 3 Hardman Square.</description>
+      <pubDate>Wed, 19 Nov 2025 09:15:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 05 -->
     <item>
-      <title>New street food market opens in Bristol</title>
-      <link>https://example.com/article20014</link>
-      <description>Leisure news without tenant move signal.</description>
-      <pubDate>Thu, 27 Nov 2025 11:00:00 GMT</pubDate>
+      <title>UK inflation drops to 2.3% amid stable energy prices</title>
+      <link>https://example.com/article20012</link>
+      <description>Economic update not directly related to real estate or business relocations.</description>
+      <pubDate>Wed, 19 Nov 2025 13:30:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 09 -->
+    <item>
+      <title>WeWork reopens refurbished co-working hub in Soho</title>
+      <link>https://example.com/article20013</link>
+      <description>Shared workspace operator completes fit-out of 45,000 sq ft flexible office building.</description>
+      <pubDate>Thu, 20 Nov 2025 08:20:00 GMT</pubDate>
     </item>
 
     <!-- PASS 10 -->
     <item>
-      <title>Clifford Chance signs pre-let at City tower redevelopment</title>
-      <link>https://example.com/article20015</link>
-      <description>Law firm commits to long-term lease for new HQ.</description>
-      <pubDate>Fri, 28 Nov 2025 08:10:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 11 -->
-    <item>
-      <title>Tesco opens micro-fulfilment site in West London</title>
-      <link>https://example.com/article20016</link>
-      <description>Urban logistics site supports faster deliveries.</description>
-      <pubDate>Mon, 01 Dec 2025 06:45:00 GMT</pubDate>
+      <title>Legal & General announces new 250,000 sq ft office scheme in Bristol</title>
+      <link>https://example.com/article20014</link>
+      <description>Development will deliver Grade A offices and retail units near Temple Meads.</description>
+      <pubDate>Fri, 21 Nov 2025 07:40:00 GMT</pubDate>
     </item>
 
     <!-- SKIP 06 -->
     <item>
-      <title>Beyonce teases behind-the-scenes tour film</title>
-      <link>https://example.com/article20017</link>
-      <description>Entertainment teaser.</description>
-      <pubDate>Tue, 02 Dec 2025 14:30:00 GMT</pubDate>
+      <title>Storm expected to bring heavy rain across the UK this weekend</title>
+      <link>https://example.com/article20015</link>
+      <description>Weather forecast with no relevance to office or tenant moves.</description>
+      <pubDate>Fri, 21 Nov 2025 10:25:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 11 -->
+    <item>
+      <title>Deloitte takes 150,000 sq ft pre-let at new City of London tower</title>
+      <link>https://example.com/article20016</link>
+      <description>The Big Four firm secures office space at a 40-storey development near Liverpool Street.</description>
+      <pubDate>Sat, 22 Nov 2025 08:00:00 GMT</pubDate>
     </item>
 
     <!-- PASS 12 -->
     <item>
-      <title>NatWest to sublet surplus space in Edinburgh</title>
-      <link>https://example.com/article20018</link>
-      <description>Bank optimises office portfolio amid hybrid working.</description>
-      <pubDate>Wed, 03 Dec 2025 09:05:00 GMT</pubDate>
+      <title>Amazon to open logistics and office complex in Milton Keynes</title>
+      <link>https://example.com/article20017</link>
+      <description>Expansion creates 800 jobs and combines warehousing with on-site offices.</description>
+      <pubDate>Sun, 23 Nov 2025 09:30:00 GMT</pubDate>
     </item>
 
-    <!-- PASS 13 -->
-    <item>
-      <title>Amazon opens new corporate office in Glasgow</title>
-      <link>https://example.com/article20019</link>
-      <description>Tech giant adds Scottish base for operations and support.</description>
-      <pubDate>Thu, 04 Dec 2025 08:35:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 07 -->
-    <item>
-      <title>Film festival announces winter lineup</title>
-      <link>https://example.com/article20020</link>
-      <description>Cultural programming announcement.</description>
-      <pubDate>Fri, 05 Dec 2025 10:20:00 GMT</pubDate>
-    </item>
-
-        <!-- PASS 43 -->
-    <item>
-      <title>HS2 completes Birmingham Curzon Street station HQ fit-out</title>
-      <link>https://example.com/article13083</link>
-      <description>The new 120,000 sq ft headquarters will host over 1,000 staff managing the UK’s largest rail infrastructure project.</description>
-      <pubDate>Wed, 21 Jan 2026 09:00:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 44 -->
-    <item>
-      <title>JP Morgan opens Manchester tech hub for 500 engineers</title>
-      <link>https://example.com/article13084</link>
-      <description>The US bank’s new Spinningfields base expands its UK software engineering footprint outside London.</description>
-      <pubDate>Wed, 21 Jan 2026 09:45:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 41 -->
-    <item>
-      <title>Rihanna announces Fenty fashion documentary for Amazon Prime</title>
-      <link>https://example.com/article13085</link>
-      <description>The upcoming film chronicles the launch of her fashion house and global brand journey.</description>
-      <pubDate>Wed, 21 Jan 2026 17:30:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 45 -->
-    <item>
-      <title>Canary Wharf Group launches new waterfront lab space for biotech firms</title>
-      <link>https://example.com/article13086</link>
-      <description>The 150,000 sq ft development will provide modular wet labs and offices for early-stage life science companies.</description>
-      <pubDate>Thu, 22 Jan 2026 09:10:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 46 -->
-    <item>
-      <title>HMRC relocates staff to regional office hub in Nottingham</title>
-      <link>https://example.com/article13087</link>
-      <description>The government agency has opened a 180,000 sq ft base as part of its UK-wide estate transformation.</description>
-      <pubDate>Thu, 22 Jan 2026 09:40:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 42 -->
-    <item>
-      <title>Ed Sheeran to perform exclusive acoustic set at Royal Albert Hall</title>
-      <link>https://example.com/article13088</link>
-      <description>The singer will play an intimate charity concert to raise funds for UK youth music initiatives.</description>
-      <pubDate>Thu, 22 Jan 2026 20:00:00 GMT</pubDate>
-    </item>
-    <!-- SKIP 43 -->
-    <item>
-      <title>Beyoncé announces world tour documentary “Renaissance Live”</title>
-      <link>https://example.com/article13089</link>
-      <description>The film will premiere globally on Netflix, offering behind-the-scenes footage from her 2025 tour.</description>
-      <pubDate>Fri, 23 Jan 2026 12:15:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 44 -->
-    <item>
-      <title>Kylie Jenner opens flagship beauty store in Los Angeles</title>
-      <link>https://example.com/article13090</link>
-      <description>The reality star’s new retail concept features interactive makeup stations and AI shade matching.</description>
-      <pubDate>Fri, 23 Jan 2026 14:30:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 45 -->
-    <item>
-      <title>Harry Styles and Florence Pugh reunite for new romantic drama</title>
-      <link>https://example.com/article13091</link>
-      <description>The pair will co-star in a London-based film exploring love and fame in the streaming era.</description>
-      <pubDate>Fri, 23 Jan 2026 19:45:00 GMT</pubDate>
-    </item>
-    <!-- SKIP 36 -->
-    <item>
-      <title>Kim Kardashian reveals new Met Gala gown designed by Balenciaga</title>
-      <link>https://example.com/article13053</link>
-      <description>The reality star drew headlines for her crystal-embellished look at this year’s event.</description>
-      <pubDate>Wed, 31 Dec 2025 10:20:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 37 -->
-    <item>
-      <title>Beyoncé to headline new year celebration in Dubai</title>
-      <link>https://example.com/article13054</link>
-      <description>The singer will perform an exclusive rooftop show to ring in 2026.</description>
-      <pubDate>Wed, 31 Dec 2025 12:45:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 38 -->
-    <item>
-      <title>Harry Styles launches gender-neutral fragrance line</title>
-      <link>https://example.com/article13055</link>
-      <description>The collection features three scents inspired by his global tours.</description>
-      <pubDate>Thu, 01 Jan 2026 09:35:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 39 -->
-    <item>
-      <title>Rihanna confirms Fenty Beauty UK pop-up in Covent Garden</title>
-      <link>https://example.com/article13056</link>
-      <description>The singer will host an in-person meet and greet for fans next month.</description>
-      <pubDate>Thu, 01 Jan 2026 15:25:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 40 -->
-    <item>
-      <title>Tom Holland and Zendaya spotted leaving theatre hand in hand</title>
-      <link>https://example.com/article13057</link>
-      <description>The couple attended a West End play before heading to dinner in Soho.</description>
-      <pubDate>Fri, 02 Jan 2026 08:50:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 41 -->
-    <item>
-      <title>Taylor Swift documentary to premiere at Sundance 2026</title>
-      <link>https://example.com/article13058</link>
-      <description>The film offers behind-the-scenes footage from her record-breaking tour.</description>
-      <pubDate>Fri, 02 Jan 2026 14:15:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 47 -->
-    <item>
-      <title>Siemens Mobility opens new rail innovation centre in York</title>
-      <link>https://example.com/article13092</link>
-      <description>The 90,000 sq ft facility will focus on sustainable transport systems and digital signalling technology.</description>
-      <pubDate>Mon, 26 Jan 2026 09:05:00 GMT</pubDate>
-    </item>
-    <!-- SKIP 42 -->
-    <item>
-      <title>Kylie Jenner debuts new makeup palette at Harrods</title>
-      <link>https://example.com/article13059</link>
-      <description>The influencer’s latest cosmetics line sold out within hours of launch.</description>
-      <pubDate>Sat, 03 Jan 2026 10:05:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 43 -->
-    <item>
-      <title>Chris Hemsworth announces fitness collaboration with Apple Fitness+</title>
-      <link>https://example.com/article13060</link>
-      <description>The actor will feature in a new training series promoting functional movement.</description>
-      <pubDate>Sat, 03 Jan 2026 14:20:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 44 -->
-    <item>
-      <title>Selena Gomez and Taylor Swift share selfies from holiday in Italy</title>
-      <link>https://example.com/article13061</link>
-      <description>The longtime friends posted new pictures from their Amalfi Coast getaway.</description>
-      <pubDate>Sun, 04 Jan 2026 09:30:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 45 -->
-    <item>
-      <title>Lewis Hamilton launches sustainable clothing brand</title>
-      <link>https://example.com/article13062</link>
-      <description>The Formula One driver’s new fashion label uses fully recycled fabrics.</description>
-      <pubDate>Sun, 04 Jan 2026 15:55:00 GMT</pubDate>
-    </item>
-    <!-- SKIP 03 -->
-    <item>
-      <title>Harry Styles opens new world tour in Manchester</title>
-      <link>https://example.com/article20004</link>
-      <description>Entertainment update unrelated to business or commercial property.</description>
-      <pubDate>Thu, 13 Nov 2025 10:00:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 03 -->
-    <item>
-      <title>KPMG relocates Northern HQ to Leeds city centre hub</title>
-      <link>https://example.com/article20005</link>
-      <description>KPMG consolidates its regional offices into a new 120,000 sq ft workspace in Leeds.</description>
-      <pubDate>Fri, 14 Nov 2025 08:45:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 04 -->
-    <item>
-      <title>Derwent London secures tenant for refurbished Charlotte Street offices</title>
-      <link>https://example.com/article20006</link>
-      <description>Creative agency signs lease for 30,000 sq ft at Derwent’s Fitzrovia development.</description>
-      <pubDate>Sat, 15 Nov 2025 09:30:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 05 -->
-    <item>
-      <title>CBRE Investment Management launches 200,000 sq ft mixed-use scheme in Shoreditch</title>
-      <link>https://example.com/article20007</link>
-      <description>The project includes flexible office space, retail units, and rooftop amenities.</description>
-      <pubDate>Sun, 16 Nov 2025 11:20:00 GMT</pubDate>
-    </item>
-
-  </channel>
-</rss>
-
-  </channel>
-</rss>
 
   </channel>
 </rss>
