@@ -337,6 +337,165 @@
       <description>The couple’s latest project explores global mental health initiatives.</description>
       <pubDate>Thu, 25 Dec 2025 17:45:00 GMT</pubDate>
     </item>
+    <!-- PASS 18 -->
+    <item>
+      <title>WeWork opens new flexible workspace at London Bridge</title>
+      <link>https://example.com/article13043</link>
+      <description>The coworking giant has launched a 75,000 sq ft office designed for hybrid tenants overlooking the Thames.</description>
+      <pubDate>Fri, 26 Dec 2025 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 19 -->
+    <item>
+      <title>Rolls-Royce establishes hydrogen research centre in Derby</title>
+      <link>https://example.com/article13044</link>
+      <description>The new 60,000 sq ft facility will focus on developing next-generation zero-emission aviation engines.</description>
+      <pubDate>Fri, 26 Dec 2025 10:20:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 26 -->
+    <item>
+      <title>Kim Kardashian attends Paris Fashion Week closing gala</title>
+      <link>https://example.com/article13045</link>
+      <description>The celebrity was seen wearing a custom Balmain gown alongside other A-listers.</description>
+      <pubDate>Fri, 26 Dec 2025 19:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 20 -->
+    <item>
+      <title>HSBC consolidates Canary Wharf offices into new headquarters tower</title>
+      <link>https://example.com/article13046</link>
+      <description>The bank confirmed a long-term lease at 25 Churchill Place, moving 8,000 employees under one roof.</description>
+      <pubDate>Mon, 29 Dec 2025 08:30:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 27 -->
+    <item>
+      <title>Justin Bieber releases surprise acoustic EP on Christmas Day</title>
+      <link>https://example.com/article13047</link>
+      <description>The Canadian singer dropped a five-track project exclusively on Spotify.</description>
+      <pubDate>Mon, 29 Dec 2025 11:15:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 21 -->
+    <item>
+      <title>Deloitte relocates regional offices to Edinburgh’s Quartermile</title>
+      <link>https://example.com/article13048</link>
+      <description>The move unites audit, tax and consulting teams in a 90,000 sq ft energy-efficient space.</description>
+      <pubDate>Tue, 30 Dec 2025 09:10:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 22 -->
+    <item>
+      <title>Barclays opens innovation lab in Cardiff to support fintech startups</title>
+      <link>https://example.com/article13049</link>
+      <description>The new Eagle Lab site offers co-working desks and mentorship for early-stage founders.</description>
+      <pubDate>Tue, 30 Dec 2025 11:45:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 28 -->
+    <item>
+      <title>Beyoncé and Jay-Z spotted vacationing in the Maldives</title>
+      <link>https://example.com/article13050</link>
+      <description>The couple shared rare family photos from their private island resort stay.</description>
+      <pubDate>Wed, 31 Dec 2025 14:10:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 23 -->
+    <item>
+      <title>Microsoft expands Reading campus with new AI research wing</title>
+      <link>https://example.com/article13051</link>
+      <description>The 100,000 sq ft expansion will focus on enterprise-scale machine learning development.</description>
+      <pubDate>Thu, 01 Jan 2026 08:45:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 29 -->
+    <item>
+      <title>Taylor Swift makes surprise appearance at London O2 arena</title>
+      <link>https://example.com/article13052</link>
+      <description>Fans were stunned when the singer joined Ed Sheeran on stage for a duet.</description>
+      <pubDate>Thu, 01 Jan 2026 19:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 24 -->
+    <item>
+      <title>Shell to relocate trading arm to new office near Liverpool Street</title>
+      <link>https://example.com/article13053</link>
+      <description>The company has signed a 12-year lease for 180,000 sq ft of Grade A space in central London.</description>
+      <pubDate>Fri, 02 Jan 2026 09:25:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 25 -->
+    <item>
+      <title>Meta opens European data policy centre in Dublin</title>
+      <link>https://example.com/article13054</link>
+      <description>The new 70,000 sq ft hub will house compliance and privacy engineering teams.</description>
+      <pubDate>Fri, 02 Jan 2026 10:10:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 30 -->
+    <item>
+      <title>Selena Gomez launches vegan beauty collaboration with Rare</title>
+      <link>https://example.com/article13055</link>
+      <description>The limited-edition range features plant-based formulas and sustainable packaging.</description>
+      <pubDate>Fri, 02 Jan 2026 15:35:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 26 -->
+    <item>
+      <title>BNP Paribas acquires additional office floors in Birmingham’s Paradise scheme</title>
+      <link>https://example.com/article13056</link>
+      <description>The bank is expanding its UK footprint with 60,000 sq ft of new workspace for 2026 occupancy.</description>
+      <pubDate>Mon, 05 Jan 2026 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 27 -->
+    <item>
+      <title>GSK completes move into new £400m headquarters in West London</title>
+      <link>https://example.com/article13057</link>
+      <description>The pharmaceutical group’s new HQ consolidates 3,000 employees in a sustainable life-science campus.</description>
+      <pubDate>Mon, 05 Jan 2026 09:40:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 31 -->
+    <item>
+      <title>Kanye West teases new album via hologram performance in LA</title>
+      <link>https://example.com/article13058</link>
+      <description>The artist appeared as a digital projection during a private industry event.</description>
+      <pubDate>Mon, 05 Jan 2026 20:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 28 -->
+    <item>
+      <title>CBRE Global Investors refurbish Leeds office tower for 2026 relaunch</title>
+      <link>https://example.com/article13059</link>
+      <description>The 180,000 sq ft refurbishment will target BREEAM Excellent certification upon completion.</description>
+      <pubDate>Tue, 06 Jan 2026 08:35:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 32 -->
+    <item>
+      <title>Harry Styles launches limited-edition fashion capsule with Gucci</title>
+      <link>https://example.com/article13060</link>
+      <description>The singer unveiled the new collaboration at a London pop-up store.</description>
+      <pubDate>Tue, 06 Jan 2026 12:25:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 29 -->
+    <item>
+      <title>IBM to establish new quantum computing hub at Oxford Science Park</title>
+      <link>https://example.com/article13061</link>
+      <description>The site will host 250 engineers and researchers focused on applied quantum technologies.</description>
+      <pubDate>Wed, 07 Jan 2026 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 30 -->
+    <item>
+      <title>Landsec launches refurbishment of Regent’s Place office campus</title>
+      <link>https://example.com/article13062</link>
+      <description>The £200m project will upgrade 500,000 sq ft of workspace to support hybrid tenants.</description>
+      <pubDate>Wed, 07 Jan 2026 10:40:00 GMT</pubDate>
+    </item>
 
   </channel>
 </rss>
