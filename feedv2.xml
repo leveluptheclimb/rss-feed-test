@@ -215,6 +215,40 @@
       <description>The singer will play an intimate charity concert to raise funds for UK youth music initiatives.</description>
       <pubDate>Thu, 22 Jan 2026 20:00:00 GMT</pubDate>
     </item>
+    <!-- SKIP 43 -->
+    <item>
+      <title>Beyoncé announces world tour documentary “Renaissance Live”</title>
+      <link>https://example.com/article13089</link>
+      <description>The film will premiere globally on Netflix, offering behind-the-scenes footage from her 2025 tour.</description>
+      <pubDate>Fri, 23 Jan 2026 12:15:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 44 -->
+    <item>
+      <title>Kylie Jenner opens flagship beauty store in Los Angeles</title>
+      <link>https://example.com/article13090</link>
+      <description>The reality star’s new retail concept features interactive makeup stations and AI shade matching.</description>
+      <pubDate>Fri, 23 Jan 2026 14:30:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 45 -->
+    <item>
+      <title>Harry Styles and Florence Pugh reunite for new romantic drama</title>
+      <link>https://example.com/article13091</link>
+      <description>The pair will co-star in a London-based film exploring love and fame in the streaming era.</description>
+      <pubDate>Fri, 23 Jan 2026 19:45:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 47 -->
+    <item>
+      <title>Siemens Mobility opens new rail innovation centre in York</title>
+      <link>https://example.com/article13092</link>
+      <description>The 90,000 sq ft facility will focus on sustainable transport systems and digital signalling technology.</description>
+      <pubDate>Mon, 26 Jan 2026 09:05:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
 
   </channel>
 </rss>
