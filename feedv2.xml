@@ -168,5 +168,56 @@
       <pubDate>Fri, 05 Dec 2025 10:20:00 GMT</pubDate>
     </item>
 
+        <!-- PASS 43 -->
+    <item>
+      <title>HS2 completes Birmingham Curzon Street station HQ fit-out</title>
+      <link>https://example.com/article13083</link>
+      <description>The new 120,000 sq ft headquarters will host over 1,000 staff managing the UK’s largest rail infrastructure project.</description>
+      <pubDate>Wed, 21 Jan 2026 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 44 -->
+    <item>
+      <title>JP Morgan opens Manchester tech hub for 500 engineers</title>
+      <link>https://example.com/article13084</link>
+      <description>The US bank’s new Spinningfields base expands its UK software engineering footprint outside London.</description>
+      <pubDate>Wed, 21 Jan 2026 09:45:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 41 -->
+    <item>
+      <title>Rihanna announces Fenty fashion documentary for Amazon Prime</title>
+      <link>https://example.com/article13085</link>
+      <description>The upcoming film chronicles the launch of her fashion house and global brand journey.</description>
+      <pubDate>Wed, 21 Jan 2026 17:30:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 45 -->
+    <item>
+      <title>Canary Wharf Group launches new waterfront lab space for biotech firms</title>
+      <link>https://example.com/article13086</link>
+      <description>The 150,000 sq ft development will provide modular wet labs and offices for early-stage life science companies.</description>
+      <pubDate>Thu, 22 Jan 2026 09:10:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 46 -->
+    <item>
+      <title>HMRC relocates staff to regional office hub in Nottingham</title>
+      <link>https://example.com/article13087</link>
+      <description>The government agency has opened a 180,000 sq ft base as part of its UK-wide estate transformation.</description>
+      <pubDate>Thu, 22 Jan 2026 09:40:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 42 -->
+    <item>
+      <title>Ed Sheeran to perform exclusive acoustic set at Royal Albert Hall</title>
+      <link>https://example.com/article13088</link>
+      <description>The singer will play an intimate charity concert to raise funds for UK youth music initiatives.</description>
+      <pubDate>Thu, 22 Jan 2026 20:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
+
   </channel>
 </rss>
