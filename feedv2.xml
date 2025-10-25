@@ -171,6 +171,73 @@
       <description>The move consolidates 800 employees into a 100,000 sq ft sustainable workspace at Temple Quarter.</description>
       <pubDate>Tue, 20 Jan 2026 09:25:00 GMT</pubDate>
     </item>
+    <!-- PASS 43 -->
+    <item>
+      <title>HSBC opens new UK headquarters in Birmingham’s Paradise development</title>
+      <link>https://example.com/article14083</link>
+      <description>The bank has relocated 2,500 staff from London to its 210,000 sq ft regional base.</description>
+      <pubDate>Wed, 21 Jan 2026 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 41 -->
+    <item>
+      <title>Taylor Swift announces 2026 European stadium tour</title>
+      <link>https://example.com/article14084</link>
+      <description>The global pop star revealed 12 UK dates as part of her upcoming tour.</description>
+      <pubDate>Wed, 21 Jan 2026 11:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 44 -->
+    <item>
+      <title>JLL signs long-term lease for expanded offices at London Bridge</title>
+      <link>https://example.com/article14085</link>
+      <description>The real estate adviser has leased 90,000 sq ft at The Shard to accommodate team growth.</description>
+      <pubDate>Thu, 22 Jan 2026 09:10:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 42 -->
+    <item>
+      <title>Ed Sheeran launches sustainable clothing label</title>
+      <link>https://example.com/article14086</link>
+      <description>The musician’s new brand focuses on organic fabrics and ethical production.</description>
+      <pubDate>Thu, 22 Jan 2026 13:40:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 45 -->
+    <item>
+      <title>Laing O’Rourke completes construction of new life-sciences campus in Cambridge</title>
+      <link>https://example.com/article14087</link>
+      <description>The 500,000 sq ft facility will host biotech and pharmaceutical tenants from mid-2026.</description>
+      <pubDate>Fri, 23 Jan 2026 08:50:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 43 -->
+    <item>
+      <title>Stormzy buys £15m penthouse in Battersea</title>
+      <link>https://example.com/article14088</link>
+      <description>The rapper’s new home overlooks the Thames and includes a private recording studio.</description>
+      <pubDate>Fri, 23 Jan 2026 14:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 46 -->
+    <item>
+      <title>Deloitte moves Manchester tech hub to larger premises at Circle Square</title>
+      <link>https://example.com/article14089</link>
+      <description>The relocation supports continued headcount growth in the firm’s digital division.</description>
+      <pubDate>Mon, 26 Jan 2026 09:15:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 44 -->
+    <item>
+      <title>Bella Hadid to host fashion documentary series</title>
+      <link>https://example.com/article14090</link>
+      <description>The model will present a behind-the-scenes look at runway culture.</description>
+      <pubDate>Mon, 26 Jan 2026 19:45:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 47 -->
+    <item>
+      <
 
  
 
