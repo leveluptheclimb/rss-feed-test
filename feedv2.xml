@@ -1,48 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>SkyLearn Pre-Filter Test Feed – Fresh Batch</title>
-    <link>https://skylearn.io/feed-latest</link>
-    <description>Latest test feed for Zapier keyword prefilter validation. Clean, valid XML with new unique articles.</description>
-    <language>en-gb</language>
-    <lastBuildDate>Sat, 25 Oct 2025 17:55:00 GMT</lastBuildDate>
-    <ttl>30</ttl>
+from flask import Flask, request, jsonify
 
-    <!-- PASS 20 -->
-    <item>
-      <title>IBM opens new quantum computing lab at Harwell Campus</title>
-      <link>https://example.com/article20028</link>
-      <guid>article1120028</guid>
-      <description>The new 80,000 sq ft facility will support UK research into advanced quantum technologies.</description>
-      <pubDate>Sat, 25 Oct 2025 17:10:00 GMT</pubDate>
-    </item>
+app = Flask(__name__)
 
-    <!-- SKIP 10 -->
-    <item>
-      <title>Harry Styles launches 2026 world tour across Europe</title>
-      <link>https://example.com/article20029</link>
-      <guid>article1120029</guid>
-      <description>Entertainment update with no link to business or property developments.</description>
-      <pubDate>Sat, 25 Oct 2025 17:25:00 GMT</pubDate>
-    </item>
+@app.route("/filter_keywords", methods=["POST"])
+def filter_keywords():
+    """Evaluate RSS title + description for relevance based on keyword list."""
+    data = request.get_json(force=True)
+    title = (data.get("title") or "").lower()
+    description = (data.get("description") or "").lower()
+    text = f"{title} {description}"
 
-    <!-- PASS 21 -->
-    <item>
-      <title>PwC secures 10-year lease for new Belfast office</title>
-      <link>https://example.com/article20030</link>
-      <guid>article1120030</guid>
-      <description>The firm will relocate 1,200 employees to a newly refurbished building in the city centre.</description>
-      <pubDate>Sat, 25 Oct 2025 17:40:00 GMT</pubDate>
-    </item>
+    keywords = [
+        "new office","new hq","relocate","relocation","lease","leases","leasing",
+        "refurbishment","expansion","expands","opens","development","scheme",
+        "redevelopment","life sciences","data centre","campus","innovation","workspace",
+        "office move","tenant","occupies","taking space","fit-out","acquisition",
+        "investment","logistics park","industrial estate","canary wharf","british land",
+        "landsec","aviva","jll","cbre","savills","knight frank","morgan sindall",
+        "isg","balfour beatty","mace","skanska"
+    ]
 
-    <!-- PASS 22 -->
-    <item>
-      <title>Canary Wharf Group completes £200m life sciences tower</title>
-      <link>https://example.com/article20031</link>
-      <guid>article1120031</guid>
-      <description>The 300,000 sq ft building will provide flexible lab and office space for biotech tenants.</description>
-      <pubDate>Sat, 25 Oct 2025 17:55:00 GMT</pubDate>
-    </item>
+    matched = [k for k in keywords if k.lower() in text]
+    is_relevant = len(matched) > 0
 
-  </channel>
-</rss>
+    return jsonify({
+        "isRelevant": is_relevant,
+        "matchedKeywords": matched,
+        "version": "v2.2 – simplified substring matcher"
+    })
+
+
+if __name__ == "__main__":
+    import os
+    port = int(os.environ.get("PORT", 10000))
+    app.run(host="0.0.0.0", port=port)
