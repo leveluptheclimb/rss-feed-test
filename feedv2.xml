@@ -1,36 +1,22 @@
-from flask import Flask, request, jsonify
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn Pre-Filter Test Feed – Single Article</title>
+    <link>https://skylearn.io/feed-single-test</link>
+    <description>Individual article feed for testing relevance filters and Zapier integration.</description>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 25 Oct 2025 14:00:00 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Oct 2025 14:00:00 GMT</pubDate>
+    <generator>SkyLearn Test Generator v1.0</generator>
 
-app = Flask(__name__)
+    <!-- PASS TEST -->
+    <item>
+      <title>EY relocates UK headquarters to sustainable London Bridge campus</title>
+      <link>https://example.com/article30001</link>
+      <description>Ernst & Young has moved 5,000 staff to a new 350,000 sq ft office complex featuring green roofs and smart energy systems.</description>
+      <pubDate>Sat, 25 Oct 2025 13:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://example.com/article30001</guid>
+    </item>
 
-@app.route("/filter_keywords", methods=["POST"])
-def filter_keywords():
-    """Evaluate RSS title + description for relevance based on keyword list."""
-    data = request.get_json(force=True)
-    title = (data.get("title") or "").lower()
-    description = (data.get("description") or "").lower()
-    text = f"{title} {description}"
-
-    keywords = [
-        "new office","new hq","relocate","relocation","lease","leases","leasing",
-        "refurbishment","expansion","expands","opens","development","scheme",
-        "redevelopment","life sciences","data centre","campus","innovation","workspace",
-        "office move","tenant","occupies","taking space","fit-out","acquisition",
-        "investment","logistics park","industrial estate","canary wharf","british land",
-        "landsec","aviva","jll","cbre","savills","knight frank","morgan sindall",
-        "isg","balfour beatty","mace","skanska"
-    ]
-
-    matched = [k for k in keywords if k.lower() in text]
-    is_relevant = len(matched) > 0
-
-    return jsonify({
-        "isRelevant": is_relevant,
-        "matchedKeywords": matched,
-        "version": "v2.2 – simplified substring matcher"
-    })
-
-
-if __name__ == "__main__":
-    import os
-    port = int(os.environ.get("PORT", 10000))
-    app.run(host="0.0.0.0", port=port)
+  </channel>
+</rss>
