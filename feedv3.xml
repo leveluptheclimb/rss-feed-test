@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn Pre-Filter Test Feed – 15 Unique Articles</title>
+    <link>https://skylearn.io/feed-unique-v4</link>
+    <description>Fifteen distinct mixed articles for advanced keyword filter validation</description>
+
+    <!-- PASS 1 -->
+    <item>
+      <title>PwC relocates UK headquarters to 2 More London Riverside</title>
+      <link>https://example.com/article13001</link>
+      <description>PwC has moved its national HQ from Embankment Place to a new 300,000 sq ft building on London’s South Bank.</description>
+      <pubDate>Mon, 01 Dec 2025 09:00:00 GMT</pubDate>
+    </item>
+    <!-- PASS 31 -->
+    <item>
+      <title>Blackstone acquires logistics park near Heathrow for £220m</title>
+      <link>https://example.com/article13063</link>
+      <description>The acquisition strengthens Blackstone’s UK industrial footprint with 1.2 million sq ft of warehousing space.</description>
+      <pubDate>Thu, 08 Jan 2026 08:30:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 33 -->
+    <item>
+      <title>Dua Lipa headlines opening night of Brit Awards 2026</title>
+      <link>https://example.com/article13064</link>
+      <description>The singer performed two new tracks from her forthcoming album during the live London ceremony.</description>
+      <pubDate>Thu, 08 Jan 2026 20:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 32 -->
+    <item>
+      <title>Amazon Web Services opens new UK data centre in Birmingham</title>
+      <link>https://example.com/article13065</link>
+      <description>The 400,000 sq ft facility expands AWS’s regional cloud capacity and creates 500 jobs.</description>
+      <pubDate>Fri, 09 Jan 2026 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 34 -->
+    <item>
+      <title>Rihanna launches new Fenty x Puma sneaker collection</title>
+      <link>https://example.com/article13066</link>
+      <description>The collaboration features eco-friendly materials and bold 90s designs.</description>
+      <pubDate>Fri, 09 Jan 2026 12:40:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 33 -->
+    <item>
+      <title>EY to relocate Belfast office to The Ewart development</title>
+      <link>https://example.com/article13067</link>
+      <description>The professional services firm will occupy 45,000 sq ft in the city’s newest Grade A building.</description>
+      <pubDate>Mon, 12 Jan 2026 09:10:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 35 -->
+    <item>
+      <title>Lady Gaga confirms European residency tour for 2026</title>
+      <link>https://example.com/article13068</link>
+      <description>The pop star will headline shows in London, Paris and Berlin.</description>
+      <pubDate>Mon, 12 Jan 2026 13:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 34 -->
+    <item>
+      <title>Legal & General launches £500m mixed-use regeneration in Manchester</title>
+      <link>https://example.com/article13069</link>
+      <description>The scheme includes offices, apartments, and retail across a 10-acre city centre site.</description>
+      <pubDate>Tue, 13 Jan 2026 08:50:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 35 -->
+    <item>
+      <title>Capita relocates London headquarters to sustainable Kings Cross site</title>
+      <link>https://example.com/article13070</link>
+      <description>The move reduces carbon footprint by 40% and unites corporate teams previously spread across three sites.</description>
+      <pubDate>Tue, 13 Jan 2026 09:30:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 36 -->
+    <item>
+      <title>Drake to headline Wireless Festival 2026</title>
+      <link>https://example.com/article13071</link>
+      <description>The rapper is returning to London’s Finsbury Park after a four-year break.</description>
+      <pubDate>Tue, 13 Jan 2026 20:10:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 36 -->
+    <item>
+      <title>AtkinsRéalis opens new UK engineering HQ in Birmingham</title>
+      <link>https://example.com/article13072</link>
+      <description>The global design and project management firm has leased 80,000 sq ft at Paradise development.</description>
+      <pubDate>Wed, 14 Jan 2026 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 37 -->
+    <item>
+      <title>British Airways invests £300m in new Heathrow operations centre</title>
+      <link>https://example.com/article13073</link>
+      <description>The facility will house 2,000 staff overseeing logistics and flight planning for the airline.</description>
+      <pubDate>Wed, 14 Jan 2026 10:05:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 37 -->
+    <item>
+      <title>Zendaya stars in Vogue’s February cover story</title>
+      <link>https://example.com/article13074</link>
+      <description>The actor discussed her latest film role and personal growth in an exclusive interview.</description>
+      <pubDate>Wed, 14 Jan 2026 18:40:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 38 -->
+    <item>
+      <title>IBM completes relocation of cloud computing team to London Docklands</title>
+      <link>https://example.com/article13075</link>
+      <description>The 150,000 sq ft office includes labs dedicated to AI infrastructure and hybrid cloud architecture.</description>
+      <pubDate>Thu, 15 Jan 2026 09:20:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 38 -->
+    <item>
+      <title>Billie Eilish to headline Glastonbury 2026</title>
+      <link>https://example.com/article13076</link>
+      <description>The Grammy-winning artist confirmed her performance at the iconic music festival.</description>
+      <pubDate>Thu, 15 Jan 2026 16:10:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 39 -->
+    <item>
+      <title>Network Rail opens new headquarters in Milton Keynes</title>
+      <link>https://example.com/article13077</link>
+      <description>The 180,000 sq ft facility will serve as the central operations hub for national infrastructure projects.</description>
+      <pubDate>Fri, 16 Jan 2026 08:40:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 40 -->
+    <item>
+      <title>BT expands fibre engineering hub in Leeds</title>
+      <link>https://example.com/article13078</link>
+      <description>The new 70,000 sq ft space will accelerate full-fibre rollout across Northern England.</description>
+      <pubDate>Fri, 16 Jan 2026 09:15:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 39 -->
+    <item>
+      <title>Harry Styles buys £10m townhouse in Hampstead</title>
+      <link>https://example.com/article13079</link>
+      <description>The musician’s new North London home features a private studio and rooftop terrace.</description>
+      <pubDate>Fri, 16 Jan 2026 13:55:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 41 -->
+    <item>
+      <title>Aviva Investors funds new 250,000 sq ft office development in Glasgow</title>
+      <link>https://example.com/article13080</link>
+      <description>The £200m investment will deliver Grade A workspace by late 2027 to meet rising demand.</description>
+      <pubDate>Mon, 19 Jan 2026 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 40 -->
+    <item>
+      <title>Lewis Capaldi returns to stage after year-long hiatus</title>
+      <link>https://example.com/article13081</link>
+      <description>The Scottish singer announced a limited acoustic tour in early 2026.</description>
+      <pubDate>Mon, 19 Jan 2026 19:10:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 42 -->
+    <item>
+      <title>NatWest to move digital banking unit to new Bristol office</title>
+      <link>https://example.com/article13082</link>
+      <description>The move consolidates 800 employees into a 100,000 sq ft sustainable workspace at Temple Quarter.</description>
+      <pubDate>Tue, 20 Jan 2026 09:25:00 GMT</pubDate>
+    </item>
+    <!-- PASS 43 -->
+    <item>
+      <title>HSBC opens new UK headquarters in Birmingham’s Paradise development</title>
+      <link>https://example.com/article14083</link>
+      <description>The bank has relocated 2,500 staff from London to its 210,000 sq ft regional base.</description>
+      <pubDate>Wed, 21 Jan 2026 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 41 -->
+    <item>
+      <title>Taylor Swift announces 2026 European stadium tour</title>
+      <link>https://example.com/article14084</link>
+      <description>The global pop star revealed 12 UK dates as part of her upcoming tour.</description>
+      <pubDate>Wed, 21 Jan 2026 11:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 44 -->
+    <item>
+      <title>JLL signs long-term lease for expanded offices at London Bridge</title>
+      <link>https://example.com/article14085</link>
+      <description>The real estate adviser has leased 90,000 sq ft at The Shard to accommodate team growth.</description>
+      <pubDate>Thu, 22 Jan 2026 09:10:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 42 -->
+    <item>
+      <title>Ed Sheeran launches sustainable clothing label</title>
+      <link>https://example.com/article14086</link>
+      <description>The musician’s new brand focuses on organic fabrics and ethical production.</description>
+      <pubDate>Thu, 22 Jan 2026 13:40:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 45 -->
+    <item>
+      <title>Laing O’Rourke completes construction of new life-sciences campus in Cambridge</title>
+      <link>https://example.com/article14087</link>
+      <description>The 500,000 sq ft facility will host biotech and pharmaceutical tenants from mid-2026.</description>
+      <pubDate>Fri, 23 Jan 2026 08:50:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 43 -->
+    <item>
+      <title>Stormzy buys £15m penthouse in Battersea</title>
+      <link>https://example.com/article14088</link>
+      <description>The rapper’s new home overlooks the Thames and includes a private recording studio.</description>
+      <pubDate>Fri, 23 Jan 2026 14:00:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 46 -->
+    <item>
+      <title>Deloitte moves Manchester tech hub to larger premises at Circle Square</title>
+      <link>https://example.com/article14089</link>
+      <description>The relocation supports continued headcount growth in the firm’s digital division.</description>
+      <pubDate>Mon, 26 Jan 2026 09:15:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 44 -->
+    <item>
+      <title>Bella Hadid to host fashion documentary series</title>
+      <link>https://example.com/article14090</link>
+      <description>The model will present a behind-the-scenes look at runway culture.</description>
+      <pubDate>Mon, 26 Jan 2026 19:45:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 47 -->
+    <item>
+      <
+
+ 
+
+  </channel>
+</rss>
