@@ -1,172 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Pre-Filter Test Feed - Clean ASCII</title>
-    <link>https://skylearn.io/feed-clean</link>
-    <description>Mixed UK articles for keyword filter validation. Clean ASCII comments and UTF-8 encoding.</description>
+    <title>SkyLearn Pre-Filter Test Feed – Fresh Batch</title>
+    <link>https://skylearn.io/feed-latest</link>
+    <description>Latest test feed for Zapier keyword prefilter validation. Clean, valid XML with new unique articles.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 25 Oct 2025 11:55:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 17:55:00 GMT</lastBuildDate>
     <ttl>30</ttl>
 
-    <!-- PASS 06 -->
+    <!-- PASS 20 -->
     <item>
-      <title>BT Group opens new innovation hub in Birmingham’s Paradise development</title>
-      <link>https://example.com/article20008</link>
-      <description>BT relocates 1,000 staff to a new sustainable workspace in Birmingham city centre.</description>
-      <pubDate>Mon, 17 Nov 2025 09:00:00 GMT</pubDate>
+      <title>IBM opens new quantum computing lab at Harwell Campus</title>
+      <link>https://example.com/article20028</link>
+      <guid>article20028</guid>
+      <description>The new 80,000 sq ft facility will support UK research into advanced quantum technologies.</description>
+      <pubDate>Sat, 25 Oct 2025 17:10:00 GMT</pubDate>
     </item>
 
-    <!-- SKIP 04 -->
+    <!-- SKIP 10 -->
     <item>
-      <title>Taylor Swift to headline Wembley Stadium in summer 2026</title>
-      <link>https://example.com/article20009</link>
-      <description>Entertainment story unrelated to property or corporate relocation.</description>
-      <pubDate>Mon, 17 Nov 2025 10:00:00 GMT</pubDate>
+      <title>Harry Styles launches 2026 world tour across Europe</title>
+      <link>https://example.com/article20029</link>
+      <guid>article20029</guid>
+      <description>Entertainment update with no link to business or property developments.</description>
+      <pubDate>Sat, 25 Oct 2025 17:25:00 GMT</pubDate>
     </item>
 
-    <!-- PASS 07 -->
+    <!-- PASS 21 -->
     <item>
-      <title>Google expands London campus with new data centre in King’s Cross</title>
-      <link>https://example.com/article20010</link>
-      <description>Tech giant increases footprint with additional infrastructure for AI operations.</description>
-      <pubDate>Tue, 18 Nov 2025 08:50:00 GMT</pubDate>
+      <title>PwC secures 10-year lease for new Belfast office</title>
+      <link>https://example.com/article20030</link>
+      <guid>article20030</guid>
+      <description>The firm will relocate 1,200 employees to a newly refurbished building in the city centre.</description>
+      <pubDate>Sat, 25 Oct 2025 17:40:00 GMT</pubDate>
     </item>
 
-    <!-- PASS 08 -->
+    <!-- PASS 22 -->
     <item>
-      <title>JLL relocates Manchester team to refurbished Spinningfields offices</title>
-      <link>https://example.com/article20011</link>
-      <description>Property consultancy moves staff into new open-plan office at 3 Hardman Square.</description>
-      <pubDate>Wed, 19 Nov 2025 09:15:00 GMT</pubDate>
+      <title>Canary Wharf Group completes £200m life sciences tower</title>
+      <link>https://example.com/article20031</link>
+      <guid>article20031</guid>
+      <description>The 300,000 sq ft building will provide flexible lab and office space for biotech tenants.</description>
+      <pubDate>Sat, 25 Oct 2025 17:55:00 GMT</pubDate>
     </item>
-
-    <!-- SKIP 05 -->
-    <item>
-      <title>UK inflation drops to 2.3% amid stable energy prices</title>
-      <link>https://example.com/article20012</link>
-      <description>Economic update not directly related to real estate or business relocations.</description>
-      <pubDate>Wed, 19 Nov 2025 13:30:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 09 -->
-    <item>
-      <title>WeWork reopens refurbished co-working hub in Soho</title>
-      <link>https://example.com/article20013</link>
-      <description>Shared workspace operator completes fit-out of 45,000 sq ft flexible office building.</description>
-      <pubDate>Thu, 20 Nov 2025 08:20:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 10 -->
-    <item>
-      <title>Legal & General announces new 250,000 sq ft office scheme in Bristol</title>
-      <link>https://example.com/article20014</link>
-      <description>Development will deliver Grade A offices and retail units near Temple Meads.</description>
-      <pubDate>Fri, 21 Nov 2025 07:40:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 06 -->
-    <item>
-      <title>Storm expected to bring heavy rain across the UK this weekend</title>
-      <link>https://example.com/article20015</link>
-      <description>Weather forecast with no relevance to office or tenant moves.</description>
-      <pubDate>Fri, 21 Nov 2025 10:25:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 11 -->
-    <item>
-      <title>Deloitte takes 150,000 sq ft pre-let at new City of London tower</title>
-      <link>https://example.com/article20016</link>
-      <description>The Big Four firm secures office space at a 40-storey development near Liverpool Street.</description>
-      <pubDate>Sat, 22 Nov 2025 08:00:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 12 -->
-    <item>
-      <title>Amazon to open logistics and office complex in Milton Keynes</title>
-      <link>https://example.com/article20017</link>
-      <description>Expansion creates 800 jobs and combines warehousing with on-site offices.</description>
-      <pubDate>Sun, 23 Nov 2025 09:30:00 GMT</pubDate>
-    </item>
-    <!-- PASS 13 -->
-    <item>
-      <title>CBRE opens new Northern HQ in Leeds city centre</title>
-      <link>https://example.com/article20018</link>
-      <description>CBRE consolidates Yorkshire operations into 70,000 sq ft of Grade A office space.</description>
-      <pubDate>Mon, 24 Nov 2025 09:00:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 14 -->
-    <item>
-      <title>HSBC relocates regional hub to 2 Snowhill Birmingham</title>
-      <link>https://example.com/article20019</link>
-      <description>The bank moves 2,000 employees into a new energy-efficient office complex.</description>
-      <pubDate>Mon, 24 Nov 2025 10:15:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 07 -->
-    <item>
-      <title>Ed Sheeran announces charity concert series for 2026</title>
-      <link>https://example.com/article20020</link>
-      <description>Music story unrelated to property or business relocations.</description>
-      <pubDate>Mon, 24 Nov 2025 12:00:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 15 -->
-    <item>
-      <title>Aviva Investors to fund £300m office redevelopment in Glasgow</title>
-      <link>https://example.com/article20021</link>
-      <description>Redevelopment includes 250,000 sq ft of new workspace and green public realm.</description>
-      <pubDate>Tue, 25 Nov 2025 08:45:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 08 -->
-    <item>
-      <title>Rihanna launches luxury fashion collection in Milan</title>
-      <link>https://example.com/article20022</link>
-      <description>Entertainment industry item with no connection to office property.</description>
-      <pubDate>Tue, 25 Nov 2025 13:20:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 16 -->
-    <item>
-      <title>Savills opens new London life sciences advisory office</title>
-      <link>https://example.com/article20023</link>
-      <description>The firm expands its UK presence with a specialist team at King’s Cross.</description>
-      <pubDate>Wed, 26 Nov 2025 09:00:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 17 -->
-    <item>
-      <title>Rolls-Royce establishes advanced engineering centre in Derby</title>
-      <link>https://example.com/article20024</link>
-      <description>New 100,000 sq ft facility will support hydrogen propulsion research.</description>
-      <pubDate>Wed, 26 Nov 2025 09:45:00 GMT</pubDate>
-    </item>
-
-    <!-- SKIP 09 -->
-    <item>
-      <title>Lewis Hamilton releases new autobiography</title>
-      <link>https://example.com/article20025</link>
-      <description>Personal story unrelated to corporate real estate or relocations.</description>
-      <pubDate>Wed, 26 Nov 2025 15:15:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 18 -->
-    <item>
-      <title>Network Rail relocates 600 staff to new York headquarters</title>
-      <link>https://example.com/article20026</link>
-      <description>The move consolidates multiple regional offices into a single modern site.</description>
-      <pubDate>Thu, 27 Nov 2025 09:20:00 GMT</pubDate>
-    </item>
-
-    <!-- PASS 19 -->
-    <item>
-      <title>Landsec unveils mixed-use redevelopment at Victoria, London</title>
-      <link>https://example.com/article20027</link>
-      <description>The £400m scheme includes office, retail and residential space near Victoria Station.</description>
-      <pubDate>Fri, 28 Nov 2025 08:35:00 GMT</pubDate>
-    </item>
-
 
   </channel>
 </rss>
