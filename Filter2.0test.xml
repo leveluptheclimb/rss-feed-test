@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn Pre-Filter Test Feed – Single Article</title>
+    <link>https://skylearn.io/feed-single-test</link>
+    <description>Individual article feed for testing relevance filters and Zapier integration.</description>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 25 Oct 2025 14:00:00 GMT</lastBuildDate>
+    <pubDate>Sat, 25 Oct 2025 14:00:00 GMT</pubDate>
+    <generator>SkyLearn Test Generator v1.0</generator>
+
+    <!-- PASS TEST -->
+    <item>
+      <title>EY relocates UK headquarters to sustainable London Bridge campus</title>
+      <link>https://example.com/article30001</link>
+      <description>Ernst  Young has moved 5,000 staff to a new 350,000 sq ft office complex featuring green roofs and smart energy systems.</description>
+      <pubDate>Sat, 25 Oct 2025 13:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://example.com/article30001</guid>
+    </item>
+    <!-- PASS 13 -->
+    <item>
+      <title>HSBC moves wealth management division to new Canary Wharf HQ</title>
+      <link>https://example.com/article30002</link>
+      <description>The bank has completed its relocation to a 220,000 sq ft sustainable office at 25 North Colonnade, consolidating multiple London sites.</description>
+      <pubDate>Sun, 26 Oct 2025 09:10:00 GMT</pubDate>
+      <guid isPermaLink="true">https://example.com/article30002</guid>
+    </item>
+
+    <!-- SKIP 07 -->
+    <item>
+      <title>Coldplay announces charity concert series for 2026</title>
+      <link>https://example.com/article30003</link>
+      <description>The band will perform across Europe to raise funds for environmental projects.</description>
+      <pubDate>Sun, 26 Oct 2025 11:45:00 GMT</pubDate>
+      <guid isPermaLink="true">https://example.com/article30003</guid>
+    </item>
+
+    <!-- PASS 14 -->
+    <item>
+      <title>British Land secures new tenant for Regent’s Place offices</title>
+      <link>https://example.com/article30004</link>
+      <description>A global tech company has leased 60,000 sq ft at British Land’s Regent’s Place campus in London’s West End.</description>
+      <pubDate>Mon, 27 Oct 2025 08:30:00 GMT</pubDate>
+      <guid isPermaLink="true">https://example.com/article30004</guid>
+    </item>
+
+  </channel>
+</rss>
