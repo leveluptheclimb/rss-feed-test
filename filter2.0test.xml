@@ -1,47 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Pre-Filter Test Feed – Single Article</title>
-    <link>https://skylearn.io/feed-single-test</link>
-    <description>Individual article feed for testing relevance filters and Zapier integration.</description>
-    <language>en-gb</language>
-    <lastBuildDate>Sat, 25 Oct 2025 14:00:00 GMT</lastBuildDate>
-    <pubDate>Sat, 25 Oct 2025 14:00:00 GMT</pubDate>
-    <generator>SkyLearn Test Generator v1.0</generator>
+    <title>SkyLearn Filter Test Feed – 10 Articles</title>
+    <link>https://example.com/skylearn-test-feed</link>
+    <description>Mixed commercial property and general news articles for Zapier filter validation</description>
 
-    <!-- PASS TEST -->
+    <!-- PASS 1 -->
     <item>
-      <title>EY relocates UK headquarters to sustainable London Bridge campus</title>
-      <link>https://example.com/article30001</link>
-      <description>Ernst  Young has moved 5,000 staff to a new 350,000 sq ft office complex featuring green roofs and smart energy systems.</description>
-      <pubDate>Sat, 25 Oct 2025 13:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://example.com/article30001</guid>
+      <title>BT relocates London headquarters to Aldgate Tower</title>
+      <link>https://example.com/article1001</link>
+      <description>BT Group has moved its HQ offices to a new 300,000 sq ft building in Aldgate Tower.</description>
+      <pubDate>Sun, 26 Oct 2025 08:30:00 GMT</pubDate>
     </item>
-    <!-- PASS 13 -->
+
+    <!-- PASS 2 -->
     <item>
-      <title>HSBC moves wealth management division to new Canary Wharf HQ</title>
-      <link>https://example.com/article30002</link>
-      <description>The bank has completed its relocation to a 220,000 sq ft sustainable office at 25 North Colonnade, consolidating multiple London sites.</description>
+      <title>WeWork expands office footprint across Manchester</title>
+      <link>https://example.com/article1002</link>
+      <description>The flexible workspace giant adds two new sites totalling 120,000 sq ft.</description>
       <pubDate>Sun, 26 Oct 2025 09:10:00 GMT</pubDate>
-      <guid isPermaLink="true">https://example.com/article30002</guid>
     </item>
 
-    <!-- SKIP 07 -->
+    <!-- PASS 3 -->
     <item>
-      <title>Coldplay announces charity concert series for 2026</title>
-      <link>https://example.com/article30003</link>
-      <description>The band will perform across Europe to raise funds for environmental projects.</description>
-      <pubDate>Sun, 26 Oct 2025 11:45:00 GMT</pubDate>
-      <guid isPermaLink="true">https://example.com/article30003</guid>
+      <title>Legal & General signs major lease in Leeds city centre</title>
+      <link>https://example.com/article1003</link>
+      <description>The investment firm has leased 50,000 sq ft at Wellington Place.</description>
+      <pubDate>Sun, 26 Oct 2025 09:40:00 GMT</pubDate>
     </item>
 
-    <!-- PASS 14 -->
+    <!-- PASS 4 -->
     <item>
-      <title>British Land secures new tenant for Regent’s Place offices</title>
-      <link>https://example.com/article30004</link>
-      <description>A global tech company has leased 60,000 sq ft at British Land’s Regent’s Place campus in London’s West End.</description>
-      <pubDate>Mon, 27 Oct 2025 08:30:00 GMT</pubDate>
-      <guid isPermaLink="true">https://example.com/article30004</guid>
+      <title>PwC plans relocation to new HQ in Birmingham</title>
+      <link>https://example.com/article1004</link>
+      <description>The Big Four firm will occupy a 200,000 sq ft workspace near Paradise Circus.</description>
+      <pubDate>Sun, 26 Oct 2025 10:05:00 GMT</pubDate>
+    </item>
+
+    <!-- PASS 5 -->
+    <item>
+      <title>Capita announces office expansion in Glasgow</title>
+      <link>https://example.com/article1005</link>
+      <description>Capita is expanding its Scottish HQ to accommodate 400 staff.</description>
+      <pubDate>Sun, 26 Oct 2025 10:40:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 1 -->
+    <item>
+      <title>UK inflation eases slightly in September</title>
+      <link>https://example.com/article1006</link>
+      <description>Economists say the Bank of England may pause rate hikes as prices stabilise.</description>
+      <pubDate>Sun, 26 Oct 2025 11:05:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 2 -->
+    <item>
+      <title>Premier League club confirms new sponsorship deal</title>
+      <link>https://example.com/article1007</link>
+      <description>The three-year partnership will feature shirt branding and stadium adverts.</description>
+      <pubDate>Sun, 26 Oct 2025 11:40:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 3 -->
+    <item>
+      <title>BBC announces new drama series set in Cornwall</title>
+      <link>https://example.com/article1008</link>
+      <description>The show follows a local family and their fishing business.</description>
+      <pubDate>Sun, 26 Oct 2025 12:15:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 4 -->
+    <item>
+      <title>Greggs to open 50 more bakeries across the UK</title>
+      <link>https://example.com/article1009</link>
+      <description>The retailer plans new shops in retail parks and transport hubs.</description>
+      <pubDate>Sun, 26 Oct 2025 12:45:00 GMT</pubDate>
+    </item>
+
+    <!-- SKIP 5 -->
+    <item>
+      <title>Government announces £2bn green investment fund</title>
+      <link>https://example.com/article1010</link>
+      <description>The initiative aims to support renewable energy projects nationwide.</description>
+      <pubDate>Sun, 26 Oct 2025 13:10:00 GMT</pubDate>
     </item>
 
   </channel>
