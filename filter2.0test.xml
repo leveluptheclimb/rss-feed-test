@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Filter Test Feed – 20251026153045B293</title>
-    <link>https://example.com/testfeed?t=20251026153045B293</link>
+    <title>SkyLearn Filter Test Feed – 202510261520A839</title>
+    <link>https://example.com/testfeed?t=202510261520A839</link>
     <description>Feed for testing Zapier filter logic.</description>
 
     <!-- PASS 1 -->
     <item>
-      <title>[PASS 1] Tech firm announces relocation of headquarters to new London office space</title>
-      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251026153045A111</link>
-      <description><![CDATA[The company will relocate its HQ to a larger office in London, expanding its workspace by 50,000 sq ft to accommodate future growth.]]></description>
-      <pubDate>Sun, 26 Oct 2025 15:30:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251026153045A111</guid>
+      <title>[PASS 1] Tech startup announces new London headquarters to support expansion</title>
+      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=202510261520A839</link>
+      <description><![CDATA[The fast-growing firm revealed plans to open a new London HQ to accommodate its expanding workforce and increased workspace needs.]]></description>
+      <pubDate>Sun, 26 Oct 2025 15:20:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-202510261520A839</guid>
     </item>
 
     <!-- PASS 2 -->
     <item>
-      <title>[PASS 2] Global bank signs new 15-year lease for expanded Canary Wharf HQ</title>
-      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251026153200B225</link>
-      <description><![CDATA[The financial giant confirmed it has renewed its lease for an additional 200,000 sq ft of workspace in its flagship headquarters tower.]]></description>
-      <pubDate>Sun, 26 Oct 2025 15:32:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251026153200B225</guid>
+      <title>[PASS 2] Global consulting giant signs major lease for new Dublin office</title>
+      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=202510261523B472</link>
+      <description><![CDATA[The international firm has finalized a long-term leasing deal for its new European headquarters located in Dublin’s Docklands.]]></description>
+      <pubDate>Sun, 26 Oct 2025 15:23:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-202510261523B472</guid>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>[PASS 3] Startup expands European operations with new office openings in Berlin and Paris</title>
-      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251026153310C884</link>
-      <description><![CDATA[The AI company announced the expansion of its European footprint through the launch of new offices to support international growth.]]></description>
-      <pubDate>Sun, 26 Oct 2025 15:33:10 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251026153310C884</guid>
+      <title>[PASS 3] Fintech leader relocates main office to Berlin for workspace expansion</title>
+      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=202510261526C289</link>
+      <description><![CDATA[The fintech company confirmed it will relocate its central office operations to a larger Berlin site offering 50,000 sq ft of workspace.]]></description>
+      <pubDate>Sun, 26 Oct 2025 15:26:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-202510261526C289</guid>
     </item>
 
     <!-- SKIP 1 -->
     <item>
       <title>[SKIP 1] Premier League sees record attendance as fans return post-pandemic</title>
-      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251026153425D903</link>
-      <description><![CDATA[Football clubs across England have reported record ticket sales and attendance figures as enthusiasm for live matches returns.]]></description>
-      <pubDate>Sun, 26 Oct 2025 15:34:25 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251026153425D903</guid>
+      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=202510261529D934</link>
+      <description><![CDATA[Matchday numbers have surged to historic highs across England’s top flight as stadiums reach near-full capacity.]]></description>
+      <pubDate>Sun, 26 Oct 2025 15:29:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-202510261529D934</guid>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>[SKIP 2] Hollywood announces new wave of sci-fi reboots for 2026 season</title>
-      <link>https://tech.eu/2025/10/24/enpal-secures-700m-abs-facility-lakestar-calls-time-on-generalist-venture-funds-and-15-of-slush-alumni-become-founders/?t=20251026153550E476</link>
-      <description><![CDATA[Major studios revealed plans for a new lineup of science fiction remakes and spin-offs, banking on nostalgia-driven box office success.]]></description>
-      <pubDate>Sun, 26 Oct 2025 15:35:50 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251026153550E476</guid>
+      <title>[SKIP 2] Streaming platforms compete for top talent in new wave of content deals</title>
+      <link>https://tech.eu/2025/10/24/enpal-secures-700m-abs-facility-lakestar-calls-time-on-generalist-venture-funds-and-15-of-slush-alumni-become-founders/?t=202510261532E581</link>
+      <description><![CDATA[Major streaming networks are investing heavily in original content and signing exclusive multi-year contracts with leading actors.]]></description>
+      <pubDate>Sun, 26 Oct 2025 15:32:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-202510261532E581</guid>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>[SKIP 3] Health experts discuss brain wellness at annual medical summit</title>
-      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251026153715F552</link>
-      <description><![CDATA[Doctors and neuroscientists gathered to explore new treatments and prevention strategies for brain health and cognitive decline.]]></description>
-      <pubDate>Sun, 26 Oct 2025 15:37:15 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251026153715F552</guid>
+      <title>[SKIP 3] Health experts discuss Kim Kardashian’s revelation about brain aneurysm scare</title>
+      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=202510261535F716</link>
+      <description><![CDATA[The celebrity’s statement has sparked widespread conversations about the importance of early detection and lifestyle awareness.]]></description>
+      <pubDate>Sun, 26 Oct 2025 15:35:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-202510261535F716</guid>
     </item>
 
   </channel>
