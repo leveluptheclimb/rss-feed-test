@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Filter Test Feed – 20251102170441S229</title>
-    <link>https://example.com/testfeed?t=20251102170441S229</link>
+    <title>SkyLearn Filter Test Feed – 20251102172018T551</title>
+    <link>https://example.com/testfeed?t=20251102172018T551</link>
     <description>Feed for testing Zapier filter logic.</description>
 
     <!-- PASS 1 -->
     <item>
-      <title>[PASS 1] Cloud computing giant relocates US headquarters to Austin amid major expansion</title>
-      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251102170441A291</link>
-      <description><![CDATA[The company announced its relocation from San Francisco to Austin, signing a 15-year lease for 150,000 sq ft of office space to support rapid growth.]]></description>
-      <pubDate>Sun, 02 Nov 2025 17:04:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102170441A291</guid>
+      <title>[PASS 1] Software giant relocates Asia-Pacific headquarters to Singapore to drive regional growth</title>
+      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251102172018A472</link>
+      <description><![CDATA[The company announced the relocation of its APAC HQ from Hong Kong to Singapore, leasing 120,000 sq ft of new office space to support expansion.]]></description>
+      <pubDate>Sun, 02 Nov 2025 17:20:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102172018A472</guid>
     </item>
 
     <!-- PASS 2 -->
     <item>
-      <title>[PASS 2] European fintech signs long-term lease for new Warsaw operations office</title>
-      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251102170712B645</link>
-      <description><![CDATA[The fintech startup has leased 30,000 sq ft of workspace in Warsaw’s business district to host its growing product and engineering teams.]]></description>
-      <pubDate>Sun, 02 Nov 2025 17:07:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102170712B645</guid>
+      <title>[PASS 2] Startup expands office space in Lisbon following major Series C funding round</title>
+      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251102172251B345</link>
+      <description><![CDATA[The AI-driven logistics startup announced an expansion of its Lisbon office by leasing an additional 18,000 sq ft to accommodate its growing team.]]></description>
+      <pubDate>Sun, 02 Nov 2025 17:22:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102172251B345</guid>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>[PASS 3] AI research lab expands headquarters in San Diego with new innovation hub</title>
-      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251102170959C398</link>
-      <description><![CDATA[The lab announced an HQ expansion including a 50,000 sq ft workspace for robotics and AI safety projects.]]></description>
-      <pubDate>Sun, 02 Nov 2025 17:09:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102170959C398</guid>
+      <title>[PASS 3] Automotive supplier opens new European HQ in Milan to support EV production</title>
+      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251102172509C881</link>
+      <description><![CDATA[The automotive parts maker confirmed a new headquarters relocation to Milan, including advanced R&D labs and a 45,000 sq ft workspace.]]></description>
+      <pubDate>Sun, 02 Nov 2025 17:25:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102172509C881</guid>
     </item>
 
     <!-- SKIP 1 -->
     <item>
-      <title>[SKIP 1] Musicians collaborate for charity album supporting global health initiatives</title>
-      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251102171221D845</link>
-      <description><![CDATA[Artists from around the world have joined forces on a new charity album, with proceeds going to healthcare programs in developing countries.]]></description>
-      <pubDate>Sun, 02 Nov 2025 17:12:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102171221D845</guid>
+      <title>[SKIP 1] Global art fair attracts record attendance in New York City</title>
+      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251102172733D922</link>
+      <description><![CDATA[Art collectors and enthusiasts flocked to the city’s largest modern art fair, featuring over 1,200 international galleries.]]></description>
+      <pubDate>Sun, 02 Nov 2025 17:27:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102172733D922</guid>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>[SKIP 2] Premier League clubs agree on new broadcasting deal worth billions</title>
-      <link>https://tech.eu/2025/10/24/enpal-secures-700m-abs-facility-lakestar-calls-time-on-generalist-venture-funds-and-15-of-slush-alumni-become-founders/?t=20251102171455E736</link>
-      <description><![CDATA[The deal extends coverage for the next five seasons, ensuring fans access to more live matches across streaming platforms.]]></description>
-      <pubDate>Sun, 02 Nov 2025 17:14:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102171455E736</guid>
+      <title>[SKIP 2] Food delivery app launches nationwide campaign promoting zero-waste packaging</title>
+      <link>https://tech.eu/2025/10/24/enpal-secures-700m-abs-facility-lakestar-calls-time-on-generalist-venture-funds-and-15-of-slush-alumni-become-founders/?t=20251102173014E692</link>
+      <description><![CDATA[The initiative encourages customers to return containers for reuse, part of the company’s sustainability strategy.]]></description>
+      <pubDate>Sun, 02 Nov 2025 17:30:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102173014E692</guid>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>[SKIP 3] Scientists discover new technique to purify ocean water using solar power</title>
-      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251102171729F293</link>
-      <description><![CDATA[Researchers have developed a solar-powered desalination process capable of producing clean water at a fraction of current costs.]]></description>
-      <pubDate>Sun, 02 Nov 2025 17:17:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102171729F293</guid>
+      <title>[SKIP 3] Astronomers detect potential signs of water vapor on distant exoplanet</title>
+      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251102173248F401</link>
+      <description><![CDATA[Using advanced space telescopes, scientists found traces of water vapor in the atmosphere of a planet 120 light-years from Earth.]]></description>
+      <pubDate>Sun, 02 Nov 2025 17:32:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102173248F401</guid>
     </item>
 
   </channel>
