@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>SkyLearn Filter Test Feed – 20251102153045Z292</title>
+    <link>https://example.com/testfeed?t=20251102153045Z292</link>
+    <description>Feed for testing Zapier filter logic.</description>
+
+    <!-- PASS 1 -->
+    <item>
+      <title>[PASS 1] Fintech startup opens new European headquarters in Berlin to expand operations</title>
+      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251102153045A731</link>
+      <description><![CDATA[The company announced its relocation to a larger HQ in Berlin, citing growing demand for workspace and plans to lease an additional 20,000 sq ft for future teams.]]></description>
+      <pubDate>Sun, 02 Nov 2025 15:30:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102153045A731</guid>
+    </item>
+
+    <!-- PASS 2 -->
+    <item>
+      <title>[PASS 2] Global biotech firm signs new lease for expanded laboratory offices in Cambridge</title>
+      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251102153312B482</link>
+      <description><![CDATA[The firm will lease a 50,000 sq ft workspace near Cambridge Science Park, marking a major relocation of its research HQ.]]></description>
+      <pubDate>Sun, 02 Nov 2025 15:33:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102153312B482</guid>
+    </item>
+
+    <!-- PASS 3 -->
+    <item>
+      <title>[PASS 3] Software company announces relocation of UK headquarters to Manchester city centre</title>
+      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251102153633C901</link>
+      <description><![CDATA[After rapid team growth, the company confirmed it will relocate to a larger office building in Manchester, increasing workspace capacity by 60 percent.]]></description>
+      <pubDate>Sun, 02 Nov 2025 15:36:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102153633C901</guid>
+    </item>
+
+    <!-- SKIP 1 -->
+    <item>
+      <title>[SKIP 1] Premier League sees record attendance as fans return post-pandemic</title>
+      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251102153904D182</link>
+      <description><![CDATA[Attendance across all Premier League fixtures has reached its highest point in a decade, with average stadium capacity now exceeding 95 percent.]]></description>
+      <pubDate>Sun, 02 Nov 2025 15:39:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102153904D182</guid>
+    </item>
+
+    <!-- SKIP 2 -->
+    <item>
+      <title>[SKIP 2] Streaming platform introduces new ad-free subscription tier worldwide</title>
+      <link>https://tech.eu/2025/10/24/enpal-secures-700m-abs-facility-lakestar-calls-time-on-generalist-venture-funds-and-15-of-slush-alumni-become-founders/?t=20251102154122E749</link>
+      <description><![CDATA[The company said it is focusing on improving user experience and reducing churn through a premium ad-free option launching this month.]]></description>
+      <pubDate>Sun, 02 Nov 2025 15:41:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102154122E749</guid>
+    </item>
+
+    <!-- SKIP 3 -->
+    <item>
+      <title>[SKIP 3] Researchers develop new biodegradable packaging material from seaweed</title>
+      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251102154339F354</link>
+      <description><![CDATA[A team of scientists has created an eco-friendly packaging solution using marine algae, offering a sustainable alternative to plastic waste.]]></description>
+      <pubDate>Sun, 02 Nov 2025 15:43:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102154339F354</guid>
+    </item>
+
+  </channel>
+</rss>
