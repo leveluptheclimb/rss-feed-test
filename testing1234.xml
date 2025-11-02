@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Filter Test Feed – 20251102160012N483</title>
-    <link>https://example.com/testfeed?t=20251102160012N483</link>
+    <title>SkyLearn Filter Test Feed – 20251102161758P604</title>
+    <link>https://example.com/testfeed?t=20251102161758P604</link>
     <description>Feed for testing Zapier filter logic.</description>
 
     <!-- PASS 1 -->
     <item>
-      <title>[PASS 1] Cybersecurity startup relocates headquarters to Toronto to support North American expansion</title>
-      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251102160012A193</link>
-      <description><![CDATA[The fast-growing cybersecurity firm announced the relocation of its HQ from Vancouver to Toronto, with new office space designed for 300 employees.]]></description>
-      <pubDate>Sun, 02 Nov 2025 16:00:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102160012A193</guid>
+      <title>[PASS 1] Fintech company relocates global headquarters to Paris to expand European footprint</title>
+      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251102161758A217</link>
+      <description><![CDATA[The fintech firm confirmed the relocation of its HQ to Paris, securing a long-term lease for 60,000 sq ft of premium workspace in La Defense.]]></description>
+      <pubDate>Sun, 02 Nov 2025 16:17:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102161758A217</guid>
     </item>
 
     <!-- PASS 2 -->
     <item>
-      <title>[PASS 2] Global law firm expands London office footprint with major lease renewal</title>
-      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251102160341B552</link>
-      <description><![CDATA[The law firm has signed a 10-year lease on an additional 25,000 sq ft of workspace in central London as part of its strategic office expansion.]]></description>
-      <pubDate>Sun, 02 Nov 2025 16:03:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102160341B552</guid>
+      <title>[PASS 2] Pharmaceutical group opens new research office in Basel following major investment</title>
+      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251102162035B981</link>
+      <description><![CDATA[The company has leased 35,000 sq ft of laboratory and office space in Basel, marking its latest expansion in Europe’s biotech hub.]]></description>
+      <pubDate>Sun, 02 Nov 2025 16:20:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102162035B981</guid>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>[PASS 3] Energy company opens new European HQ in Amsterdam to streamline regional operations</title>
-      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251102160629C713</link>
-      <description><![CDATA[The renewable energy provider announced a new headquarters in Amsterdam, relocating senior teams and leasing modern office facilities.]]></description>
-      <pubDate>Sun, 02 Nov 2025 16:06:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102160629C713</guid>
+      <title>[PASS 3] Cloud services provider expands HQ to accommodate 500 new employees</title>
+      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251102162309C567</link>
+      <description><![CDATA[The cloud computing firm announced a headquarters expansion, adding new office floors and upgraded collaboration spaces for hybrid work.]]></description>
+      <pubDate>Sun, 02 Nov 2025 16:23:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102162309C567</guid>
     </item>
 
     <!-- SKIP 1 -->
     <item>
-      <title>[SKIP 1] Major art exhibition opens in Paris showcasing digital installations</title>
-      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251102160902D283</link>
-      <description><![CDATA[The exhibition features immersive digital works from over 50 international artists, blending technology with traditional art forms.]]></description>
-      <pubDate>Sun, 02 Nov 2025 16:09:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102160902D283</guid>
+      <title>[SKIP 1] Global fashion brand launches eco-friendly denim line</title>
+      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251102162542D703</link>
+      <description><![CDATA[The brand’s new sustainable denim collection uses recycled cotton and water-saving dye techniques to reduce environmental impact.]]></description>
+      <pubDate>Sun, 02 Nov 2025 16:25:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102162542D703</guid>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>[SKIP 2] Retail giant unveils limited edition sneaker collection for winter season</title>
-      <link>https://tech.eu/2025/10/24/enpal-secures-700m-abs-facility-lakestar-calls-time-on-generalist-venture-funds-and-15-of-slush-alumni-become-founders/?t=20251102161146E109</link>
-      <description><![CDATA[The collection includes collaborations with top designers and sustainable materials aimed at eco-conscious consumers.]]></description>
-      <pubDate>Sun, 02 Nov 2025 16:11:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102161146E109</guid>
+      <title>[SKIP 2] Streaming giant announces record subscriber growth in Asia-Pacific</title>
+      <link>https://tech.eu/2025/10/24/enpal-secures-700m-abs-facility-lakestar-calls-time-on-generalist-venture-funds-and-15-of-slush-alumni-become-founders/?t=20251102162818E982</link>
+      <description><![CDATA[The entertainment platform reached over 120 million regional subscribers, driven by demand for local content and sports coverage.]]></description>
+      <pubDate>Sun, 02 Nov 2025 16:28:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102162818E982</guid>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>[SKIP 3] Scientists observe record migration of whales along South American coastline</title>
-      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251102161423F372</link>
-      <description><![CDATA[Marine researchers have reported the largest whale migration in two decades, signaling possible recovery in ocean ecosystems.]]></description>
-      <pubDate>Sun, 02 Nov 2025 16:14:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102161423F372</guid>
+      <title>[SKIP 3] Scientists reveal breakthrough in battery recycling efficiency</title>
+      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251102163057F314</link>
+      <description><![CDATA[Researchers have developed a new chemical process that can recover over 95 percent of lithium from used batteries, improving sustainability in EV production.]]></description>
+      <pubDate>Sun, 02 Nov 2025 16:30:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102163057F314</guid>
     </item>
 
   </channel>
