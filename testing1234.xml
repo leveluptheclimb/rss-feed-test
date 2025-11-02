@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Filter Test Feed – 20251102163344Q842</title>
-    <link>https://example.com/testfeed?t=20251102163344Q842</link>
+    <title>SkyLearn Filter Test Feed – 20251102164838R512</title>
+    <link>https://example.com/testfeed?t=20251102164838R512</link>
     <description>Feed for testing Zapier filter logic.</description>
 
     <!-- PASS 1 -->
     <item>
-      <title>[PASS 1] Robotics firm relocates European headquarters to Munich for strategic growth</title>
-      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251102163344A615</link>
-      <description><![CDATA[The robotics company confirmed it will relocate its HQ from Zurich to Munich, leasing a new 70,000 sq ft office to support engineering expansion.]]></description>
-      <pubDate>Sun, 02 Nov 2025 16:33:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102163344A615</guid>
+      <title>[PASS 1] Global tech consultancy relocates headquarters to Madrid for operational efficiency</title>
+      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251102164838A294</link>
+      <description><![CDATA[The company announced the relocation of its HQ from Lisbon to Madrid, leasing 80,000 sq ft of modern workspace to enhance collaboration.]]></description>
+      <pubDate>Sun, 02 Nov 2025 16:48:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102164838A294</guid>
     </item>
 
     <!-- PASS 2 -->
     <item>
-      <title>[PASS 2] Real estate firm announces office expansion with new London lease agreement</title>
-      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251102163609B482</link>
-      <description><![CDATA[The company signed a 12-year lease for 40,000 sq ft of additional office space in central London, citing increased client demand.]]></description>
-      <pubDate>Sun, 02 Nov 2025 16:36:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102163609B482</guid>
+      <title>[PASS 2] Renewable energy firm signs major lease for new corporate office in Oslo</title>
+      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251102165103B481</link>
+      <description><![CDATA[The Norwegian clean energy provider secured a 25,000 sq ft lease for its new regional office to support ongoing European expansion.]]></description>
+      <pubDate>Sun, 02 Nov 2025 16:51:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102165103B481</guid>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>[PASS 3] Automotive manufacturer opens new design HQ in Tokyo with 500 engineers</title>
-      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251102163857C193</link>
-      <description><![CDATA[The automaker unveiled its new headquarters in Tokyo’s Roppongi district, a relocation aimed at centralizing design and technology teams.]]></description>
-      <pubDate>Sun, 02 Nov 2025 16:38:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102163857C193</guid>
+      <title>[PASS 3] Data analytics startup expands headquarters with new floors in Singapore</title>
+      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251102165347C338</link>
+      <description><![CDATA[The firm announced it has added two new levels to its Singapore HQ, increasing workspace capacity by 40 percent to accommodate new teams.]]></description>
+      <pubDate>Sun, 02 Nov 2025 16:53:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102165347C338</guid>
     </item>
 
     <!-- SKIP 1 -->
     <item>
-      <title>[SKIP 1] Record rainfall causes widespread flooding across southern Italy</title>
-      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251102164112D819</link>
-      <description><![CDATA[Authorities have issued warnings as heavy rains continue to flood parts of Naples and Sicily, disrupting travel and local businesses.]]></description>
-      <pubDate>Sun, 02 Nov 2025 16:41:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102164112D819</guid>
+      <title>[SKIP 1] Sportswear brand unveils athlete-led marketing campaign for winter season</title>
+      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251102165602D932</link>
+      <description><![CDATA[The campaign features top athletes promoting the company’s latest cold-weather gear across social media and streaming platforms.]]></description>
+      <pubDate>Sun, 02 Nov 2025 16:56:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102165602D932</guid>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>[SKIP 2] Streaming platform to host live coverage of global esports championship</title>
-      <link>https://tech.eu/2025/10/24/enpal-secures-700m-abs-facility-lakestar-calls-time-on-generalist-venture-funds-and-15-of-slush-alumni-become-founders/?t=20251102164333E709</link>
-      <description><![CDATA[The company announced exclusive broadcasting rights for the 2025 esports finals, set to attract millions of global viewers.]]></description>
-      <pubDate>Sun, 02 Nov 2025 16:43:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102164333E709</guid>
+      <title>[SKIP 2] Film festival in Venice celebrates rising independent filmmakers</title>
+      <link>https://tech.eu/2025/10/24/enpal-secures-700m-abs-facility-lakestar-calls-time-on-generalist-venture-funds-and-15-of-slush-alumni-become-founders/?t=20251102165836E710</link>
+      <description><![CDATA[The annual festival has awarded top prizes to emerging directors focused on climate change, identity, and digital culture.]]></description>
+      <pubDate>Sun, 02 Nov 2025 16:58:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102165836E710</guid>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>[SKIP 3] Scientists develop low-cost solar panels using recycled glass</title>
-      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251102164602F285</link>
-      <description><![CDATA[Researchers have unveiled a new method for producing solar panels that cuts manufacturing costs by 40 percent using repurposed materials.]]></description>
-      <pubDate>Sun, 02 Nov 2025 16:46:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251102164602F285</guid>
+      <title>[SKIP 3] Oceanographers discover new deep-sea species near the Pacific Ridge</title>
+      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251102170109F492</link>
+      <description><![CDATA[Scientists have found three previously unknown marine species living in hydrothermal vents, expanding knowledge of deep-ocean biodiversity.]]></description>
+      <pubDate>Sun, 02 Nov 2025 17:01:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251102170109F492</guid>
     </item>
 
   </channel>
