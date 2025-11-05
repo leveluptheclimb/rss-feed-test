@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Filter Test Feed – 20251103164522B392</title>
-    <link>https://example.com/testfeed?t=20251103164522B392</link>
+    <title>SkyLearn Filter Test Feed – 202511051432Z9D3</title>
+    <link>https://example.com/testfeed?t=202511051432Z9D3</link>
     <description>Feed for testing Zapier filter logic.</description>
 
     <!-- PASS 1 -->
     <item>
-      <title>[PASS 1] Tech startup opens new London headquarters to support workspace expansion</title>
-      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251103164522C842</link>
-      <description><![CDATA[A fast-growing software company has announced the opening of a new headquarters in London, expanding its office footprint by 20,000 sq ft to accommodate a growing workforce.]]></description>
-      <pubDate>Mon, 03 Nov 2025 16:45:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251103164522C842</guid>
+      <title>[PASS 1] Howden announces relocation of local UK office to new Leeds workspace</title>
+      <link>https://www.insurancetimes.co.uk/news/howden-announces-relocation-of-local-uk-office/1453635.article?t=202511051432A715</link>
+      <description><![CDATA[Insurance broker Howden has confirmed the relocation of its regional office to a new 20,000 sq ft workspace in Leeds, part of its UK expansion strategy.]]></description>
+      <pubDate>Wed, 05 Nov 2025 14:32:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-202511051432A715</guid>
     </item>
 
     <!-- PASS 2 -->
     <item>
-      <title>[PASS 2] Fintech firm signs major lease agreement for new European office</title>
-      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251103164810D527</link>
-      <description><![CDATA[The company’s CEO confirmed a long-term lease deal for a new office in Amsterdam, part of its strategic relocation plan to strengthen European operations.]]></description>
-      <pubDate>Mon, 03 Nov 2025 16:48:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251103164810D527</guid>
+      <title>[PASS 2] UK data regulator ICO to relocate HQ to Manchester in major move north</title>
+      <link>https://www.uktech.news/tech-hubs/north-west/manchester/uk-data-regulator-ico-to-relocate-hq-to-manchester-20250602?t=202511051436B221</link>
+      <description><![CDATA[The UK Information Commissioner’s Office (ICO) has announced plans to relocate its headquarters to Manchester as part of a strategy to modernise operations.]]></description>
+      <pubDate>Wed, 05 Nov 2025 14:36:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-202511051436B221</guid>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>[PASS 3] Biotech group relocates HQ to larger research facility amid expansion</title>
-      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251103165109E118</link>
-      <description><![CDATA[The relocation will provide an additional 50,000 sq ft of workspace to support growing R&D activities and new clinical trials.]]></description>
-      <pubDate>Mon, 03 Nov 2025 16:51:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251103165109E118</guid>
+      <title>[PASS 3] McDermott Will and Emery plans Mayfair office move amid merger talks</title>
+      <link>https://www.globallegalpost.com/news/mcdemott-will-emery-plans-mayfair-office-move-amid-schulte-merger-talks-1352362015?t=202511051440T993</link>
+      <description><![CDATA[Global law firm McDermott Will and Emery is expanding its London presence with a new Mayfair office lease as merger discussions with Schulte Roth continue.]]></description>
+      <pubDate>Wed, 05 Nov 2025 14:40:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-202511051440T993</guid>
     </item>
 
     <!-- SKIP 1 -->
     <item>
       <title>[SKIP 1] Premier League sees record attendance as fans return post-pandemic</title>
-      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251103165401A229</link>
-      <description><![CDATA[Stadiums across the UK reported their highest attendance in over a decade, highlighting renewed enthusiasm for live sports events.]]></description>
-      <pubDate>Mon, 03 Nov 2025 16:54:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251103165401A229</guid>
+      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=202511051444H184</link>
+      <description><![CDATA[The Premier League has reported record-breaking crowds this season as football fans continue to flock back to stadiums following the pandemic years.]]></description>
+      <pubDate>Wed, 05 Nov 2025 14:44:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-202511051444H184</guid>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>[SKIP 2] Streaming platform announces new documentary series on space exploration</title>
-      <link>https://tech.eu/2025/10/24/enpal-secures-700m-abs-facility-lakestar-calls-time-on-generalist-venture-funds-and-15-of-slush-alumni-become-founders/?t=20251103165708F444</link>
-      <description><![CDATA[The new series will feature astronauts and scientists sharing personal insights into humanity’s next great adventure.]]></description>
-      <pubDate>Mon, 03 Nov 2025 16:57:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251103165708F444</guid>
+      <title>[SKIP 2] Kim Kardashian reveals recovery from brain aneurysm scare</title>
+      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=202511051448K319</link>
+      <description><![CDATA[Reality star Kim Kardashian shared details of her health scare involving a small brain aneurysm, saying she is now fully recovered and focusing on wellness.]]></description>
+      <pubDate>Wed, 05 Nov 2025 14:48:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-202511051448K319</guid>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>[SKIP 3] Fashion brand launches sustainability campaign with global influencers</title>
-      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251103170012B673</link>
-      <description><![CDATA[The campaign promotes recycled materials and ethical sourcing in an effort to redefine luxury fashion’s environmental impact.]]></description>
-      <pubDate>Mon, 03 Nov 2025 17:00:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251103170012B673</guid>
+      <title>[SKIP 3] Web browsers evolve into AI-powered guides with new OpenAI integrations</title>
+      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=202511051452J764</link>
+      <description><![CDATA[Next-generation web browsers are integrating AI assistants to enhance online navigation, offering users a more personalized and conversational experience.]]></description>
+      <pubDate>Wed, 05 Nov 2025 14:52:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-202511051452J764</guid>
     </item>
 
   </channel>
