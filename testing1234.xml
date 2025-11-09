@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Filter Test Feed – 202511051432Z9D3</title>
-    <link>https://example.com/testfeed?t=202511051432Z9D3</link>
+    <title>SkyLearn Filter Test Feed – 202511091010A327</title>
+    <link>https://example.com/testfeed?t=202511091010A327</link>
     <description>Feed for testing Zapier filter logic.</description>
 
     <!-- PASS 1 -->
     <item>
-      <title>[PASS 1] Howden announces relocation of local UK office to new Leeds workspace</title>
-      <link>https://www.insurancetimes.co.uk/news/howden-announces-relocation-of-local-uk-office/1453635.article?t=202511051432A715</link>
-      <description><![CDATA[Insurance broker Howden has confirmed the relocation of its regional office to a new 20,000 sq ft workspace in Leeds, part of its UK expansion strategy.]]></description>
-      <pubDate>Wed, 05 Nov 2025 14:32:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-202511051432A715</guid>
+      <title>[PASS 1] UK data regulator ICO to relocate HQ to Manchester</title>
+      <link>https://www.uktech.news/tech-hubs/north-west/manchester/uk-data-regulator-ico-to-relocate-hq-to-manchester-20250602?t=202511091010A611</link>
+      <description><![CDATA[The Information Commissioner's Office (ICO) confirmed it will relocate its headquarters from Cheshire to Manchester to attract digital talent and improve workspace efficiency.]]></description>
+      <pubDate>Sun, 09 Nov 2025 10:10:00 +0000</pubDate>
+      <guid isPermaLink="false">ico-hq-202511091010A611</guid>
     </item>
 
     <!-- PASS 2 -->
     <item>
-      <title>[PASS 2] UK data regulator ICO to relocate HQ to Manchester in major move north</title>
-      <link>https://www.uktech.news/tech-hubs/north-west/manchester/uk-data-regulator-ico-to-relocate-hq-to-manchester-20250602?t=202511051436B221</link>
-      <description><![CDATA[The UK Information Commissioner’s Office (ICO) has announced plans to relocate its headquarters to Manchester as part of a strategy to modernise operations.]]></description>
-      <pubDate>Wed, 05 Nov 2025 14:36:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-202511051436B221</guid>
+      <title>[PASS 2] Howden announces relocation of local UK office</title>
+      <link>https://www.insurancetimes.co.uk/news/howden-announces-relocation-of-local-uk-office/1453635.article?t=202511091014B992</link>
+      <description><![CDATA[Insurance broker Howden has confirmed the relocation of its regional office to a larger workspace in Birmingham to accommodate team expansion and new leasing agreements.]]></description>
+      <pubDate>Sun, 09 Nov 2025 10:14:00 +0000</pubDate>
+      <guid isPermaLink="false">howden-office-202511091014B992</guid>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>[PASS 3] McDermott Will and Emery plans Mayfair office move amid merger talks</title>
-      <link>https://www.globallegalpost.com/news/mcdemott-will-emery-plans-mayfair-office-move-amid-schulte-merger-talks-1352362015?t=202511051440T993</link>
-      <description><![CDATA[Global law firm McDermott Will and Emery is expanding its London presence with a new Mayfair office lease as merger discussions with Schulte Roth continue.]]></description>
-      <pubDate>Wed, 05 Nov 2025 14:40:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-202511051440T993</guid>
+      <title>[PASS 3] McDermott Will & Emery plans Mayfair office move amid merger talks</title>
+      <link>https://www.globallegalpost.com/news/mcdemott-will-emery-plans-mayfair-office-move-amid-schulte-merger-talks-1352362015?t=202511091018C405</link>
+      <description><![CDATA[Law firm McDermott Will & Emery is planning a new Mayfair office move as part of its expansion strategy, citing improved workspace and leasing flexibility.]]></description>
+      <pubDate>Sun, 09 Nov 2025 10:18:00 +0000</pubDate>
+      <guid isPermaLink="false">mcdermott-office-202511091018C405</guid>
     </item>
 
     <!-- SKIP 1 -->
     <item>
       <title>[SKIP 1] Premier League sees record attendance as fans return post-pandemic</title>
-      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=202511051444H184</link>
-      <description><![CDATA[The Premier League has reported record-breaking crowds this season as football fans continue to flock back to stadiums following the pandemic years.]]></description>
-      <pubDate>Wed, 05 Nov 2025 14:44:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-202511051444H184</guid>
+      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=202511091022D739</link>
+      <description><![CDATA[The Premier League has recorded its highest-ever attendance figures this season, marking a strong recovery in fan engagement after the pandemic.]]></description>
+      <pubDate>Sun, 09 Nov 2025 10:22:00 +0000</pubDate>
+      <guid isPermaLink="false">premier-attendance-202511091022D739</guid>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>[SKIP 2] Kim Kardashian reveals recovery from brain aneurysm scare</title>
-      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=202511051448K319</link>
-      <description><![CDATA[Reality star Kim Kardashian shared details of her health scare involving a small brain aneurysm, saying she is now fully recovered and focusing on wellness.]]></description>
-      <pubDate>Wed, 05 Nov 2025 14:48:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-202511051448K319</guid>
+      <title>[SKIP 2] Kim Kardashian opens up about brain aneurysm scare</title>
+      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=202511091026E853</link>
+      <description><![CDATA[Kim Kardashian revealed she suffered a minor brain aneurysm earlier this year, sharing her recovery story to raise awareness of early detection.]]></description>
+      <pubDate>Sun, 09 Nov 2025 10:26:00 +0000</pubDate>
+      <guid isPermaLink="false">kim-health-202511091026E853</guid>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>[SKIP 3] Web browsers evolve into AI-powered guides with new OpenAI integrations</title>
-      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=202511051452J764</link>
-      <description><![CDATA[Next-generation web browsers are integrating AI assistants to enhance online navigation, offering users a more personalized and conversational experience.]]></description>
-      <pubDate>Wed, 05 Nov 2025 14:52:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-202511051452J764</guid>
+      <title>[SKIP 3] Sky News launches Money newsletter from award-winning team</title>
+      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=202511091030F992</link>
+      <description><![CDATA[Sky News has introduced a new Money newsletter designed to help readers better understand personal finance, investment, and economic trends.]]></description>
+      <pubDate>Sun, 09 Nov 2025 10:30:00 +0000</pubDate>
+      <guid isPermaLink="false">skynews-money-202511091030F992</guid>
     </item>
 
   </channel>
