@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Filter Test Feed – 202511091010A327</title>
-    <link>https://example.com/testfeed?t=202511091010A327</link>
+    <title>SkyLearn Filter Test Feed – 20251109101530Z847</title>
+    <link>https://example.com/testfeed?t=20251109101530Z847</link>
     <description>Feed for testing Zapier filter logic.</description>
 
     <!-- PASS 1 -->
     <item>
       <title>[PASS 1] UK data regulator ICO to relocate HQ to Manchester</title>
-      <link>https://www.uktech.news/tech-hubs/north-west/manchester/uk-data-regulator-ico-to-relocate-hq-to-manchester-20250602?t=202511091010A611</link>
-      <description><![CDATA[The Information Commissioner's Office (ICO) confirmed it will relocate its headquarters from Cheshire to Manchester to attract digital talent and improve workspace efficiency.]]></description>
-      <pubDate>Sun, 09 Nov 2025 10:10:00 +0000</pubDate>
-      <guid isPermaLink="false">ico-hq-202511091010A611</guid>
+      <link>https://www.uktech.news/tech-hubs/north-west/manchester/uk-data-regulator-ico-to-relocate-hq-to-manchester-20250602?t=20251109101530A421</link>
+      <description><![CDATA[The Information Commissioners Office confirmed plans to relocate its headquarters to Manchester, citing improved workspace and modern leasing terms.]]></description>
+      <pubDate>Sun, 09 Nov 2025 10:15:30 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251109101530A421</guid>
     </item>
 
     <!-- PASS 2 -->
     <item>
       <title>[PASS 2] Howden announces relocation of local UK office</title>
-      <link>https://www.insurancetimes.co.uk/news/howden-announces-relocation-of-local-uk-office/1453635.article?t=202511091014B992</link>
-      <description><![CDATA[Insurance broker Howden has confirmed the relocation of its regional office to a larger workspace in Birmingham to accommodate team expansion and new leasing agreements.]]></description>
-      <pubDate>Sun, 09 Nov 2025 10:14:00 +0000</pubDate>
-      <guid isPermaLink="false">howden-office-202511091014B992</guid>
+      <link>https://www.insurancetimes.co.uk/news/howden-announces-relocation-of-local-uk-office/1453635.article?t=20251109101815B372</link>
+      <description><![CDATA[Insurance broker Howden confirmed a relocation of its regional UK office to a larger site to accommodate expansion and new staff.]]></description>
+      <pubDate>Sun, 09 Nov 2025 10:18:15 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251109101815B372</guid>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>[PASS 3] McDermott Will  Emery plans Mayfair office move amid merger talks</title>
-      <link>https://www.globallegalpost.com/news/mcdemott-will-emery-plans-mayfair-office-move-amid-schulte-merger-talks-1352362015?t=202511091018C405</link>
-      <description><![CDATA[Law firm McDermott Will & Emery is planning a new Mayfair office move as part of its expansion strategy, citing improved workspace and leasing flexibility.]]></description>
-      <pubDate>Sun, 09 Nov 2025 10:18:00 +0000</pubDate>
-      <guid isPermaLink="false">mcdermott-office-202511091018C405</guid>
+      <title>[PASS 3] McDermott Will Emery plans Mayfair office move amid merger talks</title>
+      <link>https://www.globallegalpost.com/news/mcdemott-will-emery-plans-mayfair-office-move-amid-schulte-merger-talks-1352362015?t=20251109102110C683</link>
+      <description><![CDATA[Law firm McDermott Will Emery is planning an office relocation to Mayfair as part of its strategic workspace expansion and upcoming merger discussions.]]></description>
+      <pubDate>Sun, 09 Nov 2025 10:21:10 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251109102110C683</guid>
     </item>
 
     <!-- SKIP 1 -->
     <item>
       <title>[SKIP 1] Premier League sees record attendance as fans return post-pandemic</title>
-      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=202511091022D739</link>
-      <description><![CDATA[The Premier League has recorded its highest-ever attendance figures this season, marking a strong recovery in fan engagement after the pandemic.]]></description>
-      <pubDate>Sun, 09 Nov 2025 10:22:00 +0000</pubDate>
-      <guid isPermaLink="false">premier-attendance-202511091022D739</guid>
+      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251109102402D912</link>
+      <description><![CDATA[Football stadiums across England have reported record-breaking crowds this season as fan confidence returns to pre-pandemic levels.]]></description>
+      <pubDate>Sun, 09 Nov 2025 10:24:02 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251109102402D912</guid>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>[SKIP 2] Kim Kardashian opens up about brain aneurysm scare</title>
-      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=202511091026E853</link>
-      <description><![CDATA[Kim Kardashian revealed she suffered a minor brain aneurysm earlier this year, sharing her recovery story to raise awareness of early detection.]]></description>
-      <pubDate>Sun, 09 Nov 2025 10:26:00 +0000</pubDate>
-      <guid isPermaLink="false">kim-health-202511091026E853</guid>
+      <title>[SKIP 2] Kim Kardashian discusses recovery after brain aneurysm scare</title>
+      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251109102655E504</link>
+      <description><![CDATA[Reality star Kim Kardashian opened up about her recent health scare, detailing how she prioritised rest and rehabilitation.]]></description>
+      <pubDate>Sun, 09 Nov 2025 10:26:55 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251109102655E504</guid>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>[SKIP 3] Sky News launches Money newsletter from award-winning team</title>
-      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=202511091030F992</link>
-      <description><![CDATA[Sky News has introduced a new Money newsletter designed to help readers better understand personal finance, investment, and economic trends.]]></description>
-      <pubDate>Sun, 09 Nov 2025 10:30:00 +0000</pubDate>
-      <guid isPermaLink="false">skynews-money-202511091030F992</guid>
+      <title>[SKIP 3] Sky News launches new Money newsletter from award-winning team</title>
+      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251109102940F225</link>
+      <description><![CDATA[Sky News has launched a new Money newsletter offering insights into finance, markets, and personal wealth management.]]></description>
+      <pubDate>Sun, 09 Nov 2025 10:29:40 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251109102940F225</guid>
     </item>
 
   </channel>
