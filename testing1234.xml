@@ -1,66 +1,64 @@
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Filter Test Feed – 20251109103032Z842</title>
-    <link>https://example.com/testfeed?t=20251109103032Z842</link>
+    <title>SkyLearn Filter Test Feed – 20251109113244J382</title>
+    <link>https://example.com/testfeed?t=20251109113244J382</link>
     <description>Feed for testing Zapier filter logic.</description>
     <language>en-gb</language>
 
     <!-- PASS 1 -->
     <item>
-      <title>[PASS 1] UK Data Regulator to relocate HQ to Manchester in major office move</title>
-      <link>https://www.uktech.news/tech-hubs/north-west/manchester/uk-data-regulator-ico-to-relocate-hq-to-manchester-20250602?t=20251109103032A941</link>
-      <description><![CDATA[The UK Information Commissioner's Office confirmed plans to relocate its headquarters to Manchester, expanding its regional presence and modernising its workspace for over 800 staff.]]></description>
-      <pubDate>Sun, 09 Nov 2025 10:30:32 +0000</pubDate>
-      <guid isPermaLink="false">pass1-20251109103032A941</guid>
+      <title>[PASS 1] Tech firm opens new London headquarters as part of major expansion</title>
+      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251109113244L177</link>
+      <description><![CDATA[A leading technology company has opened a new headquarters in central London to accommodate its growing workforce and future expansion plans.]]></description>
+      <pubDate>Sun, 09 Nov 2025 11:32:44 +0000</pubDate>
+      <guid isPermaLink="false">pass1-20251109113244L177</guid>
     </item>
 
     <!-- PASS 2 -->
     <item>
-      <title>[PASS 2] Howden announces relocation of local UK office to larger workspace</title>
-      <link>https://www.insurancetimes.co.uk/news/howden-announces-relocation-of-local-uk-office/1453635.article?t=20251109103517B225</link>
-      <description><![CDATA[Insurance broker Howden is relocating its regional office to a new 25,000 sq ft workspace to support growth and improved team collaboration.]]></description>
-      <pubDate>Sun, 09 Nov 2025 10:35:17 +0000</pubDate>
-      <guid isPermaLink="false">pass2-20251109103517B225</guid>
+      <title>[PASS 2] Insurance firm relocates its UK office to modern workspace in Leeds</title>
+      <link>https://www.insurancetimes.co.uk/news/howden-announces-relocation-of-local-uk-office/1453635.article?t=20251109113716M542</link>
+      <description><![CDATA[Howden Group has confirmed the relocation of its UK office to a 20,000 sq ft workspace in Leeds, supporting the company’s regional growth strategy.]]></description>
+      <pubDate>Sun, 09 Nov 2025 11:37:16 +0000</pubDate>
+      <guid isPermaLink="false">pass2-20251109113716M542</guid>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>[PASS 3] McDermott Will Emery plans Mayfair office move amid merger talks</title>
-      <link>https://www.globallegalpost.com/news/mcdemott-will-emery-plans-mayfair-office-move-amid-schulte-merger-talks-1352362015?t=20251109103952C512</link>
-      <description><![CDATA[Law firm McDermott Will Emery is preparing an office move to Mayfair, citing strategic alignment with its upcoming expansion and client-focused operations.]]></description>
-      <pubDate>Sun, 09 Nov 2025 10:39:52 +0000</pubDate>
-      <guid isPermaLink="false">pass3-20251109103952C512</guid>
+      <title>[PASS 3] UK regulator to relocate HQ from Wilmslow to Manchester city centre</title>
+      <link>https://www.uktech.news/tech-hubs/north-west/manchester/uk-data-regulator-ico-to-relocate-hq-to-manchester-20250602?t=20251109114159N908</link>
+      <description><![CDATA[The ICO has announced it will relocate its headquarters to Manchester city centre, citing improved accessibility and a modern office environment.]]></description>
+      <pubDate>Sun, 09 Nov 2025 11:41:59 +0000</pubDate>
+      <guid isPermaLink="false">pass3-20251109114159N908</guid>
     </item>
 
     <!-- SKIP 1 -->
     <item>
-      <title>[SKIP 1] Premier League sees record attendance as fans return post-pandemic</title>
-      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251109104436D774</link>
-      <description><![CDATA[The Premier League has recorded its highest-ever attendance figures, with stadiums across the country filled to capacity after three seasons of restrictions.]]></description>
-      <pubDate>Sun, 09 Nov 2025 10:44:36 +0000</pubDate>
-      <guid isPermaLink="false">skip1-20251109104436D774</guid>
+      <title>[SKIP 1] Premier League title race heats up after dramatic weekend matches</title>
+      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251109114628O473</link>
+      <description><![CDATA[This weekend’s fixtures have reignited the Premier League title race as top clubs delivered thrilling performances across multiple stadiums.]]></description>
+      <pubDate>Sun, 09 Nov 2025 11:46:28 +0000</pubDate>
+      <guid isPermaLink="false">skip1-20251109114628O473</guid>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>[SKIP 2] Kim Kardashian reveals health scare after suspected brain aneurysm</title>
-      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251109104928E359</link>
-      <description><![CDATA[Kim Kardashian spoke publicly for the first time about her health scare after doctors ruled out a brain aneurysm during a routine check-up.]]></description>
-      <pubDate>Sun, 09 Nov 2025 10:49:28 +0000</pubDate>
-      <guid isPermaLink="false">skip2-20251109104928E359</guid>
+      <title>[SKIP 2] Wired reviews new AI-powered browser features for online navigation</title>
+      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251109115054P712</link>
+      <description><![CDATA[Wired explores how AI is transforming web browsing with context-aware assistants designed to enhance search and personal productivity.]]></description>
+      <pubDate>Sun, 09 Nov 2025 11:50:54 +0000</pubDate>
+      <guid isPermaLink="false">skip2-20251109115054P712</guid>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>[SKIP 3] Wired explores new AI features in web browsers to guide online experiences</title>
-      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251109105402F188</link>
-      <description><![CDATA[Wired reviews how modern web browsers are adopting AI-based tools that act as interactive guides for everyday browsing.]]></description>
-      <pubDate>Sun, 09 Nov 2025 10:54:02 +0000</pubDate>
-      <guid isPermaLink="false">skip3-20251109105402F188</guid>
+      <title>[SKIP 3] Kim Kardashian discusses her recovery after recent health scare</title>
+      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251109115527Q301</link>
+      <description><![CDATA[Kim Kardashian shared her recovery journey after doctors ruled out a serious medical issue during her recent health evaluation.]]></description>
+      <pubDate>Sun, 09 Nov 2025 11:55:27 +0000</pubDate>
+      <guid isPermaLink="false">skip3-20251109115527Q301</guid>
     </item>
 
   </channel>
 </rss>
-```
