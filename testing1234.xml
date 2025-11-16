@@ -1,65 +1,63 @@
-```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Filter Test Feed – 20251116T231900Z</title>
-    <link>https://example.com/testfeed?t=20251116231900A512</link>
+    <title>SkyLearn Filter Test Feed – 20251116T232400Z</title>
+    <link>https://example.com/testfeed?t=20251116232400A771</link>
     <description>Feed for testing Zapier filter logic.</description>
 
     <!-- PASS 1 -->
     <item>
-      <title>[PASS 1] Logistics firm announces relocation of regional headquarters to larger workspace</title>
-      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251116231910B221</link>
-      <description><![CDATA[The organisation confirmed a full headquarters relocation to a site offering increased sq ft and upgraded lease terms.]]></description>
-      <pubDate>Sun, 16 Nov 2025 23:19:10 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251116231910B221</guid>
+      <title>[PASS 1] Major consultancy confirms relocation of its central headquarters to larger workspace</title>
+      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251116232410B552</link>
+      <description><![CDATA[The consultancy announced that its headquarters relocation will provide additional sq ft and upgraded facilities for staff.]]></description>
+      <pubDate>Sun, 16 Nov 2025 23:24:10 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251116232410B552</guid>
     </item>
 
     <!-- PASS 2 -->
     <item>
-      <title>[PASS 2] Tech developer secures new office lease to support product expansion</title>
-      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251116231920C909</link>
-      <description><![CDATA[Leaders stated the updated office leasing agreement provides additional workspace essential for upcoming expansion cycles.]]></description>
-      <pubDate>Sun, 16 Nov 2025 23:19:20 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251116231920C909</guid>
+      <title>[PASS 2] Software firm expands operations with a new office lease in central district</title>
+      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251116232420C833</link>
+      <description><![CDATA[The new office leasing agreement gives the team increased workspace and room for expansion initiatives.]]></description>
+      <pubDate>Sun, 16 Nov 2025 23:24:20 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251116232420C833</guid>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>[PASS 3] Data authority confirms relocation of its HQ to upgraded Manchester facility</title>
-      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251116231930D774</link>
-      <description><![CDATA[The authority highlighted that the new HQ will provide expanded workspace and improved sq ft capacity.]]></description>
-      <pubDate>Sun, 16 Nov 2025 23:19:30 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251116231930D774</guid>
+      <title>[PASS 3] Regulatory office confirms full relocation of its HQ to Manchester innovation hub</title>
+      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251116232430D119</link>
+      <description><![CDATA[The move will deliver modern workspace, improved sq ft capacity, and better access to specialised teams.]]></description>
+      <pubDate>Sun, 16 Nov 2025 23:24:30 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251116232430D119</guid>
     </item>
 
     <!-- SKIP 1 -->
     <item>
-      <title>[SKIP 1] Local court case gains attention after unusual digital evidence emerges</title>
-      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251116231940E332</link>
-      <description><![CDATA[Legal analysts discussed implications for future privacy and digital record handling.]]></description>
-      <pubDate>Sun, 16 Nov 2025 23:19:40 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251116231940E332</guid>
+      <title>[SKIP 1] Court proceedings spark renewed discussion about digital privacy practices</title>
+      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251116232440E901</link>
+      <description><![CDATA[Observers noted that the case highlights ongoing challenges in managing personal data and device records.]]></description>
+      <pubDate>Sun, 16 Nov 2025 23:24:40 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251116232440E901</guid>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>[SKIP 2] Health experts advise on new wellness strategies for seasonal changes</title>
-      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251116231950F147</link>
-      <description><![CDATA[Specialists encouraged improved routines for mental and physical wellbeing.]]></description>
-      <pubDate>Sun, 16 Nov 2025 23:19:50 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251116231950F147</guid>
+      <title>[SKIP 2] Wellness community sees growing interest in preventive lifestyle routines</title>
+      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251116232450F552</link>
+      <description><![CDATA[Experts noted that people are adopting more proactive habits to support long term health.]]></description>
+      <pubDate>Sun, 16 Nov 2025 23:24:50 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251116232450F552</guid>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>[SKIP 3] Technology hubs report rising interest from early stage founders</title>
-      <link>https://www.uktech.news/tech-hubs/north-west/manchester/uk-data-regulator-ico-to-relocate-hq-to-manchester-20250602?t=20251116232000G903</link>
-      <description><![CDATA[Community groups observed increased activity across incubators and innovation programmes.]]></description>
-      <pubDate>Sun, 16 Nov 2025 23:20:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251116232000G903</guid>
+      <title>[SKIP 3] Entertainment sector projects strong winter season as audiences return</title>
+      <link>https://www.uktech.news/tech-hubs/north-west/manchester/uk-data-regulator-ico-to-relocate-hq-to-manchester-20250602?t=20251116232500G447</link>
+      <description><![CDATA[Studios and venues anticipate a boost in attendance due to new releases and expanded programming.]]></description>
+      <pubDate>Sun, 16 Nov 2025 23:25:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251116232500G447</guid>
     </item>
 
   </channel>
 </rss>
-```
