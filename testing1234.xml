@@ -1,65 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Filter Test Feed - 20251109203000A321</title>
-    <link>https://example.com/testfeed?t=20251109203000A321</link>
+    <title>SkyLearn Filter Test Feed – 20251116T231200Z</title>
+    <link>https://example.com/testfeed?t=20251116231200A912</link>
     <description>Feed for testing Zapier filter logic.</description>
-    <language>en-gb</language>
-    <pubDate>Sun, 09 Nov 2025 20:30:00 +0000</pubDate>
-    <lastBuildDate>Sun, 09 Nov 2025 20:30:00 +0000</lastBuildDate>
 
     <!-- PASS 1 -->
     <item>
-      <title>[PASS 1] ICO confirms relocation of HQ to Manchester city centre office hub</title>
-      <link>https://www.uktech.news/tech-hubs/north-west/manchester/uk-data-regulator-ico-to-relocate-hq-to-manchester-20250602?t=20251109203001P1A1</link>
-      <description><![CDATA[The United Kingdom data regulator has announced the relocation of its headquarters to a new Manchester city centre office, securing long term workspace to support national growth.]]></description>
-      <pubDate>Sun, 09 Nov 2025 20:30:00 +0000</pubDate>
-      <guid isPermaLink="false">skylearn-20251109203001-PASS1-A1</guid>
+      <title>[PASS 1] Company announces new headquarters relocation to support wider expansion</title>
+      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251116231210B104</link>
+      <description><![CDATA[The firm confirmed a major relocation of its main headquarters, adding new workspace and additional sq ft to accommodate growth.]]></description>
+      <pubDate>Sun, 16 Nov 2025 23:12:10 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251116231210B104</guid>
     </item>
 
     <!-- PASS 2 -->
     <item>
-      <title>[PASS 2] Howden completes relocation of regional office to upgraded workspace</title>
-      <link>https://www.insurancetimes.co.uk/news/howden-announces-relocation-of-local-uk-office/1453635.article?t=20251109202800P2B3</link>
-      <description><![CDATA[Howden has relocated its regional team into a larger city office, increasing floorspace and modern workspace capacity to support continued headcount expansion.]]></description>
-      <pubDate>Sun, 09 Nov 2025 20:28:00 +0000</pubDate>
-      <guid isPermaLink="false">skylearn-20251109202800-PASS2-B3</guid>
+      <title>[PASS 2] Media group reveals office lease extension as part of future workspace strategy</title>
+      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251116231220C883</link>
+      <description><![CDATA[Leaders stated the office leasing agreement strengthens long term relocation plans and boosts available sq ft across the campus.]]></description>
+      <pubDate>Sun, 16 Nov 2025 23:12:20 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251116231220C883</guid>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>[PASS 3] McDermott Will Emery plans Mayfair office move for London headquarters expansion</title>
-      <link>https://www.globallegalpost.com/news/mcdemott-will-emery-plans-mayfair-office-move-amid-schulte-merger-talks-1352362015?t=20251109202600P3C7</link>
-      <description><![CDATA[McDermott Will Emery has outlined plans to move into a new Mayfair office, aligning its London headquarters presence with projected partner and associate expansion.]]></description>
-      <pubDate>Sun, 09 Nov 2025 20:26:00 +0000</pubDate>
-      <guid isPermaLink="false">skylearn-20251109202600-PASS3-C7</guid>
+      <title>[PASS 3] National regulator confirms relocation of central HQ to modern Manchester workspace</title>
+      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251116231230D552</link>
+      <description><![CDATA[The regulatory body highlighted that the new HQ offers expanded sq ft and updated facilities to support operational readiness.]]></description>
+      <pubDate>Sun, 16 Nov 2025 23:12:30 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251116231230D552</guid>
     </item>
 
     <!-- SKIP 1 -->
     <item>
-      <title>[SKIP 1] BBC feature explores weekend culture trends across major cities</title>
-      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251109202400S1D9</link>
-      <description><![CDATA[A lifestyle feature reviewing entertainment, television releases, travel ideas and food trends, with no reference to commercial property offices, leases or relocations.]]></description>
-      <pubDate>Sun, 09 Nov 2025 20:24:00 +0000</pubDate>
-      <guid isPermaLink="false">skylearn-20251109202400-SKIP1-D9</guid>
+      <title>[SKIP 1] New browser tour feature introduces guided exploration for online readers</title>
+      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251116231240E731</link>
+      <description><![CDATA[Developers unveiled a tool designed for simpler discovery and improved digital navigation for everyday users.]]></description>
+      <pubDate>Sun, 16 Nov 2025 23:12:40 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251116231240E731</guid>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>[SKIP 2] Sky launches new money newsletter focused on savings and consumer tips</title>
-      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251109202200S2E4</link>
-      <description><![CDATA[A consumer newsletter launch covering mortgages, prices and savings guidance, with no specific office moves, leases or headquarters relocation events.]]></description>
-      <pubDate>Sun, 09 Nov 2025 20:22:00 +0000</pubDate>
-      <guid isPermaLink="false">skylearn-20251109202200-SKIP2-E4</guid>
+      <title>[SKIP 2] Health report highlights rising awareness of early screening practices</title>
+      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251116231250F219</link>
+      <description><![CDATA[Experts recommend expanded access to preventative testing and improved public education.]]></description>
+      <pubDate>Sun, 16 Nov 2025 23:12:50 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251116231250F219</guid>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>[SKIP 3] Browser update introduces AI tour guide for safer web discovery</title>
-      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251109202000S3F6</link>
-      <description><![CDATA[A detailed look at new browser features that provide interactive guidance for users, with no mention of workspace expansion, leases or corporate relocation.]]></description>
-      <pubDate>Sun, 09 Nov 2025 20:20:00 +0000</pubDate>
-      <guid isPermaLink="false">skylearn-20251109202000-SKIP3-F6</guid>
+      <title>[SKIP 3] Retail sector reports optimistic seasonal forecast across multiple regions</title>
+      <link>https://www.uktech.news/tech-hubs/north-west/manchester/uk-data-regulator-ico-to-relocate-hq-to-manchester-20250602?t=20251116231300G804</link>
+      <description><![CDATA[Market analysts noted stronger than expected demand trends ahead of the winter period.]]></description>
+      <pubDate>Sun, 16 Nov 2025 23:13:00 +0000</pubDate>
+      <guid isPermaLink="false">guid-20251116231300G804</guid>
     </item>
 
   </channel>
