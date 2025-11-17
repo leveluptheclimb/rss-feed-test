@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>SkyLearn Filter Test Feed – 20251116T235100Z</title>
-    <link>https://example.com/testfeed?t=20251116235100A771</link>
+    <title>SkyLearn Filter Test Feed 20251117134510R3Q6</title>
+    <link>https://example.com/testfeed?t=20251117134510R3Q6</link>
     <description>Feed for testing Zapier filter logic.</description>
 
     <!-- PASS 1 -->
     <item>
-      <title>[PASS 1] Technology integrator announces relocation of headquarters to expanded workspace</title>
-      <link>https://www.bbc.co.uk/news/articles/cn97vdpv13wo?t=20251116235110B662</link>
-      <description><![CDATA[Leaders confirmed that the headquarters relocation will provide increased sq ft, upgraded layout and improved collaboration areas.]]></description>
-      <pubDate>Sun, 16 Nov 2025 23:51:10 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251116235110B662</guid>
+      <title>[PASS 1] Sky News evaluates workspace expansion to increase production output</title>
+      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251117134525T8M4</link>
+      <description><![CDATA[Editorial leads reviewed workspace expansion ideas linked to higher content volume.]]></description>
+      <pubDate>Mon, 17 Nov 2025 13:45:25 +0000</pubDate>
+      <guid isPermaLink="false">pass1-20251117134525T8M4</guid>
     </item>
 
     <!-- PASS 2 -->
     <item>
-      <title>[PASS 2] Engineering firm secures new office lease to support major expansion plan</title>
-      <link>https://news.sky.com/story/sky-news-launches-money-newsletter-from-award-winning-team-13367142?t=20251116235120C551</link>
-      <description><![CDATA[The new office leasing agreement will increase workspace availability and create capacity for larger project teams.]]></description>
-      <pubDate>Sun, 16 Nov 2025 23:51:20 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251116235120C551</guid>
+      <title>[PASS 2] UK regulator moves ahead with HQ relocation to Manchester</title>
+      <link>https://www.uktech.news/tech-hubs/north-west/manchester/uk-data-regulator-ico-to-relocate-hq-to-manchester-20250602?t=20251117134535C9B7</link>
+      <description><![CDATA[The authority confirmed progress on HQ relocation with office improvements planned.]]></description>
+      <pubDate>Mon, 17 Nov 2025 13:45:35 +0000</pubDate>
+      <guid isPermaLink="false">pass2-20251117134535C9B7</guid>
     </item>
 
     <!-- PASS 3 -->
     <item>
-      <title>[PASS 3] UK authority completes HQ relocation to upgraded Manchester site</title>
-      <link>https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/?t=20251116235130D993</link>
-      <description><![CDATA[The new HQ provides expanded sq ft, modern workspace zones and improved operational flow.]]></description>
-      <pubDate>Sun, 16 Nov 2025 23:51:30 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251116235130D993</guid>
+      <title>[PASS 3] Insurance group details office relocation steps alongside new lease structure</title>
+      <link>https://www.insurancetimes.co.uk/news/howden-announces-relocation-of-local-uk-office/1453635.article?t=20251117134545Q4H1</link>
+      <description><![CDATA[Leaders outlined relocation logistics and confirmed updates to upcoming lease terms.]]></description>
+      <pubDate>Mon, 17 Nov 2025 13:45:45 +0000</pubDate>
+      <guid isPermaLink="false">pass3-20251117134545Q4H1</guid>
     </item>
 
     <!-- SKIP 1 -->
     <item>
-      <title>[SKIP 1] Digital privacy debate grows after new testimony enters court record</title>
-      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court/?t=20251116235140E338</link>
-      <description><![CDATA[Observers noted that the hearing has prompted renewed discussion about personal data handling and device security expectations.]]></description>
-      <pubDate>Sun, 16 Nov 2025 23:51:40 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251116235140E338</guid>
+      <title>[SKIP 1] Court examines disputed digital photos in London trader case</title>
+      <link>https://www.cityam.com/the-compromising-ipad-photos-that-dragged-a-london-quant-trader-to-court?t=20251117134555M1S8</link>
+      <description><![CDATA[Court staff reviewed material presented by both sides of the dispute.]]></description>
+      <pubDate>Mon, 17 Nov 2025 13:45:55 +0000</pubDate>
+      <guid isPermaLink="false">skip1-20251117134555M1S8</guid>
     </item>
 
     <!-- SKIP 2 -->
     <item>
-      <title>[SKIP 2] New research highlights rising interest in stable daily health routines</title>
-      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251116235150F441</link>
-      <description><![CDATA[Analysts suggested that small consistent habits may improve wellbeing outcomes over longer periods.]]></description>
-      <pubDate>Sun, 16 Nov 2025 23:51:50 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251116235150F441</guid>
+      <title>[SKIP 2] Specialists discuss reported symptoms noted in celebrity health update</title>
+      <link>https://www.nytimes.com/2025/10/23/well/kim-kardashian-brain-aneurysm.html?t=20251117134605P7F3</link>
+      <description><![CDATA[Medical experts commented on the indicators highlighted in the latest report.]]></description>
+      <pubDate>Mon, 17 Nov 2025 13:46:05 +0000</pubDate>
+      <guid isPermaLink="false">skip2-20251117134605P7F3</guid>
     </item>
 
     <!-- SKIP 3 -->
     <item>
-      <title>[SKIP 3] Entertainment sector expects strong winter performance as audience demand rises</title>
-      <link>https://www.uktech.news/tech-hubs/north-west/manchester/uk-data-regulator-ico-to-relocate-hq-to-manchester-20250602?t=20251116235200G882</link>
-      <description><![CDATA[Studios reported early momentum in ticket sales and streaming previews ahead of seasonal releases.]]></description>
-      <pubDate>Sun, 16 Nov 2025 23:52:00 +0000</pubDate>
-      <guid isPermaLink="false">guid-20251116235200G882</guid>
+      <title>[SKIP 3] Legal firm reviews merger considerations during internal discussion</title>
+      <link>https://www.globallegalpost.com/news/mcdemott-will-emery-plans-mayfair-office-move-amid-schulte-merger-talks-1352362015?t=20251117134615D6L4</link>
+      <description><![CDATA[Partners evaluated long term direction in light of market conditions.]]></description>
+      <pubDate>Mon, 17 Nov 2025 13:46:15 +0000</pubDate>
+      <guid isPermaLink="false">skip3-20251117134615D6L4</guid>
     </item>
 
   </channel>
