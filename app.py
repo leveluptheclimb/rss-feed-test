@@ -10,12 +10,15 @@ def serve_root_feed():
         return send_from_directory(".", "feed.xml", mimetype="application/rss+xml")
     return Response("feed.xml not found", status=404)
 
-# Serve any other XML file by direct URL, e.g. /feedv2.xml
 @app.route("/<path:filename>")
 def serve_any_xml(filename):
-    if filename.endswith(".xml") and os.path.exists(filename):
-        return send_from_directory(".", filename, mimetype="application/rss+xml")
+    """Serve any .xml file in the same folder as app.py, regardless of working dir."""
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    file_path = os.path.join(base_dir, filename)
+    if filename.endswith(".xml") and os.path.exists(file_path):
+        return send_from_directory(base_dir, filename, mimetype="application/rss+xml")
     return Response("File not found", status=404)
+
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 10000)))
