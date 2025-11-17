@@ -18,6 +18,12 @@ def serve_any_xml(filename):
     if filename.endswith(".xml") and os.path.exists(file_path):
         return send_from_directory(base_dir, filename, mimetype="application/rss+xml")
     return Response("File not found", status=404)
+    
+@app.route("/whereami")
+def whereami():
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    files = os.listdir(base_dir)
+    return f"Current directory: {base_dir}<br>Files: {', '.join(files)}"
 
 
 if __name__ == "__main__":
